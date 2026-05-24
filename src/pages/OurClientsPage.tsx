@@ -4,19 +4,6 @@ import { Section } from '@/components/ui/Section';
 import { Heading } from '@/components/ui/Heading';
 import { Link } from 'react-router-dom';
 
-const masterDevelopers = [
-  { name: 'Sobha Realty', desc: 'Luxury real estate developer known for creating ultra-premium communities like Sobha Hartland.' },
-  { name: 'Danube Properties', desc: 'One of the fastest-growing developers in the UAE, famous for premium affordable housing.' },
-  { name: 'Emaar Properties', desc: 'The visionary master developer behind Downtown Dubai, Dubai Marina, and Emirates Living.' },
-  { name: 'Nakheel', desc: 'World-renowned master developer of the iconic Palm Jumeirah and Jumeirah Islands.' },
-  { name: 'DAMAC Properties', desc: 'Global luxury real estate developer with a massive footprint in Dubai Marina and DAMAC Hills.' },
-  { name: 'Select Group', desc: 'One of the largest and most successful private developers operating in Dubai Marina.' },
-  { name: 'Omniyat', desc: 'An ultra-luxury developer renowned for architectural masterpieces in Palm Jumeirah and Business Bay.' },
-  { name: 'Meraas', desc: 'The creative force behind vibrant destinations like Bluewaters Island, City Walk, and Jumeira Bay.' },
-  { name: 'Ellington Properties', desc: 'A boutique luxury developer highly sought after by Western expats for design-led residences.' },
-  { name: 'Azizi Developments', desc: 'A major residential developer managing large-scale, premium projects across Meydan and Palm Jumeirah.' }
-];
-
 const row1Clients = [
   { name: 'ALEC Engineering', logo: '/images/ALEC.png' },
   { name: 'Orascom Construction', fontClass: 'font-serif text-2xl md:text-3xl font-bold tracking-tight text-slate-800' },
@@ -46,53 +33,48 @@ const row3Clients = [
   { name: 'Alec Support Services', fontClass: 'font-sans text-2xl md:text-3xl font-bold text-blue-800' },
 ];
 
-const realtors = [
-  { name: 'Allsopp & Allsopp', desc: 'Massive British-owned brokerage dominating property management in Marina and Downtown.' },
-  { name: 'haus & haus', desc: 'Highly popular with UK expats; specialists in Emirates Living and luxury villa communities.' },
-  { name: 'Driven Properties', desc: 'Ultra-luxury specialists managing exclusive properties on Palm Jumeirah and Bulgari Island.' },
-  { name: 'fäm Properties', desc: 'One of Dubai\'s largest tech-driven realtors managing vast portfolios in Downtown and Marina.' },
-  { name: 'Betterhomes', desc: 'The oldest UAE brokerage operating a massive, highly active property maintenance and management wing.' },
-  { name: 'Engel & Völkers Dubai', desc: 'Premium European brokerage handling bespoke requirements for ultra-luxury clients.' },
-  { name: 'Espace Real Estate', desc: 'Renowned specialists in high-end communities like Emirates Hills, Marina, and Jumeirah Islands.' },
-  { name: 'LuxuryProperty.com', desc: 'Boutique UHNW brokerage focusing entirely on prime areas like Palm Jumeirah and Emirates Hills.' },
-  { name: 'D&B Properties', desc: 'A major firm with a heavy focus on managing properties in Dubai Marina, Palm Jumeirah, and Downtown.' },
-  { name: 'AX CAPITAL', desc: 'A fast-growing, high-end luxury real estate agency based in the heart of Dubai Marina.' }
+const stats = [
+  { value: '20+', label: 'Years in the Industry' },
+  { value: '1,000+', label: 'Clients Served Across the UAE' },
+  { value: '7 Days', label: 'Service & Support' },
 ];
+
+const metaTitle = 'Our Clients | Trusted by 1,000+ Companies Across Dubai & UAE | Fast Line';
+const metaDescription = 'For over 20 years, Fast Line has been the trusted equipment rental partner for more than 1,000 construction, contracting, and industrial companies across Dubai and the UAE.';
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'AboutPage',
+  name: 'Our Clients - Fast Line Building Equipment Rental',
+  description: metaDescription,
+  about: {
+    '@type': 'LocalBusiness',
+    name: 'Fast Line Building Equipment Rental L.L.C',
+    foundingDate: '2004',
+    numberOfEmployees: '50',
+    address: {
+      '@type': 'PostalAddress',
+      streetAddress: 'Adeem Building, Dubai 44 Street, Al Quoz Third',
+      addressLocality: 'Dubai',
+      addressCountry: 'AE',
+    },
+  },
+};
 
 export default function OurClientsPage() {
   return (
     <RootLayout
       meta={{
-        title: 'Our Trusted Clients | Fast Line Building Equipment Rental',
-        description: 'Discover the industry-leading construction, master developers, and engineering firms across the UAE who trust Fast Line Building Equipment Rental.',
+        title: metaTitle,
+        description: metaDescription,
         canonicalPath: '/our-clients',
         ogImage: '/images/og-home.jpg',
       }}
+      jsonLd={jsonLd}
     >
-      <style dangerouslySetInnerHTML={{__html: `
-        @keyframes marquee-infinite {
-          0% { transform: translateX(0%); }
-          100% { transform: translateX(-50%); }
-        }
-        .animate-marquee {
-          animation: marquee-infinite 45s linear infinite;
-          display: flex;
-          width: max-content;
-        }
-        .animate-marquee:hover {
-          animation-play-state: paused;
-        }
-        .animate-marquee-reverse {
-          animation: marquee-infinite 45s linear infinite reverse;
-          display: flex;
-          width: max-content;
-        }
-        .animate-marquee-reverse:hover {
-          animation-play-state: paused;
-        }
-      `}} />
+      <style dangerouslySetInnerHTML={{ __html: `@keyframes marquee-infinite{0%{transform:translateX(0)}100%{transform:translateX(-50%)}}.animate-marquee{animation:marquee-infinite 45s linear infinite;display:flex;width:max-content}.animate-marquee:hover{animation-play-state:paused}.animate-marquee-reverse{animation:marquee-infinite 45s linear infinite reverse;display:flex;width:max-content}.animate-marquee-reverse:hover{animation-play-state:paused}` }} />
 
-      {/* Banner Image */}
+      {/* Hero Banner */}
       <div className="relative w-full min-h-[40vh] md:min-h-[50vh] overflow-hidden flex items-center justify-center">
         <div className="absolute inset-0 bg-navy-900">
           <div className="absolute inset-0 bg-gradient-to-r from-navy-900/95 via-navy-900/80 to-transparent z-10" />
@@ -105,13 +87,13 @@ export default function OurClientsPage() {
         <div className="relative z-20 w-full px-6 sm:px-8 lg:px-12 mt-8 md:mt-0">
           <div className="max-w-[1400px] mx-auto text-center lg:text-left">
             <span className="inline-block rounded-full border border-brand-500/30 bg-brand-500/10 px-4 py-1.5 text-sm font-medium text-brand-400 backdrop-blur-sm mb-4">
-              TRUSTED PARTNERS
+              TRUSTED BY 1,000+ COMPANIES
             </span>
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-white uppercase tracking-tight">
               Our Clients
             </h1>
             <p className="mt-6 text-lg text-navy-200 max-w-2xl mx-auto lg:mx-0 font-light leading-relaxed">
-              We are proud to supply equipment to the visionaries building Dubai. From ultra-luxury master developers to the largest heavy-construction contractors in the UAE.
+              For over two decades, Fast Line has been the go-to equipment rental partner for construction firms, master developers, engineering companies, and industrial operators across Dubai and the UAE. More than a thousand clients trust us for reliable machinery, on-time delivery, and expert service.
             </p>
           </div>
         </div>
@@ -122,9 +104,7 @@ export default function OurClientsPage() {
         <Container className="py-4">
           <nav aria-label="Breadcrumb">
             <ol className="flex flex-wrap items-center gap-2 text-sm text-navy-500">
-              <li>
-                <Link to="/" className="hover:text-navy-900 hover:underline">Home</Link>
-              </li>
+              <li><Link to="/" className="hover:text-navy-900 hover:underline">Home</Link></li>
               <li><span aria-hidden="true">/</span></li>
               <li className="font-medium text-navy-900">Our Clients</li>
             </ol>
@@ -132,60 +112,66 @@ export default function OurClientsPage() {
         </Container>
       </div>
 
-      {/* Category 1: Master Developers */}
-      <Section className="bg-background-light py-20">
+      {/* Stats Strip */}
+      <Section className="bg-white border-b border-border-light py-12">
         <Container>
-          <div className="mb-12">
-            <span className="text-brand-600 font-bold uppercase tracking-wider text-sm">[Left for SEO Optimized]</span>
-            <Heading level={2} className="text-navy-900 mt-2 text-3xl md:text-4xl">
-              Master Developers
-            </Heading>
-            <p className="mt-4 text-navy-600 max-w-3xl text-lg leading-relaxed">
-              These are the giants building the communities in Dubai's most affluent areas. We provide the essential groundwork equipment and power solutions to support their luxury and high-end residential developments.
-            </p>
-          </div>
-          
-          <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
-            {masterDevelopers.map((dev, idx) => (
-              <div key={idx} className="group bg-white rounded-2xl p-8 border border-border-light hover:border-brand-300 shadow-sm hover:shadow-[0_20px_40px_-15px_rgba(0,0,0,0.1)] transition-all duration-300 hover:-translate-y-1 relative overflow-hidden">
-                <div className="absolute top-0 left-0 w-1.5 h-full bg-brand-500 transform origin-top scale-y-0 group-hover:scale-y-100 transition-transform duration-300"></div>
-                <div className="w-12 h-12 rounded-xl bg-navy-50 text-navy-400 mb-6 flex items-center justify-center group-hover:bg-brand-50 group-hover:text-brand-600 transition-colors">
-                  <svg className="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m14 0h2m-2 0h-5m-9 0H3m2 0h5M9 7h1m-1 4h1m4-4h1m-1 4h1m-5 10v-5a1 1 0 011-1h2a1 1 0 011 1v5m-4 0h4" />
-                  </svg>
+          <div className="grid grid-cols-1 sm:grid-cols-3 gap-6">
+            {stats.map((stat) => (
+              <div key={stat.label} className="text-center">
+                <div className="text-3xl md:text-4xl font-extrabold text-brand-500 tracking-tight">
+                  {stat.value}
                 </div>
-                <h3 className="text-xl font-bold text-navy-900 mb-3">{dev.name}</h3>
-                <p className="text-sm text-navy-600 leading-relaxed">{dev.desc}</p>
+                <p className="mt-2 text-sm text-navy-500 font-medium leading-relaxed">
+                  {stat.label}
+                </p>
               </div>
             ))}
           </div>
         </Container>
       </Section>
 
-      {/* Category 2: Construction & Contracting Firms (Slider) */}
-      <Section className="bg-white py-24 border-y border-border-light overflow-hidden">
-        <Container className="mb-12">
-          <span className="text-brand-600 font-bold uppercase tracking-wider text-sm">[Left for SEO Optimized]</span>
-          <Heading level={2} className="text-navy-900 mt-2 text-3xl md:text-4xl">
-            Top Construction & Contracting Firms
+      {/* Content Section — Our Story */}
+      <Section className="bg-background-light py-20">
+        <Container>
+          <div className="max-w-4xl mx-auto text-center">
+            <Heading level={2} className="text-3xl md:text-4xl font-bold text-navy-900 tracking-tight">
+              Over Two Decades of Trusted Equipment Rental
+            </Heading>
+            <p className="mt-6 text-lg text-navy-600 leading-relaxed">
+              Since our founding, Fast Line has grown from a small local supplier into one of Dubai's most relied-upon equipment rental companies. We've built our reputation on three principles: quality machinery, honest pricing, and a genuine commitment to our clients' success. Whether it's a multinational contractor delivering a landmark project or a local fit-out team renovating a villa, we treat every client with the same urgency and care.
+            </p>
+            <p className="mt-4 text-lg text-navy-600 leading-relaxed">
+              Today, we serve over a thousand active clients across the UAE — from master developers shaping Dubai's skyline to specialist subcontractors, facility management teams, and event organisers. Our fleet spans 21 equipment categories with hundreds of machines in rotation, supported by a dedicated team of technicians, drivers, and service coordinators who ensure your equipment arrives on time and works as promised.
+            </p>
+            <p className="mt-4 text-lg text-navy-600 leading-relaxed">
+              The names scrolling below represent a small sample of the organisations that have placed their trust in us. We're proud of every relationship we've built and look forward to serving many more clients in the years ahead — continuing to set the standard for equipment rental across Dubai and the UAE.
+            </p>
+          </div>
+        </Container>
+      </Section>
+
+      {/* Marquee Sliders — Industry Leaders We've Worked With */}
+      <Section className="bg-white py-16 border-y border-border-light overflow-hidden">
+        <Container className="mb-12 text-center">
+          <Heading level={2} className="text-3xl md:text-4xl font-bold text-navy-900 tracking-tight">
+            Industry Leaders We've Worked With
           </Heading>
-          <p className="mt-4 text-navy-600 max-w-3xl text-lg leading-relaxed">
-            The heavy hitters actually renting equipment and doing the building. These industry leaders have headquarters or major ongoing projects in DMCC, Marina, and JBR, relying on our equipment for their massive undertakings.
+          <p className="mt-4 text-navy-600 max-w-2xl mx-auto text-lg leading-relaxed">
+            A snapshot of the construction, contracting, and engineering firms who rely on Fast Line for their equipment needs across Dubai and the UAE. From landmark high-rise projects to major infrastructure works — our equipment has been there.
           </p>
         </Container>
 
-        {/* Marquee Sliders */}
         <div className="relative flex flex-col gap-6 w-full py-4">
-          <div className="absolute left-0 top-0 bottom-0 w-16 md:w-32 bg-gradient-to-r from-white to-transparent z-10 pointer-events-none"></div>
-          <div className="absolute right-0 top-0 bottom-0 w-16 md:w-32 bg-gradient-to-l from-white to-transparent z-10 pointer-events-none"></div>
-          
-          {/* Row 1 - Scrolls Right (Reverse) */}
+          <div className="absolute left-0 top-0 bottom-0 w-16 md:w-32 bg-gradient-to-r from-white to-transparent z-10 pointer-events-none" />
+          <div className="absolute right-0 top-0 bottom-0 w-16 md:w-32 bg-gradient-to-l from-white to-transparent z-10 pointer-events-none" />
+
+          {/* Row 1 */}
           <div className="animate-marquee-reverse">
             {[...row1Clients, ...row1Clients, ...row1Clients].map((client, idx) => (
               <div key={idx} className="flex items-center justify-center bg-white px-8 py-5 rounded-2xl border border-border-light mx-4 shadow-sm hover:shadow-md hover:border-brand-300 transition-all cursor-default min-w-max min-h-[90px]">
                 {client.logo ? (
                   <div className="h-12 w-auto flex items-center justify-center">
-                     <img src={client.logo} alt={client.name} className="max-w-[160px] max-h-full object-contain mix-blend-multiply" />
+                    <img src={client.logo} alt={client.name} className="max-w-[160px] max-h-full object-contain mix-blend-multiply" />
                   </div>
                 ) : (
                   <span className={`${client.fontClass}`}>{client.name}</span>
@@ -194,13 +180,13 @@ export default function OurClientsPage() {
             ))}
           </div>
 
-          {/* Row 2 - Scrolls Left (Normal) */}
+          {/* Row 2 */}
           <div className="animate-marquee">
             {[...row2Clients, ...row2Clients, ...row2Clients].map((client, idx) => (
               <div key={idx} className="flex items-center justify-center bg-white px-8 py-5 rounded-2xl border border-border-light mx-4 shadow-sm hover:shadow-md hover:border-brand-300 transition-all cursor-default min-w-max min-h-[90px]">
                 {client.logo ? (
                   <div className="h-12 w-auto flex items-center justify-center">
-                     <img src={client.logo} alt={client.name} className="max-w-[160px] max-h-full object-contain mix-blend-multiply" />
+                    <img src={client.logo} alt={client.name} className="max-w-[160px] max-h-full object-contain mix-blend-multiply" />
                   </div>
                 ) : (
                   <span className={`${client.fontClass}`}>{client.name}</span>
@@ -209,13 +195,13 @@ export default function OurClientsPage() {
             ))}
           </div>
 
-          {/* Row 3 - Scrolls Right (Reverse) */}
+          {/* Row 3 */}
           <div className="animate-marquee-reverse">
             {[...row3Clients, ...row3Clients, ...row3Clients].map((client, idx) => (
               <div key={idx} className="flex items-center justify-center bg-white px-8 py-5 rounded-2xl border border-border-light mx-4 shadow-sm hover:shadow-md hover:border-brand-300 transition-all cursor-default min-w-max min-h-[90px]">
                 {client.logo ? (
                   <div className="h-12 w-auto flex items-center justify-center">
-                     <img src={client.logo} alt={client.name} className="max-w-[160px] max-h-full object-contain mix-blend-multiply" />
+                    <img src={client.logo} alt={client.name} className="max-w-[160px] max-h-full object-contain mix-blend-multiply" />
                   </div>
                 ) : (
                   <span className={`${client.fontClass}`}>{client.name}</span>
@@ -226,35 +212,41 @@ export default function OurClientsPage() {
         </div>
       </Section>
 
-      {/* Category 3: High-End Realtors */}
-      <Section className="bg-background-light py-20">
-        <Container>
-          <div className="mb-12">
-            <span className="text-brand-600 font-bold uppercase tracking-wider text-sm">[Left for SEO Optimized]</span>
-            <Heading level={2} className="text-navy-900 mt-2 text-3xl md:text-4xl">
-              High-End Realtors & Property Management
-            </Heading>
-            <p className="mt-4 text-navy-600 max-w-3xl text-lg leading-relaxed">
-              Top real estate agencies in Dubai don't just sell homes; they have massive property management and interior fit-out divisions that frequently require reliable construction equipment for renovations in high-end expat areas.
-            </p>
-          </div>
+      {/* CTA Section */}
+      <Section className="py-24 bg-navy-900 relative overflow-hidden text-white">
+        <div className="absolute inset-0 opacity-10">
+          <svg className="h-full w-full" xmlns="http://www.w3.org/2000/svg">
+            <defs>
+              <pattern id="grid-pattern-clients" width="40" height="40" patternUnits="userSpaceOnUse">
+                <path d="M 40 0 L 0 0 0 40" fill="none" stroke="currentColor" strokeWidth="1" />
+              </pattern>
+            </defs>
+            <rect width="100%" height="100%" fill="url(#grid-pattern-clients)" />
+          </svg>
+        </div>
+        <div className="absolute right-0 top-0 w-1/2 h-full bg-gradient-to-l from-brand-600/20 to-transparent blur-[100px]" />
+        <div className="absolute left-0 bottom-0 w-1/3 h-full bg-gradient-to-r from-brand-500/10 to-transparent blur-[100px]" />
 
-          <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
-            {realtors.map((realtor, idx) => (
-              <div key={idx} className="group bg-white rounded-2xl p-8 border border-border-light hover:border-brand-300 shadow-sm hover:shadow-[0_20px_40px_-15px_rgba(0,0,0,0.1)] transition-all duration-300 hover:-translate-y-1 relative overflow-hidden">
-                <div className="absolute top-0 left-0 w-1.5 h-full bg-brand-500 transform origin-top scale-y-0 group-hover:scale-y-100 transition-transform duration-300"></div>
-                <div className="flex items-center justify-between mb-6">
-                  <div className="w-12 h-12 rounded-xl bg-navy-50 text-navy-400 flex items-center justify-center group-hover:bg-brand-50 group-hover:text-brand-600 transition-colors">
-                    <svg className="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M3 12l2-2m0 0l7-7 7 7M5 10v10a1 1 0 001 1h3m10-11l2 2m-2-2v10a1 1 0 01-1 1h-3m-6 0a1 1 0 001-1v-4a1 1 0 011-1h2a1 1 0 011 1v4a1 1 0 001 1m-6 0h6" />
-                    </svg>
-                  </div>
-                  <span className="text-xs font-bold text-navy-400 uppercase tracking-wider bg-navy-50 px-3 py-1 rounded-full group-hover:bg-brand-50 group-hover:text-brand-600 transition-colors">Partner</span>
-                </div>
-                <h3 className="text-xl font-bold text-navy-900 mb-3">{realtor.name}</h3>
-                <p className="text-sm text-navy-600 leading-relaxed">{realtor.desc}</p>
-              </div>
-            ))}
+        <Container className="text-center relative z-10">
+          <Heading level={2} className="text-4xl md:text-5xl font-bold text-white tracking-tight">
+            Join Our Growing List of Trusted Clients
+          </Heading>
+          <p className="mx-auto mt-6 max-w-2xl text-lg text-navy-200 font-light leading-relaxed">
+            Whether you need a single generator for a weekend job or a full fleet of equipment for a multi-year project, we're ready to deliver. Experience the Fast Line difference — quality machinery, free delivery, and a team that genuinely cares about your project.
+          </p>
+          <div className="mt-10 flex flex-col sm:flex-row gap-5 justify-center items-center">
+            <Link
+              to="/contact"
+              className="w-full sm:w-auto inline-flex items-center justify-center rounded-xl bg-brand-500 px-8 py-3.5 text-base font-bold text-navy-900 hover:bg-brand-400 transition-all shadow-[0_0_20px_rgba(255,193,7,0.3)] hover:shadow-[0_0_30px_rgba(255,193,7,0.5)] hover:-translate-y-1"
+            >
+              Become a Client
+            </Link>
+            <Link
+              to="/equipment"
+              className="w-full sm:w-auto inline-flex items-center justify-center rounded-xl border-2 border-white/30 bg-transparent px-8 py-3.5 text-base font-bold text-white hover:bg-white/10 transition-all hover:-translate-y-1"
+            >
+              Browse Equipment Fleet
+            </Link>
           </div>
         </Container>
       </Section>

@@ -29,7 +29,7 @@
   },
   {
     "label": "Repair Services",
-    "href": "/repair-services/generators",
+    "href": "/repair-services",
     "children": [
       { "label": "Generators Repair", "href": "/repair-services/generators" },
       { "label": "Compaction Equipment Repair", "href": "/repair-services/compaction" },

@@ -481,22 +481,18 @@ export default function HomePage() {
         {/* Bottom half with navy background and stats */}
         <div className="relative bg-navy-900 py-12 px-6 sm:px-8 lg:px-12 overflow-hidden">
           {/* Faint background image for the bottom bar too, optional, but solid navy is cleaner and closer to typical implementations */}
-          <div className="max-w-6xl mx-auto grid grid-cols-2 md:grid-cols-4 gap-8 md:gap-4 text-center">
-            <div className="flex flex-col items-center justify-center px-4 border-b md:border-b-0 md:border-r border-navy-700/50 pb-6 md:pb-0">
+          <div className="max-w-6xl mx-auto grid grid-cols-1 sm:grid-cols-3 gap-8 text-center">
+            <div className="flex flex-col items-center justify-center px-4 border-b sm:border-b-0 sm:border-r border-navy-700/50 pb-6 sm:pb-0">
               <span className="text-4xl md:text-5xl font-bold text-brand-500 mb-2">1.2k</span>
-              <span className="text-white text-sm md:text-base font-medium">Happy Client</span>
+              <span className="text-white text-sm md:text-base font-medium">Clients Served</span>
             </div>
-            <div className="flex flex-col items-center justify-center px-4 border-b md:border-b-0 md:border-r border-navy-700/50 pb-6 md:pb-0">
-              <span className="text-4xl md:text-5xl font-bold text-brand-500 mb-2">140+</span>
-              <span className="text-white text-sm md:text-base font-medium">Project Done</span>
-            </div>
-            <div className="flex flex-col items-center justify-center px-4 border-r-0 md:border-r border-navy-700/50">
-              <span className="text-4xl md:text-5xl font-bold text-brand-500 mb-2">89+</span>
-              <span className="text-white text-sm md:text-base font-medium">The Uptime</span>
+            <div className="flex flex-col items-center justify-center px-4 border-b sm:border-b-0 sm:border-r border-navy-700/50 pb-6 sm:pb-0">
+              <span className="text-4xl md:text-5xl font-bold text-brand-500 mb-2">150+</span>
+              <span className="text-white text-sm md:text-base font-medium">Projects Done</span>
             </div>
             <div className="flex flex-col items-center justify-center px-4">
-              <span className="text-4xl md:text-5xl font-bold text-brand-500 mb-2">12+</span>
-              <span className="text-white text-sm md:text-base font-medium">TP Award</span>
+              <span className="text-4xl md:text-5xl font-bold text-brand-500 mb-2">24/7</span>
+              <span className="text-white text-sm md:text-base font-medium">Support</span>
             </div>
           </div>
         </div>

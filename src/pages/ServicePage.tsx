@@ -45,21 +45,7 @@ const serviceConfigs: Record<string, ServiceConfig> = {
       { title: 'Inspection on Site', text: 'Quick inspection at pickup to ensure smooth return process.' },
     ],
   },
-  '/services/repair': {
-    title: 'Equipment Repair Services in Dubai & UAE | Generator & Scaffolding Repair | Fast Line',
-    h1: 'Equipment Repair Services',
-    description:
-      'Fast Line provides professional repair and maintenance services for all construction equipment. Our technicians service generators, compactors, welders, scaffolding, and all other equipment on-site across Dubai and Al Quoz, or at our Al Quoz workshop. We offer generator repair, scaffolding repair, compactor servicing, welder maintenance, and more.',
-    metaDescription:
-      'Professional equipment repair in Dubai & Al Quoz. Generator repair, scaffolding repair, compactor & welder servicing. On-site and workshop repairs. Best rates in the market. Call 056-5714999.',
-    image: '/images/repair-hero-bg.png',
-    features: [
-      { title: 'On-Site Repairs', text: 'Our technicians come to your construction site across Dubai and Al Quoz to minimize downtime.' },
-      { title: 'Workshop Service', text: 'Full workshop at our Al Quoz facility for major repairs, overhauls, and generator servicing.' },
-      { title: 'All Equipment Types', text: 'We repair generators, scaffolding, compactors, welders, light towers, air compressors, and more.' },
-      { title: 'Quick Response', text: 'Fast response times across Dubai to get your equipment back in operation.' },
-    ],
-  },
+
 };
 
 export default function ServicePage() {
@@ -211,7 +197,7 @@ export default function ServicePage() {
 
             {/* Right — Form */}
             <div className="bg-white rounded-2xl border border-border-light p-8 md:p-10 shadow-sm">
-              <HeroEnquiryForm source={location.pathname === '/services/delivery' ? 'DELIVERY PAGE' : location.pathname === '/services/pickup' ? 'PICKUP PAGE' : 'REPAIR PAGE'} />
+              <HeroEnquiryForm source={location.pathname === '/services/delivery' ? 'DELIVERY PAGE' : 'PICKUP PAGE'} />
             </div>
 
           </div>

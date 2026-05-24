@@ -20,6 +20,7 @@ const PrivacyPolicyPage = lazy(() => import('./pages/PrivacyPolicyPage'));
 const TermsPage = lazy(() => import('./pages/TermsPage'));
 const NotFoundPage = lazy(() => import('./pages/NotFoundPage'));
 const RepairServicePage = lazy(() => import('./pages/RepairServicePage'));
+const RepairServicesIndexPage = lazy(() => import('./pages/RepairServicesIndexPage'));
 const OurClientsPage = lazy(() => import('./pages/OurClientsPage'));
 
 const AppLayout = () => (
@@ -50,7 +51,7 @@ export const router = createBrowserRouter(
       <Route path="scaffolding-rental-dubai" element={<LocationPage />} />
       <Route path="services/delivery" element={<ServicePage />} />
       <Route path="services/pickup" element={<ServicePage />} />
-      <Route path="services/repair" element={<ServicePage />} />
+      <Route path="repair-services" element={<RepairServicesIndexPage />} />
       <Route path="repair-services/:categorySlug" element={<RepairServicePage />} />
       <Route path="privacy-policy" element={<PrivacyPolicyPage />} />
       <Route path="terms" element={<TermsPage />} />

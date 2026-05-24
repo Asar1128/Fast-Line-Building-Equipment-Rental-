@@ -75,7 +75,7 @@ export function Footer() {
                 /* { name: 'Delivery Service', path: '/services/delivery' },
                 { name: 'Pickup Service', path: '/services/pickup' },
                 { name: 'Repair & Maintenance', path: '/services/repair' }, */
-                { name: 'Equipment Repair', path: '/repair-services/generators' },
+                { name: 'Equipment Repair', path: '/repair-services' },
                 { name: 'Contact Us', path: '/contact' },
               ].map((link) => (
                 <li key={link.name}>
