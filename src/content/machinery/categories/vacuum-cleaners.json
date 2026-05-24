@@ -1,0 +1,124 @@
+{
+  "slug": "vacuum-cleaners",
+  "name": "Vacuum Cleaners",
+  "description": "Professional wet and dry vacuum cleaners for construction site cleanup, dust extraction, and industrial debris removal.",
+  "image": "/images/products/vacuum-cleaners-karcher-nt-70-2-me-classic-wet-dry-vacuum.webp",
+  "ogImage": "/images/products/vacuum-cleaners-karcher-nt-70-2-me-classic-wet-dry-vacuum.webp",
+  "canonicalPath": "/equipment/vacuum-cleaners",
+  "machines": [
+    {
+      "slug": "karcher-nt-70-2-me-classic-wet-dry-vacuum",
+      "name": "Kärcher NT 70/2 Me Classic Wet & Dry Vacuum",
+      "shortDescription": "Kärcher NT 70/2 Me wet and dry vacuum with 70 L tank and twin-motor suction. Semi-automatic filter cleaning for construction dust, water, and coarse debris extraction.",
+      "description": "Kärcher NT 70/2 Me wet and dry vacuum with 70 L tank and twin-motor suction. Semi-automatic filter cleaning for construction dust, water, and coarse debris extraction. Available for rent in Dubai with free delivery.",
+      "image": "/images/products/vacuum-cleaners-karcher-nt-70-2-me-classic-wet-dry-vacuum.webp",
+      "price": "Contact for Pricing",
+      "specifications": {
+        "Tank Capacity": "70 L",
+        "Airflow": "2 x 74 L/sec (148 L/sec total)",
+        "Vacuum": "254 mbar",
+        "Motor": "2 x 1.2 kW, 230V single-phase",
+        "Filter Type": "Flat pleated filter, M-class dust rated",
+        "Filter Cleaning": "Kärcher Tact semi-automatic pulse system",
+        "Operating Weight": "18 kg",
+        "Cable Length": "7.5 m",
+        "Hose": "4 m, 40 mm diameter",
+        "Sound Level": "72 dB(A)"
+      },
+      "features": [
+        "Twin 1.2 kW motors deliver 254 mbar suction — picks up bolts, rubble, and standing water",
+        "70 L tank with push-handle tilt mechanism empties without lifting or removing the motor head",
+        "Tact semi-automatic filter pulse cleans the flat pleated filter mid-operation — no stopping to shake",
+        "M-class dust rated filter captures 99.9% of construction dust including silica and concrete fines",
+        "4 m x 40 mm hose passes gravel and small rubble without clogging at hose bends",
+        "18 kg on large rear wheels and front castors — rolls over cables and uneven surfaces easily"
+      ],
+      "availability": "Available for Rent"
+    },
+    {
+      "slug": "makita-vc4210l-11-gallon-wet-dry-dust-extractor",
+      "name": "Makita VC4210L 11-Gallon Wet/Dry Dust Extractor",
+      "shortDescription": "Makita VC4210L 42 L wet/dry dust extractor with auto tool-start and HEPA filter. Designed for direct connection to grinders, saws, and concrete cutting tools.",
+      "description": "Makita VC4210L 42 L wet/dry dust extractor with auto tool-start and HEPA filter. Designed for direct connection to grinders, saws, and concrete cutting tools. Available for rent in Dubai with free delivery.",
+      "image": "/images/products/vacuum-cleaners-makita-vc4210l-11-gallon-wet-dry-dust-extractor.webp",
+      "price": "Contact for Pricing",
+      "specifications": {
+        "Tank Capacity": "42 L (11 gallon)",
+        "Airflow": "134 L/sec",
+        "Vacuum": "230 mbar",
+        "Motor": "1.2 kW, 230V single-phase",
+        "Filter": "HEPA certified, 99.97% at 0.3 microns",
+        "Auto Start": "Power tool socket with auto on/off and 15-sec run-on",
+        "Operating Weight": "15 kg",
+        "Hose": "3.5 m anti-static, 38 mm",
+        "Cable": "7.5 m"
+      },
+      "features": [
+        "Auto tool-start socket powers the grinder — vacuum starts and stops with the tool automatically",
+        "HEPA filter certification for silica dust compliance on construction and demolition sites",
+        "Anti-static hose prevents static shock when extracting fine dust from concrete grinding",
+        "42 L tank with fleece filter bag for dust-free disposal of hazardous construction waste",
+        "15-second run-on clears residual dust from the hose after the tool stops",
+        "Makita AWS Bluetooth connectivity for cordless tools with auto-start without the power socket"
+      ],
+      "availability": "Available for Rent"
+    },
+    {
+      "slug": "bosch-gas-35-m-afc-professional-dust-extractor",
+      "name": "Bosch GAS 35 M AFC Professional Dust Extractor",
+      "shortDescription": "Bosch GAS 35 M AFC dust extractor with automatic filter cleaning and 35 L tank. M-class certified for construction dust with continuous suction under heavy concrete and masonry dust load.",
+      "description": "Bosch GAS 35 M AFC dust extractor with automatic filter cleaning and 35 L tank. M-class certified for construction dust with continuous suction under heavy concrete and masonry dust load. Available for rent in Dubai with free delivery.",
+      "image": "/images/products/vacuum-cleaners-bosch-gas-35-m-afc-professional-dust-extractor.webp",
+      "price": "Contact for Pricing",
+      "specifications": {
+        "Tank Capacity": "35 L",
+        "Airflow": "74 L/sec",
+        "Vacuum": "254 mbar",
+        "Motor": "1.38 kW, 230V single-phase",
+        "Filter": "M-class flat pleated with AFC auto-clean",
+        "Filter Cleaning": "Automatic Filter Cleaning — 15 pulses/min",
+        "Operating Weight": "12 kg",
+        "Hose": "5 m anti-static, 35 mm",
+        "Tool Socket": "Auto-start with power tool detection"
+      },
+      "features": [
+        "AFC system pulses the filter every 15 seconds automatically — zero suction loss over a full shift",
+        "254 mbar sustained vacuum across the entire 35 L fill cycle on heavy concrete grinding dust",
+        "M-class certification permits use on Dubai Municipality and Trakhees regulated construction sites",
+        "Power tool socket with auto-start and delayed shutoff — no manual vacuum switching all day",
+        "12 kg with top-mounted carry handle — grab and go between floors on multi-storey projects",
+        "Bosch L-BOXX rack on top integrates tool and accessory storage with the vacuum unit"
+      ],
+      "availability": "Available for Rent"
+    },
+    {
+      "slug": "nilfisk-vl500-55-2-bdf-wet-and-dry-vacuum",
+      "name": "Nilfisk VL500 55-2 BDF Wet and Dry Vacuum",
+      "shortDescription": "Nilfisk VL500 55 L wet and dry industrial vacuum with twin motors. Built for heavy construction debris, flood water extraction, and large-volume industrial cleaning.",
+      "description": "Nilfisk VL500 55 L wet and dry industrial vacuum with twin motors. Built for heavy construction debris, flood water extraction, and large-volume industrial cleaning. Available for rent in Dubai with free delivery.",
+      "image": "/images/products/vacuum-cleaners-nilfisk-vl500-55-2-bdf-wet-and-dry-vacuum.webp",
+      "price": "Contact for Pricing",
+      "specifications": {
+        "Tank Capacity": "55 L",
+        "Airflow": "2 x 75 L/sec (150 L/sec total)",
+        "Vacuum": "245 mbar",
+        "Motor": "2 x 1.2 kW, 230V single-phase",
+        "Filter": "BDF bag + cartridge dual filtration",
+        "Filter Cleaning": "Manual push-button pulse clean",
+        "Operating Weight": "20 kg",
+        "Hose": "5 m crush-proof, 50 mm diameter",
+        "Drain": "Built-in hose drain for wet operation",
+        "Sound Level": "74 dB(A)"
+      },
+      "features": [
+        "Twin motor 150 L/sec airflow with 50 mm hose passes golf-ball-sized rubble",
+        "BDF bag + cartridge dual filtration system for zero-dust hazardous material collection",
+        "55 L tank with built-in drain hose empties standing water continuously during flood work",
+        "Manual push-button pulse clean clears the cartridge filter without opening the tank",
+        "Crush-proof 50 mm hose withstands being driven over by site vehicles without collapse",
+        "20 kg with heavy-duty castors and large rear wheels rolls over rough ground and curbs"
+      ],
+      "availability": "Available for Rent"
+    }
+  ]
+}

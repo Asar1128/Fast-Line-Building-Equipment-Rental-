@@ -1,0 +1,119 @@
+{
+  "slug": "steel-cutters",
+  "name": "Steel Cutters",
+  "description": "Heavy-duty steel bar cutting machines for construction rebar processing. Electric and hydraulic bar cutters for reinforced concrete preparation.",
+  "image": "/images/products/steel-cutters-toyo-tbc-32-heavy-duty-rebar-cutting-machine.webp",
+  "ogImage": "/images/products/steel-cutters-toyo-tbc-32-heavy-duty-rebar-cutting-machine.webp",
+  "canonicalPath": "/equipment/steel-cutters",
+  "machines": [
+    {
+      "slug": "toyo-tbc-32-heavy-duty-rebar-cutting-machine",
+      "name": "Toyo TBC-32 Heavy Duty Rebar Cutting Machine",
+      "shortDescription": "Toyo TBC-32 heavy-duty electric rebar cutter rated 32 mm. Japanese precision bar cutting for construction steel preparation with hardened shear blades and foot pedal control.",
+      "description": "Toyo TBC-32 heavy-duty electric rebar cutter rated 32 mm. Japanese precision bar cutting for construction steel preparation with hardened shear blades and foot pedal control. Available for rent in Dubai with free delivery.",
+      "image": "/images/products/steel-cutters-toyo-tbc-32-heavy-duty-rebar-cutting-machine.webp",
+      "price": "Contact for Pricing",
+      "specifications": {
+        "Max Bar Diameter": "32 mm (Grade 60)",
+        "Cutting Speed": "3 seconds per cut",
+        "Motor": "3.0 kW, 400V 3-phase",
+        "Blade Type": "Hardened alloy shear blades — 4 cutting edges",
+        "Operating Weight": "200 kg",
+        "Control": "Foot pedal with guard interlock",
+        "Bar Support": "Adjustable roller table included",
+        "Stroke": "40 mm hydraulic ram stroke"
+      },
+      "features": [
+        "4-edge hardened shear blades — rotate to a fresh edge when dull, replace after all 4 edges used",
+        "32 mm capacity cuts the heaviest rebar used in bridge piers and high-rise column reinforcement",
+        "Foot pedal control with guard interlock — both hands free for bar feeding and collection",
+        "Adjustable roller support table aligns bar height to the shear automatically for straight cuts",
+        "3-second cycle time at 32 mm means 20 bars per minute for efficient batch cutting operations",
+        "Toyo Japanese build with close-tolerance blade guide that eliminates burr formation on cut ends"
+      ],
+      "availability": "Available for Rent"
+    },
+    {
+      "slug": "alba-c-32-electric-steel-bar-cutter",
+      "name": "Alba C-32 Electric Steel Bar Cutter",
+      "shortDescription": "Alba C-32 electric steel bar cutter with 32 mm capacity. Italian-designed machine for construction rebar cutting with mechanical clutch drive and automatic bar hold-down.",
+      "description": "Alba C-32 electric steel bar cutter with 32 mm capacity. Italian-designed machine for construction rebar cutting with mechanical clutch drive and automatic bar hold-down. Available for rent in Dubai with free delivery.",
+      "image": "/images/products/steel-cutters-alba-c-32-electric-steel-bar-cutter.webp",
+      "price": "Contact for Pricing",
+      "specifications": {
+        "Max Bar Diameter": "32 mm",
+        "Cutting Speed": "2.5 seconds per cut",
+        "Motor": "3.0 kW, 400V 3-phase",
+        "Drive": "Mechanical clutch with flywheel energy storage",
+        "Operating Weight": "210 kg",
+        "Blade": "Single-edge replaceable shear blade",
+        "Hold-Down": "Automatic pneumatic bar clamp",
+        "Safety": "Transparent blade guard with interlock switch"
+      },
+      "features": [
+        "Mechanical clutch with flywheel stores inertial energy for clean 32 mm cuts without motor stall",
+        "Automatic pneumatic bar clamp engages as the blade descends — bar cannot shift during the cut",
+        "2.5-second cut cycle is 20% faster than hydraulic equivalents for high-volume bar preparation",
+        "Transparent blade guard allows the operator to see the cut alignment while maintaining safety",
+        "Italian Alba gearmotor with oil-bath lubrication for continuous-duty bar cutting shop operation",
+        "210 kg with integrated wheelset for rolling between bar storage racks and the cutting station"
+      ],
+      "availability": "Available for Rent"
+    },
+    {
+      "slug": "gocmaksan-h38-hydraulic-steel-cutting-machine",
+      "name": "Gocmaksan H38 Hydraulic Steel Cutting Machine",
+      "shortDescription": "Gocmaksan H38 hydraulic steel cutter rated 38 mm diameter. Turkish heavy-duty hydraulic machine for the largest rebar and round bar cutting in construction and steel yards.",
+      "description": "Gocmaksan H38 hydraulic steel cutter rated 38 mm diameter. Turkish heavy-duty hydraulic machine for the largest rebar and round bar cutting in construction and steel yards. Available for rent in Dubai with free delivery.",
+      "image": "/images/products/steel-cutters-gocmaksan-h38-hydraulic-steel-cutting-machine.webp",
+      "price": "Contact for Pricing",
+      "specifications": {
+        "Max Bar Diameter": "38 mm (Grade 60) / 42 mm (mild steel)",
+        "Cutting Force": "45 tonnes hydraulic",
+        "Motor": "4.0 kW, 400V 3-phase",
+        "Cutting Speed": "4 seconds per cut",
+        "Operating Weight": "310 kg",
+        "Blade": "Tungsten-carbide tipped shear blade",
+        "Hydraulic System": "2-stage pump with high-low pressure auto-switch",
+        "Cooling": "Oil cooler with thermostatic fan"
+      },
+      "features": [
+        "45 tonnes hydraulic cutting force at 38 mm — the highest-capacity bar cutter in the Fast Line fleet",
+        "2-stage hydraulic pump: rapid approach at low pressure, full 45 tonnes for the cutting stroke",
+        "Tungsten-carbide tipped blade lasts 5x longer than standard steel blades on high-tensile rebar",
+        "Oil cooler with thermostatic fan maintains hydraulic oil below 60°C in continuous production",
+        "310 kg floor-mounted with forklift pockets for positioning anywhere in the steel yard",
+        "38 mm capacity covers every rebar diameter specified in UAE structural engineering designs"
+      ],
+      "availability": "Available for Rent"
+    },
+    {
+      "slug": "hitachi-cc14sf-14-inch-high-speed-cut-off-saw",
+      "name": "Hitachi CC14SF 14-Inch High-Speed Cut-Off Saw",
+      "shortDescription": "Hitachi CC14SF 14-inch high-speed cut-off saw with 2,000W motor. Portable abrasive and diamond cutting for rebar, steel sections, pipes, and metal profiles on construction sites.",
+      "description": "Hitachi CC14SF 14-inch high-speed cut-off saw with 2,000W motor. Portable abrasive and diamond cutting for rebar, steel sections, pipes, and metal profiles on construction sites. Available for rent in Dubai with free delivery.",
+      "image": "/images/products/steel-cutters-hitachi-cc14sf-14-inch-high-speed-cut-off-saw.webp",
+      "price": "Contact for Pricing",
+      "specifications": {
+        "Blade Diameter": "355 mm (14 inch)",
+        "Motor": "2.0 kW, 230V single-phase",
+        "Speed": "3,800 RPM no-load",
+        "Max Cut Depth": "120 mm at 90°",
+        "Mitre Range": "0-45° adjustable fence",
+        "Operating Weight": "17 kg",
+        "Blade Type": "Abrasive cut-off or diamond (interchangeable)",
+        "Vice": "Quick-release cam-lock vice",
+        "Spark Guard": "Adjustable spark deflector shield"
+      },
+      "features": [
+        "355 mm blade with 120 mm depth cuts through 100 mm steel I-beams in a single pass",
+        "Quick-release cam-lock vice secures round, square, and angle stock without tool adjustment",
+        "2,000W motor with soft-start prevents the breaker popping that plagues direct-start abrasive saws",
+        "Adjustable 0-45° mitre fence for cutting angle iron bracing and pipe saddles on site",
+        "Interchangeable abrasive and diamond blades — switch from rebar to steel sections in 2 minutes",
+        "17 kg with carry handle — portable between column positions on multi-storey construction"
+      ],
+      "availability": "Available for Rent"
+    }
+  ]
+}

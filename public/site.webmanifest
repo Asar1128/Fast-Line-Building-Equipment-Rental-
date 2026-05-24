@@ -1,0 +1,21 @@
+{
+  "name": "Fast Line Building Equipment Rental",
+  "short_name": "Fast Line",
+  "description": "Construction equipment rental in Dubai, Sharjah & UAE. Generators, scaffolding, compactors, welders & more with free delivery.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0f172a",
+  "icons": [
+    {
+      "src": "/images/Browsericon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/Browsericon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "slug": "power-cables",
+  "name": "Power Cables",
+  "description": "Industrial power cables and extensions for construction site electrical distribution. Single-phase and 3-phase heavy-duty cable solutions from 16A to 63A.",
+  "image": "/images/products/power-cables-titanex-3g-2-5mm-single-phase-heavy-duty-extension-cable-16a.webp",
+  "ogImage": "/images/products/power-cables-titanex-3g-2-5mm-single-phase-heavy-duty-extension-cable-16a.webp",
+  "canonicalPath": "/equipment/power-cables",
+  "machines": [
+    {
+      "slug": "titanex-3g-2-5mm-single-phase-heavy-duty-extension-cable-16a",
+      "name": "Titanex 3G 2.5mm² Single Phase Heavy Duty Extension Cable (16A)",
+      "shortDescription": "Titanex 3G 2.5mm² single-phase 16A heavy-duty extension cable. H07RN-F rubber sheathed for construction site power distribution to tools, lights, and small equipment.",
+      "description": "Titanex 3G 2.5mm² single-phase 16A heavy-duty extension cable. H07RN-F rubber sheathed for construction site power distribution to tools, lights, and small equipment. Available for rent in Dubai with free delivery.",
+      "image": "/images/products/power-cables-titanex-3g-2-5mm-single-phase-heavy-duty-extension-cable-16a.webp",
+      "price": "Contact for Pricing",
+      "specifications": {
+        "Cable Type": "H07RN-F heavy-duty rubber",
+        "Conductors": "3G (3-core) — Live, Neutral, Earth",
+        "Cross Section": "2.5 mm² per core",
+        "Rated Current": "16A",
+        "Voltage": "230V single-phase",
+        "Length": "25 m standard",
+        "Connectors": "IP44 16A 230V CEE plug and socket",
+        "Outer Sheath": "Neoprene rubber, oil and abrasion resistant",
+        "Temp Range": "-25°C to +60°C"
+      },
+      "features": [
+        "H07RN-F rubber sheath rated for mechanical stress, oil, and weather — built for construction sites",
+        "2.5 mm² copper core maintains voltage under 5% drop at 25 m with 16A continuous draw",
+        "IP44 CEE industrial connectors twist-lock for a secure connection that cannot pull apart",
+        "25 m length covers a standard floor plate without needing a second extension",
+        "Neoprene sheath remains flexible at -25°C and does not soften at +60°C Gulf ambient",
+        "Colour-coded cores with numbered printing on the outer sheath for instant phase identification"
+      ],
+      "availability": "Available for Rent"
+    },
+    {
+      "slug": "mennekes-32a-3-phase-heavy-duty-extension-cable-400v",
+      "name": "Mennekes 32A 3-Phase Heavy Duty Extension Cable (400V)",
+      "shortDescription": "Mennekes 32A 3-phase heavy-duty extension cable 400V. 5G 6mm² H07RN-F rubber cable for tower crane, hoist, and large machinery power distribution on construction sites.",
+      "description": "Mennekes 32A 3-phase heavy-duty extension cable 400V. 5G 6mm² H07RN-F rubber cable for tower crane, hoist, and large machinery power distribution on construction sites. Available for rent in Dubai with free delivery.",
+      "image": "/images/products/power-cables-mennekes-32a-3-phase-heavy-duty-extension-cable-400v.webp",
+      "price": "Contact for Pricing",
+      "specifications": {
+        "Cable Type": "H07RN-F heavy-duty rubber",
+        "Conductors": "5G (5-core) — 3P+N+E",
+        "Cross Section": "6 mm² per core",
+        "Rated Current": "32A",
+        "Voltage": "400V 3-phase",
+        "Length": "25 m standard",
+        "Connectors": "IP44 32A 400V 5-pin CEE plug and socket",
+        "Outer Sheath": "Polychloroprene rubber",
+        "Temp Range": "-30°C to +60°C"
+      },
+      "features": [
+        "32A 3-phase delivers 22 kW at 25 m — enough to run a tower crane or construction hoist",
+        "Mennekes German-made CEE connectors with reinforced strain relief for daily connection cycles",
+        "6 mm² copper per core with less than 3% voltage drop at rated current over 25 m",
+        "5-pin CEE socket with pilot contact ensures equipment cannot start with incomplete connection",
+        "Polychloroprene rubber sheath resists welding spatter, hydraulic oil, and diesel fuel contact",
+        "Colour-coded cores to IEC 60446 with durable outer printing for circuit identification"
+      ],
+      "availability": "Available for Rent"
+    },
+    {
+      "slug": "walther-pro-63a-5-core-industrial-power-cable",
+      "name": "Walther Pro 63A 5-Core Industrial Power Cable",
+      "shortDescription": "Walther Pro 63A 5-core industrial power cable 400V. 5G 16mm² rubber cable for main site distribution boards, generator connections, and high-power machinery supply.",
+      "description": "Walther Pro 63A 5-core industrial power cable 400V. 5G 16mm² rubber cable for main site distribution boards, generator connections, and high-power machinery supply. Available for rent in Dubai with free delivery.",
+      "image": "/images/products/power-cables-walther-pro-63a-5-core-industrial-power-cable.webp",
+      "price": "Contact for Pricing",
+      "specifications": {
+        "Cable Type": "H07RN-F heavy-duty rubber",
+        "Conductors": "5G (5-core) — 3P+N+E",
+        "Cross Section": "16 mm² per core",
+        "Rated Current": "63A",
+        "Voltage": "400V 3-phase",
+        "Length": "20 m standard",
+        "Connectors": "IP67 63A 400V 5-pin CEE plug and socket",
+        "Outer Sheath": "Heavy-duty polychloroprene",
+        "Temp Range": "-30°C to +60°C"
+      },
+      "features": [
+        "63A 3-phase at 16 mm² delivers 43 kW — powers a full site distribution board at 20 m distance",
+        "IP67 waterproof CEE connectors operate submerged in 1 m of water — flood-site rated",
+        "16 mm² copper with less than 2% voltage drop protects sensitive electronics on long runs",
+        "Walther Pro connectors with screw-locking ring resist vibration from heavy machinery and generators",
+        "Polychloroprene outer sheath with double insulation layer for additional mechanical protection",
+        "Pre-fitted phase rotation indicator on the plug face for instant correct-phase verification"
+      ],
+      "availability": "Available for Rent"
+    },
+    {
+      "slug": "nexans-lineax-4g-16mm-rubber-flexible-cable",
+      "name": "Nexans Lineax 4G 16mm² Rubber Flexible Cable",
+      "shortDescription": "Nexans Lineax 4G 16mm² rubber flexible power cable. Heavy-duty single-phase or 3-phase cable for site distribution, generator output, and temporary power installations.",
+      "description": "Nexans Lineax 4G 16mm² rubber flexible power cable. Heavy-duty single-phase or 3-phase cable for site distribution, generator output, and temporary power installations. Available for rent in Dubai with free delivery.",
+      "image": "/images/products/power-cables-nexans-lineax-4g-16mm-rubber-flexible-cable.webp",
+      "price": "Contact for Pricing",
+      "specifications": {
+        "Cable Type": "H07RN-F heavy-duty rubber flexible",
+        "Conductors": "4G (4-core) flexible copper",
+        "Cross Section": "16 mm² per core",
+        "Rated Current": "63A (single-phase) / 50A (3-phase)",
+        "Voltage": "450/750V rated",
+        "Length": "30 m standard",
+        "Sheath": "Polychloroprene, flame retardant",
+        "Temp Range": "-40°C to +90°C conductor temperature",
+        "Standard": "IEC 60245-4, HD 22.4 S4"
+      },
+      "features": [
+        "16 mm² flexible copper stranding — bends around tight corners without kinking or fracturing",
+        "4G configuration handles 230V single-phase 63A or 400V 3-phase 50A on the same cable",
+        "30 m length bridges generator-to-distribution-board gaps on large construction sites",
+        "Flame-retardant polychloroprene sheath self-extinguishes within 30 seconds of flame removal",
+        "Nexans French manufacturing with 0.15 mm tinned copper braid for additional RF shielding",
+        "Rated -40°C to +90°C conductor temp for desert heat and cold storage without sheath failure"
+      ],
+      "availability": "Available for Rent"
+    }
+  ]
+}

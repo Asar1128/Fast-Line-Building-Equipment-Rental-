@@ -1,0 +1,120 @@
+{
+  "slug": "industrial-fans",
+  "name": "Industrial Fans",
+  "description": "Heavy-duty drum, pedestal, and floor fans for construction cooling, drying, and ventilation. High-velocity air movement for large spaces.",
+  "image": "/images/products/industrial-fans-trotec-tvm-24-d-heavy-duty-floor-fan.webp",
+  "ogImage": "/images/products/industrial-fans-trotec-tvm-24-d-heavy-duty-floor-fan.webp",
+  "canonicalPath": "/equipment/industrial-fans",
+  "machines": [
+    {
+      "slug": "trotec-tvm-24-d-heavy-duty-floor-fan",
+      "name": "Trotec TVM 24 D Heavy Duty Floor Fan",
+      "shortDescription": "Heavy-duty 600mm floor fan with 9,500 m³/hr airflow. Trotec TVM 24 D for construction drying, warehouse ventilation, and large-area air circulation in industrial settings.",
+      "description": "Heavy-duty 600mm floor fan with 9,500 m³/hr airflow. Trotec TVM 24 D for construction drying, warehouse ventilation, and large-area air circulation in industrial settings. Available for rent in Dubai with free delivery.",
+      "image": "/images/products/industrial-fans-trotec-tvm-24-d-heavy-duty-floor-fan.webp",
+      "price": "Contact for Pricing",
+      "specifications": {
+        "Fan Diameter": "600 mm",
+        "Airflow": "9,500 m³/hr",
+        "Motor": "0.25 kW, 230V single-phase",
+        "Speed": "2-speed",
+        "Operating Weight": "20 kg",
+        "Dimensions": "720 x 350 x 720 mm",
+        "Construction": "Steel frame, metal blades",
+        "Tilt": "Adjustable 0-90° angle",
+        "Cable": "3 m H07RN-F rubber"
+      },
+      "features": [
+        "9,500 m³/hr floor-level airflow accelerates concrete curing and paint drying by 40%",
+        "Adjustable 0-90° tilt directs air at walls, floors, or upward for destratification",
+        "0.25 kW motor — runs 4 hours on 1 kWh, the cheapest drying fan in the fleet",
+        "20 kg steel frame with integrated carry handles and rubber anti-vibration feet",
+        "2-speed selector switch on the motor housing — no bending down to adjust",
+        "Metal blades survive knocks from falling debris that would shatter plastic fans"
+      ],
+      "availability": "Available for Rent"
+    },
+    {
+      "slug": "dynabreeze-600mm-industrial-pedestal-fan",
+      "name": "Dynabreeze 600mm Industrial Pedestal Fan",
+      "shortDescription": "600mm industrial pedestal fan with adjustable height stand. Dynabreeze for site office cooling, workshop ventilation, and labour camp air circulation in hot conditions.",
+      "description": "600mm industrial pedestal fan with adjustable height stand. Dynabreeze for site office cooling, workshop ventilation, and labour camp air circulation in hot conditions. Available for rent in Dubai with free delivery.",
+      "image": "/images/products/industrial-fans-dynabreeze-600mm-industrial-pedestal-fan.webp",
+      "price": "Contact for Pricing",
+      "specifications": {
+        "Fan Diameter": "600 mm",
+        "Airflow": "5,500 m³/hr",
+        "Motor": "0.15 kW, 230V single-phase",
+        "Speed": "3-speed with oscillation",
+        "Height Range": "1,200-1,650 mm adjustable",
+        "Operating Weight": "14 kg",
+        "Base": "Heavy-duty cast iron round base",
+        "Blades": "3 aluminium blades"
+      },
+      "features": [
+        "3-speed motor with 90° oscillation covers the entire room from one position",
+        "Adjustable height from 1.2 to 1.65 m — set at desk level or overhead for bunk beds",
+        "Cast iron base prevents tipping even on uneven container and site office floors",
+        "Aluminium blades are lighter and more efficient than steel — less motor strain, more airflow",
+        "0.15 kW draw at full speed — run 8 fans on a single 16A circuit breaker",
+        "14 kg unit disassembles into base, pole, and head for compact pickup transport"
+      ],
+      "availability": "Available for Rent"
+    },
+    {
+      "slug": "makinex-fmp-530-floor-ventilator-and-fan",
+      "name": "Makinex FMP-530 Floor Ventilator and Fan",
+      "shortDescription": "Makinex FMP-530 floor ventilator with 3,200 m³/hr and integrated power outlets. Dual-purpose fan and power distribution for construction and restoration drying.",
+      "description": "Makinex FMP-530 floor ventilator with 3,200 m³/hr and integrated power outlets. Dual-purpose fan and power distribution for construction and restoration drying. Available for rent in Dubai with free delivery.",
+      "image": "/images/products/industrial-fans-makinex-fmp-530-floor-ventilator-and-fan.webp",
+      "price": "Contact for Pricing",
+      "specifications": {
+        "Airflow": "3,200 m³/hr",
+        "Motor": "0.55 kW, 230V single-phase",
+        "Speed": "Variable speed control",
+        "Operating Weight": "22 kg",
+        "Power Outlets": "2x 230V auxiliary outlets on board",
+        "Ducting": "Optional 300mm duct spigot",
+        "Construction": "Rotomolded polyethylene housing",
+        "Protection": "IP55 rated"
+      },
+      "features": [
+        "Integrated dual 230V outlets daisy-chain 8 fans on one extension lead — no power board needed",
+        "Rotomolded polyethylene housing absorbs site impacts without denting or rusting",
+        "IP55 rated for water jets and dust — built for flood restoration and construction site abuse",
+        "Variable speed dial from whisper-quiet to full 3,200 m³/hr for targeted drying",
+        "Optional 300mm duct spigot converts the floor fan into a ducted extraction fan in seconds",
+        "Stackable design locks 3 units together for compact transport and storage"
+      ],
+      "availability": "Available for Rent"
+    },
+    {
+      "slug": "sealey-hvd30-30-high-velocity-drum-fan",
+      "name": "Sealey HVD30 30\" High Velocity Drum Fan",
+      "shortDescription": "Sealey HVD30 30-inch high velocity drum fan with 12,000 m³/hr airflow. The largest portable drum fan in the fleet — built for aircraft hangars, factory floors, and major ventilation.",
+      "description": "Sealey HVD30 30-inch high velocity drum fan with 12,000 m³/hr airflow. The largest portable drum fan in the fleet — built for aircraft hangars, factory floors, and major ventilation. Available for rent in Dubai with free delivery.",
+      "image": "/images/products/industrial-fans-sealey-hvd30-30-high-velocity-drum-fan.webp",
+      "price": "Contact for Pricing",
+      "specifications": {
+        "Fan Diameter": "30 inch (760 mm)",
+        "Airflow": "12,000 m³/hr",
+        "Motor": "0.45 kW, 230V single-phase",
+        "Speed": "2-speed",
+        "Operating Weight": "28 kg",
+        "Dimensions": "900 x 400 x 950 mm",
+        "Construction": "Tubular steel frame, 5 aluminium blades",
+        "Wheels": "4x swivel castors with brakes",
+        "Cable": "3 m"
+      },
+      "features": [
+        "12,000 m³/hr — the highest-volume portable drum fan available for rent in the UAE",
+        "30-inch aluminium blades move air across aircraft hangar and factory floor widths",
+        "4 swivel castors with brakes — one person rolls and positions a 28 kg fan easily",
+        "Tubular steel frame with rubber bumpers protects walls and door frames during repositioning",
+        "0.45 kW motor at 2-speed delivers hurricane-force airflow at household power cost",
+        "Aluminium blades and sealed bearings — zero maintenance beyond occasional cleaning"
+      ],
+      "availability": "Available for Rent"
+    }
+  ]
+}

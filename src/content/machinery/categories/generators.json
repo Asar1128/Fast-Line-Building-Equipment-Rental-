@@ -1,0 +1,411 @@
+{
+  "slug": "generators",
+  "name": "Generators",
+  "description": "Silent diesel and portable generators for construction, commercial, and emergency power needs. From 5.5 kVA to 1000 kVA.",
+  "image": "/images/products/generators-honda-ep6500cx.webp",
+  "ogImage": "/images/products/generators-honda-ep6500cx.webp",
+  "canonicalPath": "/equipment/generators",
+  "machines": [
+    {
+      "slug": "honda-ep6500cx-portable-generator",
+      "name": "Honda EP6500CX Portable Generator",
+      "shortDescription": "Open-frame petrol generator with AVR for stable voltage output. Suitable for home backup, power tools, and small commercial use.",
+      "description": "Open-frame petrol generator with AVR for stable voltage output. Suitable for home backup, power tools, and small commercial use. Available for rent in Dubai with free delivery.",
+      "image": "/images/products/generators-honda-ep6500cx.webp",
+      "price": "Contact for Pricing",
+      "specifications": {
+        "Max Output": "6.5 kVA (5.2 kW)",
+        "Rated Output": "6.0 kVA",
+        "Engine": "Honda GX390 OHV 4-stroke",
+        "Fuel Tank": "25 L",
+        "Run Time": "8-10 hours at 50% load",
+        "Starting System": "Electric start + recoil",
+        "Voltage": "220-240V 50Hz",
+        "AVR": "Yes (Automatic Voltage Regulation)",
+        "Outlets": "2x 230V sockets, 1x 12V DC",
+        "Noise Level": "72 dB(A)",
+        "Weight": "82 kg"
+      },
+      "features": [
+        "Honda GX390 commercial-grade engine",
+        "Automatic Voltage Regulation (AVR) for stable output",
+        "Electric start with recoil backup",
+        "Compact and portable design",
+        "Low noise operation at 72 dB(A)",
+        "Ideal for construction sites and home backup"
+      ],
+      "availability": "Available for Rent"
+    },
+    {
+      "slug": "honda-gx390-open-frame-generator",
+      "name": "Honda GX390 Open-Frame Generator",
+      "shortDescription": "Gasoline-powered portable generator with Honda GX390 commercial engine. Frame-mounted with multiple outlet options for construction sites.",
+      "description": "Gasoline-powered portable generator with Honda GX390 commercial engine. Frame-mounted with multiple outlet options for construction sites. Available for rent in Dubai with free delivery.",
+      "image": "/images/products/generators-honda-gx390.webp",
+      "price": "Contact for Pricing",
+      "specifications": {
+        "Engine": "Honda GX390 13 HP OHV",
+        "Max Power": "6.5 kW",
+        "Rated Power": "6.0 kW",
+        "Frequency": "50/60 Hz",
+        "Voltage": "110V/220V configurable",
+        "Fuel Tank": "25 L",
+        "Run Time": "7-9 hours",
+        "Start Type": "Recoil/Electric",
+        "Outlets": "2x 16A 230V, 1x 32A 230V",
+        "Weight": "75 kg",
+        "Dimensions": "700x550x550 mm",
+        "Protection": "Circuit breaker overload protection"
+      },
+      "features": [
+        "Honda GX390 13 HP commercial engine",
+        "Configurable voltage output (110V/220V)",
+        "Multiple outlet options for different tools",
+        "Circuit breaker overload protection",
+        "Lightweight and portable at 75 kg",
+        "Suitable for construction site power needs"
+      ],
+      "availability": "Available for Rent"
+    },
+    {
+      "slug": "fg-wilson-powerlink-silent-diesel-generator",
+      "name": "FG Wilson / Powerlink Silent Diesel Generator",
+      "shortDescription": "Sound-attenuated enclosed diesel generator set for continuous or standby power. Suitable for commercial buildings, telecom, and industrial applications.",
+      "description": "Sound-attenuated enclosed diesel generator set for continuous or standby power. Suitable for commercial buildings, telecom, and industrial applications. Available for rent in Dubai with free delivery.",
+      "image": "/images/products/generators-fg-wilson-powerlink.webp",
+      "price": "Contact for Pricing",
+      "specifications": {
+        "Power Range": "20-500 kVA",
+        "Engine": "Perkins/Cummins/Deutz options",
+        "Alternator": "Stamford/Leroy Somer",
+        "Voltage": "400/230V 3-phase 50Hz",
+        "Fuel Tank": "200-1000 L integrated",
+        "Noise Level": "65-75 dB(A) at 7m",
+        "Controller": "Deep Sea Electronics auto start",
+        "Enclosure": "Weatherproof steel with powder coating",
+        "Cooling": "Radiator cooled",
+        "Application": "Hospitals, data centers, factories",
+        "Compliance": "ISO 8528, CE certified"
+      },
+      "features": [
+        "Wide power range from 20 to 500 kVA",
+        "Sound-attenuated weatherproof enclosure",
+        "Deep Sea Electronics auto-start controller",
+        "Multiple engine options (Perkins/Cummins/Deutz)",
+        "ISO 8528 and CE certified",
+        "Ideal for hospitals, data centers, and factories"
+      ],
+      "availability": "Available for Rent"
+    },
+    {
+      "slug": "cat-xq-series-mobile-generator",
+      "name": "CAT Rental Power Mobile Generator (XQ Series)",
+      "shortDescription": "Caterpillar trailer-mounted diesel generator for temporary power solutions. Heavy-duty design for construction, events, and emergency power.",
+      "description": "Caterpillar trailer-mounted diesel generator for temporary power solutions. Heavy-duty design for construction, events, and emergency power. Available for rent in Dubai with free delivery.",
+      "image": "/images/products/generators-cat-xq-series.webp",
+      "price": "Contact for Pricing",
+      "specifications": {
+        "Power Output": "100-500 kVA",
+        "Engine": "Caterpillar C7/C9/C13/C15 diesel",
+        "Alternator": "CAT SR4B",
+        "Voltage": "380-480V configurable",
+        "Frequency": "50/60 Hz",
+        "Fuel Tank": "400-1200 L",
+        "Runtime": "24-48 hours",
+        "Trailer": "DOT-certified dual axle with brakes",
+        "Noise Level": "72 dB(A)",
+        "Control Panel": "EMCP 4.2 digital",
+        "Options": "ATS, parallel capability",
+        "Dimensions": "4000x2000x2500 mm (varies)"
+      },
+      "features": [
+        "Trailer-mounted for easy transport and deployment",
+        "Caterpillar diesel engine (C7 to C15 options)",
+        "EMCP 4.2 digital control panel",
+        "24-48 hour runtime capability",
+        "ATS and parallel operation capable",
+        "Ideal for construction, events, and emergency power"
+      ],
+      "availability": "Available for Rent"
+    },
+    {
+      "slug": "aurora-edg6000s-silent-diesel-generator",
+      "name": "Aurora EDG6000S Silent Diesel Generator",
+      "shortDescription": "Compact silent-type diesel generator with canopy enclosure for reduced noise. Suitable for home, shop, and small business backup power.",
+      "description": "Compact silent-type diesel generator with canopy enclosure for reduced noise. Suitable for home, shop, and small business backup power. Available for rent in Dubai with free delivery.",
+      "image": "/images/products/generators-aurora-edg6000s.webp",
+      "price": "Contact for Pricing",
+      "specifications": {
+        "Rated Power": "5.5 kW (6.0 kVA max)",
+        "Engine": "Single-cylinder diesel 10 HP",
+        "Fuel Tank": "12.5 L",
+        "Run Time": "8-10 hours",
+        "Noise Level": "68 dB(A) at 7m",
+        "Starting": "Electric start",
+        "Voltage": "220V single-phase",
+        "Frequency": "50/60 Hz",
+        "AVR": "Yes",
+        "Outlets": "2x 230V, 1x 12V DC",
+        "Dimensions": "900x550x750 mm",
+        "Weight": "160 kg"
+      },
+      "features": [
+        "Silent-type soundproof enclosure",
+        "Low noise at just 68 dB(A)",
+        "AVR for stable voltage output",
+        "Compact design for easy placement",
+        "8-10 hour runtime on a single tank",
+        "Electric start for convenience"
+      ],
+      "availability": "Available for Rent"
+    },
+    {
+      "slug": "cat-c-series-enclosed-diesel-generator",
+      "name": "CAT C-Series Enclosed Diesel Generator",
+      "shortDescription": "Caterpillar fixed-installation diesel generator in sound-attenuated enclosure. Used for prime and standby power in commercial and industrial settings.",
+      "description": "Caterpillar fixed-installation diesel generator in sound-attenuated enclosure. Used for prime and standby power in commercial and industrial settings. Available for rent in Dubai with free delivery.",
+      "image": "/images/products/generators-cat-c-series.webp",
+      "price": "Contact for Pricing",
+      "specifications": {
+        "Power": "150-300 kVA",
+        "Engine": "CAT C7/C9/C13",
+        "Alternator": "CAT SR4",
+        "Voltage": "400/230V 50Hz",
+        "Controller": "EMCP 4.2/4.3",
+        "Fuel Tank": "Base tank 300-500 L",
+        "Noise": "75-82 dB(A) at 1m",
+        "Cooling": "Closed-loop radiator",
+        "Enclosure": "Weather-resistant steel",
+        "Features": "Auto start/load accept/parallel capable",
+        "Standards": "ISO 8528-5, NFPA 110",
+        "Application": "Hospitals, factories, commercial buildings"
+      },
+      "features": [
+        "Caterpillar C-Series diesel engine",
+        "Sound-attenuated weather-resistant enclosure",
+        "EMCP 4.2/4.3 advanced controller",
+        "Auto start and load acceptance",
+        "Parallel operation capable",
+        "Meets ISO 8528-5 and NFPA 110 standards"
+      ],
+      "availability": "Available for Rent"
+    },
+    {
+      "slug": "cat-c18-c32-diesel-generator-set",
+      "name": "CAT C18 / C32 Diesel Generator Set",
+      "shortDescription": "Large Caterpillar diesel generator for industrial power generation. Fixed installation in weatherproof canopy for continuous or standby operation.",
+      "description": "Large Caterpillar diesel generator for industrial power generation. Fixed installation in weatherproof canopy for continuous or standby operation. Available for rent in Dubai with free delivery.",
+      "image": "/images/products/generators-cat-c18-c32.webp",
+      "price": "Contact for Pricing",
+      "specifications": {
+        "Power": "500-1000 kVA",
+        "Engine": "CAT C18/C27/C32",
+        "Alternator": "CAT SR4B",
+        "Voltage": "6.6-11 kV or 400/230V",
+        "Frequency": "50/60 Hz",
+        "Controller": "EMCP 4.4 with touchscreen",
+        "Fuel System": "Dual wall base tank",
+        "Cooling": "Engine-driven radiator",
+        "Noise": "85-90 dB(A) open, 75 dB(A) enclosed",
+        "Options": "ATS, remote monitoring, paralleling",
+        "Standards": "ISO 8528-1, CE certified",
+        "Dimensions": "4500x1800x2200 mm"
+      },
+      "features": [
+        "High-power 500 to 1000 kVA output",
+        "EMCP 4.4 touchscreen controller",
+        "Medium voltage capability (6.6-11 kV)",
+        "ATS and remote monitoring options",
+        "Dual wall fuel tank for safety",
+        "ISO 8528-1 and CE certified"
+      ],
+      "availability": "Available for Rent"
+    },
+    {
+      "slug": "cps-alpha-series-diesel-generator",
+      "name": "CPS Alpha Series Diesel Generator (UK)",
+      "shortDescription": "British-made silent diesel generator by CPS (Central Power Systems). Perkins-powered with Deep Sea controller for reliable standby power.",
+      "description": "British-made silent diesel generator by CPS (Central Power Systems). Perkins-powered with Deep Sea controller for reliable standby power. Available for rent in Dubai with free delivery.",
+      "image": "/images/products/generators-cps-alpha-series.webp",
+      "price": "Contact for Pricing",
+      "specifications": {
+        "Power": "20-200 kVA range",
+        "Engine": "Perkins 400/1100/1500 series",
+        "Alternator": "Mecc Alte / Stamford",
+        "Controller": "Deep Sea 7320 auto-start",
+        "Voltage": "400/230V 50Hz",
+        "Fuel Tank": "8-24 hour runtime tank",
+        "Noise": "65 dB(A) at 7m (silent canopy)",
+        "Enclosure": "Galvanized steel powder-coated",
+        "Options": "ATS, remote fuel level monitoring",
+        "Compliance": "CE marked, ISO 8528",
+        "Application": "Telecom, construction, residential",
+        "Origin": "Made in UK"
+      },
+      "features": [
+        "British-made quality and reliability",
+        "Ultra-quiet at just 65 dB(A)",
+        "Deep Sea 7320 auto-start controller",
+        "Perkins engine for proven performance",
+        "CE marked and ISO 8528 compliant",
+        "ATS and remote monitoring options"
+      ],
+      "availability": "Available for Rent"
+    },
+    {
+      "slug": "caterpillar-xqe100-mobile-diesel-generator",
+      "name": "Caterpillar XQE100 Mobile Diesel Generator",
+      "shortDescription": "Large trailer-mounted Caterpillar generator for temporary power and emergency response. Features 100 kVA output and robust mobility.",
+      "description": "Large trailer-mounted Caterpillar generator for temporary power and emergency response. Features 100 kVA output and robust mobility. Available for rent in Dubai with free delivery.",
+      "image": "/images/products/generators-cat-xqe100.webp",
+      "price": "Contact for Pricing",
+      "specifications": {
+        "Power": "100 kVA (80 kW)",
+        "Engine": "CAT C4.4 diesel (EPA Tier 3)",
+        "Alternator": "CAT SR4B",
+        "Voltage": "400/230V 50Hz or 480V 60Hz",
+        "Fuel Tank": "240 L",
+        "Runtime": "12-16 hours at 75% load",
+        "Trailer": "Single axle with hitch",
+        "Noise": "70 dB(A) at 7m",
+        "Controller": "EMCP 4.2",
+        "Weight": "2500 kg",
+        "Dimensions": "3800x1600x2200 mm",
+        "Features": "Fast response auto-start, cold weather package"
+      },
+      "features": [
+        "100 kVA reliable power output",
+        "Trailer-mounted for rapid deployment",
+        "Fast response auto-start capability",
+        "Cold weather package included",
+        "EMCP 4.2 digital controller",
+        "Ideal for emergency and temporary power"
+      ],
+      "availability": "Available for Rent"
+    },
+    {
+      "slug": "powerlink-enclosed-diesel-generator",
+      "name": "Powerlink Enclosed Diesel Generator",
+      "shortDescription": "Silent diesel generator with Perkins/Cummins engine options. Cost-effective solution for standby and prime power needs.",
+      "description": "Silent diesel generator with Perkins/Cummins engine options. Cost-effective solution for standby and prime power needs. Available for rent in Dubai with free delivery.",
+      "image": "/images/products/generators-powerlink-enclosed.webp",
+      "price": "Contact for Pricing",
+      "specifications": {
+        "Power": "25-500 kVA",
+        "Engine": "Perkins 404D/1103A, Cummins 4BT/6BT",
+        "Alternator": "Stamford copy / Faraday",
+        "Controller": "SmartGen HGM6110",
+        "Voltage": "400/230V 50Hz",
+        "Fuel Tank": "8-48 hour capacity",
+        "Noise": "68-75 dB(A) at 7m",
+        "Enclosure": "Cold-rolled steel powder-coated",
+        "Options": "ATS, parallel, remote monitoring",
+        "Warranty": "12-24 months",
+        "Application": "Small business, farms, rental fleets",
+        "Compliance": "ISO 8528, GB/T2820"
+      },
+      "features": [
+        "Wide range from 25 to 500 kVA",
+        "Perkins or Cummins engine options",
+        "SmartGen controller for easy operation",
+        "Cost-effective rental solution",
+        "8-48 hour fuel tank capacity",
+        "ATS and remote monitoring capable"
+      ],
+      "availability": "Available for Rent"
+    },
+    {
+      "slug": "caterpillar-c18-enclosed-generator",
+      "name": "Caterpillar C18 Enclosed Generator",
+      "shortDescription": "High-power Caterpillar diesel generator in weatherproof enclosure for industrial and commercial prime power or standby applications.",
+      "description": "High-power Caterpillar diesel generator in weatherproof enclosure for industrial and commercial prime power or standby applications. Available for rent in Dubai with free delivery.",
+      "image": "/images/products/generators-caterpillar-c18.webp",
+      "price": "Contact for Pricing",
+      "specifications": {
+        "Power": "600-800 kVA",
+        "Engine": "CAT C18 ACERT",
+        "Alternator": "CAT SR4B",
+        "Voltage": "400/230V or 11kV",
+        "Frequency": "50/60 Hz",
+        "Controller": "EMCP 4.3 with paralleling",
+        "Fuel Tank": "1000-2000 L base tank",
+        "Runtime": "12-24 hours",
+        "Noise": "78-85 dB(A) at 1m",
+        "Cooling": "Engine-driven radiator with expansion tank",
+        "Options": "ATS, load bank, remote monitoring",
+        "Standards": "ISO 8528-1, ISO 3046, BS 5514"
+      },
+      "features": [
+        "CAT C18 ACERT high-performance engine",
+        "600-800 kVA industrial power output",
+        "EMCP 4.3 with paralleling capability",
+        "Medium voltage (11kV) option available",
+        "1000-2000 L base fuel tank",
+        "Meets ISO 8528-1, ISO 3046, BS 5514"
+      ],
+      "availability": "Available for Rent"
+    },
+    {
+      "slug": "perkins-cummins-silent-diesel-generator",
+      "name": "Perkins/Cummins Silent Diesel Generator (OEM)",
+      "shortDescription": "Enclosed diesel generator with Perkins or Cummins engine. Budget-friendly power solution for construction and rental companies.",
+      "description": "Generic enclosed diesel generator with Perkins or Cummins engine. Budget-friendly power solution for emerging markets and rental companies. Available for rent in Dubai with free delivery.",
+      "image": "/images/products/generators-perkins-cummins-silent.webp",
+      "price": "Contact for Pricing",
+      "specifications": {
+        "Power": "30-150 kVA typical",
+        "Engine": "Perkins 403/1104 or Cummins 4B3.9/6B5.9",
+        "Alternator": "Brushless AVR-controlled",
+        "Controller": "ComAp / SmartGen / Deep Sea",
+        "Voltage": "400/230V 50Hz",
+        "Fuel Tank": "Base tank 200-500 L",
+        "Noise": "70-78 dB(A) at 7m",
+        "Enclosure": "2mm steel with insulation",
+        "Options": "ATS, AMF, remote GSM monitoring",
+        "Warranty": "12 months",
+        "Certification": "ISO 8528, CE",
+        "Application": "Construction, rental, retail backup"
+      },
+      "features": [
+        "Budget-friendly rental solution",
+        "Perkins or Cummins engine options",
+        "Multiple controller brands available",
+        "ATS and AMF capability",
+        "GSM remote monitoring option",
+        "ISO 8528 and CE certified"
+      ],
+      "availability": "Available for Rent"
+    },
+    {
+      "slug": "cat-de33-small-enclosed-generator",
+      "name": "CAT DE33 Small Enclosed Generator",
+      "shortDescription": "Compact Caterpillar diesel generator for small commercial standby and prime power applications. Enclosed for reduced noise and weather protection.",
+      "description": "Compact Caterpillar diesel generator for small commercial standby and prime power applications. Enclosed for reduced noise and weather protection. Available for rent in Dubai with free delivery.",
+      "image": "/images/products/generators-cat-de33.webp",
+      "price": "Contact for Pricing",
+      "specifications": {
+        "Power": "30-50 kVA",
+        "Engine": "CAT C2.2 or Perkins 403D",
+        "Alternator": "CAT SR4B",
+        "Voltage": "400/230V 50Hz",
+        "Controller": "EMCP 4.1",
+        "Fuel Tank": "100-150 L base tank",
+        "Runtime": "8-12 hours",
+        "Noise": "65-70 dB(A) at 7m",
+        "Dimensions": "1800x900x1200 mm",
+        "Weight": "700-900 kg",
+        "Enclosure": "Galvanized steel with powder coat",
+        "Standards": "ISO 8528-5"
+      },
+      "features": [
+        "Compact design for tight spaces",
+        "Low noise at 65-70 dB(A)",
+        "EMCP 4.1 controller",
+        "Auto start and weekly test exercise",
+        "Galvanized steel weather protection",
+        "Ideal for offices, shops, and telecom towers"
+      ],
+      "availability": "Available for Rent"
+    }
+  ]
+}

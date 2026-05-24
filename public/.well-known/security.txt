@@ -1,0 +1,4 @@
+Contact: security@company.com
+Acknowledgments: https://company.com/security/hall-of-fame
+Policy: https://company.com/security/policy
+Hiring: https://company.com/careers

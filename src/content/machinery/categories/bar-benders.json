@@ -1,0 +1,119 @@
+{
+  "slug": "bar-benders",
+  "name": "Bar Benders",
+  "description": "Electric rebar bending machines for construction steel work. Heavy-duty bar bending equipment for reinforced concrete preparation.",
+  "image": "/images/products/bar-benders-toyo-tbb-32-heavy-duty-rebar-bending-machine.webp",
+  "ogImage": "/images/products/bar-benders-toyo-tbb-32-heavy-duty-rebar-bending-machine.webp",
+  "canonicalPath": "/equipment/bar-benders",
+  "machines": [
+    {
+      "slug": "toyo-tbb-32-heavy-duty-rebar-bending-machine",
+      "name": "Toyo TBB-32 Heavy Duty Rebar Bending Machine",
+      "shortDescription": "Toyo TBB-32 heavy-duty electric rebar bender rated up to 32 mm diameter. Japanese precision for construction bar bending from 10-32 mm with adjustable angle control.",
+      "description": "Toyo TBB-32 heavy-duty electric rebar bender rated up to 32 mm diameter. Japanese precision for construction bar bending from 10-32 mm with adjustable angle control. Available for rent in Dubai with free delivery.",
+      "image": "/images/products/bar-benders-toyo-tbb-32-heavy-duty-rebar-bending-machine.webp",
+      "price": "Contact for Pricing",
+      "specifications": {
+        "Max Bar Diameter": "32 mm (Grade 60 / 460 MPa)",
+        "Min Bar Diameter": "10 mm",
+        "Bending Angle": "0-180° adjustable with limit switch",
+        "Motor": "2.2 kW, 400V 3-phase",
+        "Bending Speed": "4 seconds per 90° bend",
+        "Operating Weight": "180 kg",
+        "Rollers": "Hardened steel, replaceable",
+        "Control": "Foot pedal with emergency stop",
+        "Table Height": "800 mm working height"
+      },
+      "features": [
+        "32 mm capacity bends the heaviest column and beam rebar used in UAE high-rise construction",
+        "0-180° adjustable limit switch with auto-return for repetitive identical-angle production bending",
+        "2.2 kW 3-phase motor with foot pedal control leaves both hands free for bar handling",
+        "Hardened steel rollers with grease fittings — swap in 5 minutes when wear grooves develop",
+        "4 seconds per 90° bend means 15 bars bent per minute for high-volume slab preparation",
+        "Toyo Japanese engineering with parts and service support through regional distributors in Dubai"
+      ],
+      "availability": "Available for Rent"
+    },
+    {
+      "slug": "alba-cae-32-electric-rebar-bender",
+      "name": "Alba CAE-32 Electric Rebar Bender",
+      "shortDescription": "Alba CAE-32 electric rebar bender with 32 mm capacity and digital angle presets. Italian machine for precision stirrup and rebar bending in precast and in-situ concrete works.",
+      "description": "Alba CAE-32 electric rebar bender with 32 mm capacity and digital angle presets. Italian machine for precision stirrup and rebar bending in precast and in-situ concrete works. Available for rent in Dubai with free delivery.",
+      "image": "/images/products/bar-benders-alba-cae-32-electric-rebar-bender.webp",
+      "price": "Contact for Pricing",
+      "specifications": {
+        "Max Bar Diameter": "32 mm",
+        "Bending Angle": "Programmable 0-180°",
+        "Motor": "2.2 kW, 400V 3-phase",
+        "Bending Speed": "3.5 seconds per 90° bend",
+        "Operating Weight": "195 kg",
+        "Control": "Digital angle display with memory presets",
+        "Mandrel Set": "5 interchangeable mandrels 10-32 mm",
+        "Safety": "Two-hand safety interlock switch"
+      },
+      "features": [
+        "Digital angle presets store 10 bend angles — switch between stirrup, link, and column bar bends instantly",
+        "Programmable auto-return with angle tolerance of ±1° for precise reinforcement cage assembly",
+        "5 interchangeable mandrels cover the full 10-32 mm bar range without shims or adapters",
+        "Two-hand safety interlock requires both operator hands clear before the bending cycle starts",
+        "3.5-second cycle time with Italian-made Alba gearmotor designed for 100,000+ bend cycles",
+        "195 kg bench-mount with pre-drilled base plate for anchor bolt fixing to the shop floor"
+      ],
+      "availability": "Available for Rent"
+    },
+    {
+      "slug": "gocmaksan-bd-36-mechanical-bar-bending-machine",
+      "name": "Gocmaksan BD 36 Mechanical Bar Bending Machine",
+      "shortDescription": "Gocmaksan BD 36 mechanical bar bender rated 36 mm diameter. Turkish heavy-duty machine for large-scale construction bar bending with gear-driven rotating table.",
+      "description": "Gocmaksan BD 36 mechanical bar bender rated 36 mm diameter. Turkish heavy-duty machine for large-scale construction bar bending with gear-driven rotating table. Available for rent in Dubai with free delivery.",
+      "image": "/images/products/bar-benders-gocmaksan-bd-36-mechanical-bar-bending-machine.webp",
+      "price": "Contact for Pricing",
+      "specifications": {
+        "Max Bar Diameter": "36 mm",
+        "Bending Table": "350 mm diameter gear-driven rotating table",
+        "Motor": "3.0 kW, 400V 3-phase",
+        "Bending Speed": "5 seconds per 90° bend",
+        "Operating Weight": "260 kg",
+        "Control": "Manual lever with auto-stop cam",
+        "Operation": "Mechanical gear drive — no hydraulics",
+        "Mounting": "Floor-mounted with anchor bolt pattern"
+      },
+      "features": [
+        "36 mm capacity — bends the largest diameter rebar used in UAE bridge and infrastructure projects",
+        "Gear-driven rotating table with 350 mm diameter — handles double-bar bending for heavy column ties",
+        "3.0 kW motor through a reduction gearbox delivers 12,000 Nm of bending torque at the table",
+        "Mechanical gear drive with zero hydraulics — no hoses, no oil leaks, no pump maintenance",
+        "Auto-stop cam with mechanical trip — set the angle once and repeat thousands of identical bends",
+        "260 kg floor-mounted with 8-bolt anchor pattern for zero movement during heavy bar bending"
+      ],
+      "availability": "Available for Rent"
+    },
+    {
+      "slug": "makita-wrc16-18v-cordless-rebar-bender",
+      "name": "Makita WRC16 18V Cordless Rebar Bender",
+      "shortDescription": "Makita WRC16 18V cordless rebar bender rated 16 mm. Battery-powered portable bender for on-site stirrup adjustment, formwork corrections, and in-situ bar bending without power cables.",
+      "description": "Makita WRC16 18V cordless rebar bender rated 16 mm. Battery-powered portable bender for on-site stirrup adjustment, formwork corrections, and in-situ bar bending without power cables. Available for rent in Dubai with free delivery.",
+      "image": "/images/products/bar-benders-makita-wrc16-18v-cordless-rebar-bender.webp",
+      "price": "Contact for Pricing",
+      "specifications": {
+        "Max Bar Diameter": "16 mm (Grade 60)",
+        "Bending Angle": "Up to 180°",
+        "Power": "Makita 18V LXT battery platform",
+        "Bending Speed": "5 seconds per 90° bend",
+        "Operating Weight": "6.8 kg (with battery)",
+        "Battery Life": "Approx. 180 bends per 5.0 Ah charge",
+        "Bar Size Compatibility": "10-16 mm",
+        "Safety": "Trigger lock with auto-off jaw release"
+      },
+      "features": [
+        "6.8 kg cordless — one worker carries the bender to rebar in formwork, not the other way",
+        "Makita 18V LXT battery shared with drills and grinders across the site fleet",
+        "180 bends per 5.0 Ah charge — enough for a full day of stirrup and link adjustments",
+        "16 mm capacity handles wall and slab distribution bars without generator or electric cable runs",
+        "Auto-off jaw release opens the gripping mechanism when the trigger is released for safety",
+        "Ideal for in-situ corrections when the concrete pump is waiting — no setup, just bend and go"
+      ],
+      "availability": "Available for Rent"
+    }
+  ]
+}

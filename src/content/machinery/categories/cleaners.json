@@ -1,0 +1,307 @@
+{
+  "slug": "cleaners",
+  "name": "Floor Cleaners",
+  "description": "Professional floor scrubbing and cleaning machines for hard floors in hotels, hospitals, schools, and commercial spaces.",
+  "image": "/images/products/cleaners-cleanstar-sc-42.webp",
+  "ogImage": "/images/products/cleaners-cleanstar-sc-42.webp",
+  "canonicalPath": "/equipment/cleaners",
+  "machines": [
+    {
+      "slug": "cleanstar-sc-42-floor-scrubber",
+      "name": "Cleanstar SC 42 Floor Scrubber",
+      "shortDescription": "Single-disc rotary floor scrubbing machine for professional cleaning of hard floors. Suitable for marble, tile, concrete, and vinyl surfaces.",
+      "description": "Single-disc rotary floor scrubbing machine for professional cleaning of hard floors. Suitable for marble, tile, concrete, and vinyl surfaces. Available for rent in Dubai with free delivery.",
+      "image": "/images/products/cleaners-cleanstar-sc-42.webp",
+      "price": "Contact for Pricing",
+      "specifications": {
+        "Power": "1100W",
+        "Brush Speed": "175 RPM",
+        "Brush Diameter": "17 inches (430mm)",
+        "Water Tank Capacity": "12 L",
+        "Cable Length": "15m",
+        "Weight": "42 kg",
+        "Working Width": "430 mm",
+        "Noise Level": "68 dB",
+        "Suitable for": "Hotels, hospitals, schools, shopping malls"
+      },
+      "features": [
+        "1100W powerful motor",
+        "175 RPM brush speed for effective scrubbing",
+        "17-inch brush diameter for wide coverage",
+        "Low noise at 68 dB for indoor use",
+        "15m cable for large area coverage",
+        "Suitable for marble, tile, concrete, and vinyl"
+      ],
+      "availability": "Available for Rent"
+    },
+    {
+      "slug": "tennant-t300-walk-behind-floor-scrubber",
+      "name": "Tennant T300 Walk-Behind Floor Scrubber",
+      "shortDescription": "Walk-behind floor scrubber with 43 cm scrub path and brush-assist drive. Tennant T300 for cleaning tile, epoxy, and polished concrete floors in commercial and retail spaces.",
+      "description": "Walk-behind floor scrubber with 43 cm scrub path and brush-assist drive. Tennant T300 for cleaning tile, epoxy, and polished concrete floors in commercial and retail spaces. Available for rent in Dubai with free delivery.",
+      "image": "/images/products/cleaners-tennant-t300-walk-behind-floor-scrubber.webp",
+      "price": "Contact for Pricing",
+      "specifications": {
+        "Scrub Path": "43 cm",
+        "Brush Speed": "220 RPM",
+        "Solution Tank": "17 L",
+        "Recovery Tank": "19 L",
+        "Cleaning Rate": "950 m²/hr theoretical",
+        "Brush Pressure": "18 kg",
+        "Power": "24V battery (2x 12V deep-cycle)",
+        "Run Time": "Up to 2.5 hours per charge",
+        "Operating Weight": "75 kg (with batteries)",
+        "Squeegee Width": "56 cm curved rear",
+        "Noise Level": "65 dB(A)"
+      },
+      "features": [
+        "Brush-assist drive reduces operator effort without the complexity of full traction",
+        "43 cm scrub path fits standard doorways and cleans hallways in a single pass, both ways",
+        "17 L solution and 19 L recovery tanks for 45+ minutes of continuous scrubbing",
+        "Curved rear squeegee picks up water in forward and reverse — no turning to dry",
+        "24V battery system eliminates cords and generators for indoor retail and office work",
+        "65 dB(A) noise level permits daytime cleaning in occupied shopping malls and hospitals"
+      ],
+      "availability": "Available for Rent"
+    },
+    {
+      "slug": "krcher-br-40-10-c-ep-scrubber-drier",
+      "name": "Kärcher BR 40/10 C Ep Scrubber Drier",
+      "shortDescription": "Kärcher BR 40/10 C Ep scrubber drier with 40 cm disc brush and 10 L tank. Compact corded-electric unit for small retail, restaurant kitchens, and bathroom deep cleaning.",
+      "description": "Kärcher BR 40/10 C Ep scrubber drier with 40 cm disc brush and 10 L tank. Compact corded-electric unit for small retail, restaurant kitchens, and bathroom deep cleaning. Available for rent in Dubai with free delivery.",
+      "image": "/images/products/cleaners-krcher-br-40-10-c-ep-scrubber-drier.webp",
+      "price": "Contact for Pricing",
+      "specifications": {
+        "Scrub Path": "40 cm",
+        "Brush Speed": "1,450 RPM disc brush",
+        "Solution Tank": "10 L",
+        "Recovery Tank": "10 L",
+        "Cleaning Rate": "400 m²/hr",
+        "Brush Pressure": "12 kg",
+        "Power": "230V single-phase corded electric",
+        "Cable Length": "15 m",
+        "Operating Weight": "25 kg",
+        "Squeegee Width": "40 cm straight rear",
+        "Noise Level": "63 dB(A)"
+      },
+      "features": [
+        "25 kg and corded electric — lightest professional scrubber drier in the fleet, grab and go",
+        "40 cm scrub path with 1,450 RPM disc brush scrubs grout lines and textured tile deeply",
+        "10 L solution and recovery tanks balance perfectly for 25 minutes of continuous cleaning",
+        "230V corded operation eliminates battery charging downtime between shifts",
+        "63 dB(A) noise level is conversation-level quiet — clean during restaurant lunch service",
+        "Kärcher German pump and motor engineering with worldwide parts and service support"
+      ],
+      "availability": "Available for Rent"
+    },
+    {
+      "slug": "nilfisk-sc400-walk-behind-scrubber",
+      "name": "Nilfisk SC400 Walk-Behind Scrubber",
+      "shortDescription": "Nilfisk SC400 walk-behind scrubber drier with 43 cm scrub path and 20 L solution tank. Mid-size unit for supermarkets, warehouses, and healthcare facility floor maintenance.",
+      "description": "Nilfisk SC400 walk-behind scrubber drier with 43 cm scrub path and 20 L solution tank. Mid-size unit for supermarkets, warehouses, and healthcare facility floor maintenance. Available for rent in Dubai with free delivery.",
+      "image": "/images/products/cleaners-nilfisk-sc400-walk-behind-scrubber.webp",
+      "price": "Contact for Pricing",
+      "specifications": {
+        "Scrub Path": "43 cm",
+        "Brush Speed": "200 RPM",
+        "Solution Tank": "20 L",
+        "Recovery Tank": "22 L",
+        "Cleaning Rate": "1,000 m²/hr",
+        "Brush Pressure": "20 kg",
+        "Power": "24V battery (2x 12V AGM)",
+        "Run Time": "Up to 3 hours per charge",
+        "Operating Weight": "68 kg (with batteries)",
+        "Squeegee Width": "55 cm rear parabolic",
+        "Noise Level": "64 dB(A)"
+      },
+      "features": [
+        "20 L solution tank with 22 L recovery — 50% more capacity than compact-class scrubbers",
+        "Nilfisk parabolic squeegee design leaves floors dry enough to walk on within 30 seconds",
+        "1,000 m²/hr cleaning rate covers a supermarket floor in one shift",
+        "AGM batteries with onboard charger: plug in overnight, ready every morning",
+        "200 RPM disc brush with 20 kg down pressure for embedded dirt removal on quarry tile",
+        "Nilfisk service network across the Middle East for parts and technical support"
+      ],
+      "availability": "Available for Rent"
+    },
+    {
+      "slug": "taski-swingo-1650-ride-on-scrubber",
+      "name": "Taski Swingo 1650 Ride-On Scrubber",
+      "shortDescription": "Ride-on scrubber drier with 65 cm scrub path and 105 L solution tank. Taski Swingo 1650 built for warehouses, airport concourses, and large-scale commercial floor maintenance.",
+      "description": "Ride-on scrubber drier with 65 cm scrub path and 105 L solution tank. Taski Swingo 1650 built for warehouses, airport concourses, and large-scale commercial floor maintenance. Available for rent in Dubai with free delivery.",
+      "image": "/images/products/cleaners-taski-swingo-1650-ride-on-scrubber.webp",
+      "price": "Contact for Pricing",
+      "specifications": {
+        "Scrub Path": "65 cm",
+        "Brush Type": "Dual cylindrical roller brushes",
+        "Brush Speed": "600 RPM",
+        "Solution Tank": "105 L",
+        "Recovery Tank": "115 L",
+        "Cleaning Rate": "3,200 m²/hr",
+        "Brush Pressure": "45 kg variable",
+        "Power": "36V battery bank (traction + brush motors)",
+        "Run Time": "Up to 3.5 hours heavy-duty cleaning",
+        "Operating Weight": "380 kg (with batteries)",
+        "Squeegee Width": "90 cm curved rear with auto-lift"
+      },
+      "features": [
+        "Ride-on design cleans 3,200 m²/hr — 3x faster than the fastest walk-behind scrubber",
+        "Dual cylindrical roller brushes sweep debris and scrub simultaneously in one pass",
+        "105 L solution tank covers an entire warehouse floor section without refill stops",
+        "Auto-lift squeegee on reverse prevents streaking and squeegee edge wear",
+        "36V battery system powers both traction drive and brush motors independently",
+        "Operator seat with ergonomic controls for full-shift comfort without fatigue"
+      ],
+      "availability": "Available for Rent"
+    },
+    {
+      "slug": "viper-as430c-walk-behind-scrubber-dryer",
+      "name": "Viper AS430C Walk-Behind Scrubber Dryer",
+      "shortDescription": "Viper AS430C walk-behind scrubber dryer with 43 cm path and brush-assist drive. Value-engineered compact unit for retail, hospitality, and small commercial floor cleaning.",
+      "description": "Viper AS430C walk-behind scrubber dryer with 43 cm path and brush-assist drive. Value-engineered compact unit for retail, hospitality, and small commercial floor cleaning. Available for rent in Dubai with free delivery.",
+      "image": "/images/products/cleaners-viper-as430c-walk-behind-scrubber-dryer.webp",
+      "price": "Contact for Pricing",
+      "specifications": {
+        "Scrub Path": "43 cm",
+        "Brush Speed": "200 RPM",
+        "Solution Tank": "17 L",
+        "Recovery Tank": "20 L",
+        "Cleaning Rate": "850 m²/hr",
+        "Brush Pressure": "15 kg",
+        "Power": "24V battery (2x 12V)",
+        "Run Time": "Up to 2 hours per charge",
+        "Operating Weight": "55 kg (with batteries)",
+        "Squeegee Width": "50 cm rear",
+        "Noise Level": "66 dB(A)"
+      },
+      "features": [
+        "55 kg weight class with brush-assist drive — operator walks, machine does the scrubbing",
+        "17 L solution tank with 20 L recovery handles small-to-medium retail floor areas per fill",
+        "24V battery system with onboard charger — plug-and-play setup at any 230V outlet",
+        "200 RPM disc brush with 15 kg pressure effective on sealed concrete, tile, and vinyl",
+        "66 dB(A) noise level suitable for overnight cleaning in occupied hotels and apartments",
+        "Simple one-button operation reduces training time for shift-change cleaning crews"
+      ],
+      "availability": "Available for Rent"
+    },
+    {
+      "slug": "tennant-s30-ride-on-sweeper",
+      "name": "Tennant S30 Ride-On Sweeper",
+      "shortDescription": "Tennant S30 ride-on sweeper with 81 cm main brush and diesel power. Industrial unit for sweeping warehouses, factory floors, parking structures, and construction debris removal.",
+      "description": "Tennant S30 ride-on sweeper with 81 cm main brush and diesel power. Industrial unit for sweeping warehouses, factory floors, parking structures, and construction debris removal. Available for rent in Dubai with free delivery.",
+      "image": "/images/products/cleaners-tennant-s30-ride-on-sweeper.webp",
+      "price": "Contact for Pricing",
+      "specifications": {
+        "Sweep Path": "81 cm (main brush) / 127 cm (with side brush)",
+        "Hopper Capacity": "160 L",
+        "Filter Area": "5.5 m² panel filter with shaker system",
+        "Cleaning Rate": "5,800 m²/hr",
+        "Engine": "Kubota D1105 3-cylinder diesel",
+        "Engine Power": "18.5 kW (25 HP)",
+        "Fuel Tank": "30 L",
+        "Operating Weight": "1,050 kg",
+        "Travel Speed": "7 km/hr forward / 4 km/hr reverse",
+        "Dust Control": "Vacuum-assisted with HEPA-level filtration",
+        "Turning Radius": "2.1 m"
+      },
+      "features": [
+        "5,800 m²/hr cleaning rate — sweep a 10,000 m² warehouse floor in under 2 hours",
+        "81 cm main brush with 127 cm side brush path gets right up to walls and racking posts",
+        "Kubota diesel engine with 30 L tank for full-shift operation without refueling",
+        "160 L hopper dumps hydraulically at 1.5 m height directly into skips and dumpsters",
+        "HEPA-level panel filter with automatic shaker controls airborne dust during sweeping",
+        "Enclosed cab option with air conditioning for UAE warehouse and logistics centre use"
+      ],
+      "availability": "Available for Rent"
+    },
+    {
+      "slug": "krcher-km-70-20-c-push-sweeper",
+      "name": "Kärcher KM 70/20 C Push Sweeper",
+      "shortDescription": "Kärcher KM 70/20 C push sweeper with 700 mm sweep path and 42 L hopper. Manual petrol-powered unit for car parks, footpaths, and outdoor hard surface sweeping.",
+      "description": "Kärcher KM 70/20 C push sweeper with 700 mm sweep path and 42 L hopper. Manual petrol-powered unit for car parks, footpaths, and outdoor hard surface sweeping. Available for rent in Dubai with free delivery.",
+      "image": "/images/products/cleaners-krcher-km-70-20-c-push-sweeper.webp",
+      "price": "Contact for Pricing",
+      "specifications": {
+        "Sweep Path": "700 mm (without side brush)",
+        "Hopper Capacity": "42 L",
+        "Cleaning Rate": "2,800 m²/hr",
+        "Engine": "Kärcher petrol 4-stroke OHV",
+        "Engine Power": "2.4 kW (3.3 HP)",
+        "Fuel Tank": "1.5 L",
+        "Operating Weight": "48 kg",
+        "Filter": "Fabric dust filter with mechanical cleaning",
+        "Travel Speed": "4 km/hr (walking pace)",
+        "Side Brush": "Single side brush adds 180 mm to sweep path"
+      },
+      "features": [
+        "700 mm sweep path with 42 L hopper — empties less than any walk-behind sweeper in its class",
+        "2,800 m²/hr manual push sweeper matches the output of a small ride-on at a fraction of the cost",
+        "48 kg curb weight — one operator lifts the handle and walks at normal pace for hours",
+        "Petrol engine pushes the brush and sweeps — operator just steers, no physical pushing effort",
+        "Side brush sweeps debris from kerbs and walls into the main brush path in one pass",
+        "Fabric dust filter with self-cleaning mechanism maintains suction throughout the hopper fill cycle"
+      ],
+      "availability": "Available for Rent"
+    },
+    {
+      "slug": "hako-scrubmaster-b45-walk-behind-scrubber",
+      "name": "Hako Scrubmaster B45 Walk-Behind Scrubber",
+      "shortDescription": "Hako Scrubmaster B45 walk-behind scrubber with 45 cm scrub path and 21 L solution tank. German-engineered compact unit for education, healthcare, and retail floor maintenance.",
+      "description": "Hako Scrubmaster B45 walk-behind scrubber with 45 cm scrub path and 21 L solution tank. German-engineered compact unit for education, healthcare, and retail floor maintenance. Available for rent in Dubai with free delivery.",
+      "image": "/images/products/cleaners-hako-scrubmaster-b45-walk-behind-scrubber.webp",
+      "price": "Contact for Pricing",
+      "specifications": {
+        "Scrub Path": "45 cm",
+        "Brush Speed": "190 RPM",
+        "Solution Tank": "21 L",
+        "Recovery Tank": "23 L",
+        "Cleaning Rate": "950 m²/hr",
+        "Brush Pressure": "22 kg",
+        "Power": "24V battery (2x 12V gel)",
+        "Run Time": "Up to 2.5 hours per charge",
+        "Operating Weight": "72 kg (with batteries)",
+        "Squeegee Width": "55 cm",
+        "Noise Level": "62 dB(A)"
+      },
+      "features": [
+        "22 kg brush pressure at 190 RPM scrubs stubborn floor marks without pre-treatment",
+        "21 L solution and 23 L recovery tanks — balanced design for stable handling throughout the fill",
+        "Gel-type batteries with no-maintenance design eliminate water top-ups and acid checks",
+        "62 dB(A) — the quietest walk-behind scrubber in the fleet, approved for occupied schools",
+        "Hako German build quality with fully seam-welded polyethylene tanks that never rust",
+        "Integrated battery charger with automatic desulfation cycle for extended battery life"
+      ],
+      "availability": "Available for Rent"
+    },
+    {
+      "slug": "ipc-eagle-ct45-walk-behind-auto-scrubber",
+      "name": "IPC Eagle CT45 Walk-Behind Auto Scrubber",
+      "shortDescription": "IPC Eagle CT45 walk-behind auto scrubber with 45 cm scrub path and 18 L tank. Compact self-propelled unit for small offices, hotel corridors, and fitness studio floor care.",
+      "description": "IPC Eagle CT45 walk-behind auto scrubber with 45 cm scrub path and 18 L tank. Compact self-propelled unit for small offices, hotel corridors, and fitness studio floor care. Available for rent in Dubai with free delivery.",
+      "image": "/images/products/cleaners-ipc-eagle-ct45-walk-behind-auto-scrubber.webp",
+      "price": "Contact for Pricing",
+      "specifications": {
+        "Scrub Path": "45 cm",
+        "Brush Speed": "180 RPM",
+        "Solution Tank": "18 L",
+        "Recovery Tank": "20 L",
+        "Cleaning Rate": "800 m²/hr",
+        "Brush Pressure": "16 kg",
+        "Power": "24V battery (2x 12V)",
+        "Run Time": "Up to 2 hours per charge",
+        "Operating Weight": "50 kg (with batteries)",
+        "Squeegee Width": "50 cm",
+        "Noise Level": "64 dB(A)"
+      },
+      "features": [
+        "50 kg and 45 cm wide — the most manoeuvrable auto scrubber for tight hotel corridors",
+        "Self-propelled drive with variable speed control matches the operator walking pace",
+        "18 L solution tank is the right size for small floor areas — no chemical waste at shift end",
+        "180 RPM disc brush with 16 kg pressure for daily light scrubbing on polished floors",
+        "50 cm rear squeegee leaves floors dry within seconds for guest and staff safety",
+        "Italian-built IPC with global parts distribution for rapid service anywhere in the UAE"
+      ],
+      "availability": "Available for Rent"
+    }
+  ]
+}

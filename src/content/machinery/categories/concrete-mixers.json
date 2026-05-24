@@ -1,0 +1,118 @@
+{
+  "slug": "concrete-mixers",
+  "name": "Concrete Mixers",
+  "description": "Site concrete mixers for construction and civil engineering projects. Diesel and electric drum mixers for small to medium concrete batch production.",
+  "image": "/images/products/concrete-mixers-altrad-belle-premier-100xt-site-concrete-mixer.webp",
+  "ogImage": "/images/products/concrete-mixers-altrad-belle-premier-100xt-site-concrete-mixer.webp",
+  "canonicalPath": "/equipment/concrete-mixers",
+  "machines": [
+    {
+      "slug": "altrad-belle-premier-100xt-site-concrete-mixer",
+      "name": "Altrad Belle Premier 100XT Site Concrete Mixer",
+      "shortDescription": "Altrad Belle Premier 100XT diesel site concrete mixer with 260 L drum capacity. Tip-up discharge design for small-to-medium concrete batching on construction sites.",
+      "description": "Altrad Belle Premier 100XT diesel site concrete mixer with 260 L drum capacity. Tip-up discharge design for small-to-medium concrete batching on construction sites. Available for rent in Dubai with free delivery.",
+      "image": "/images/products/concrete-mixers-altrad-belle-premier-100xt-site-concrete-mixer.webp",
+      "price": "Contact for Pricing",
+      "specifications": {
+        "Drum Capacity": "260 L total / 170 L mixing output",
+        "Engine": "Hatz 1B20 1-cylinder air-cooled diesel",
+        "Engine Power": "3.3 kW (4.5 HP)",
+        "Drum Speed": "24 RPM",
+        "Operating Weight": "175 kg",
+        "Fuel Tank": "3.2 L",
+        "Discharge": "Manual tip-up with handwheel",
+        "Wheels": "Pneumatic tyres with tow bar"
+      },
+      "features": [
+        "Hatz air-cooled diesel starts in 50°C heat with no radiator or coolant to maintain",
+        "260 L drum batching 170 L of mixed concrete per cycle — 1 m³ per hour with a 2-man crew",
+        "Manual tip-up handwheel discharge with mechanical advantage — one operator tilts and pours",
+        "Pneumatic tyres with tow bar for on-site relocation behind a pickup or dumper truck",
+        "Altrad Belle cast iron ring gear with grease nipple — designed for 20+ year drum service life",
+        "3.2 L tank runs 8+ hours of intermittent batching on a single diesel fill"
+      ],
+      "availability": "Available for Rent"
+    },
+    {
+      "slug": "winget-100t-diesel-mechanical-concrete-mixer",
+      "name": "Winget 100T Diesel Mechanical Concrete Mixer",
+      "shortDescription": "Winget 100T diesel mechanical concrete mixer with 200 L drum. Reversing drum design for thorough mixing with mechanical dump discharge — a classic UK construction site machine.",
+      "description": "Winget 100T diesel mechanical concrete mixer with 200 L drum. Reversing drum design for thorough mixing with mechanical dump discharge — a classic UK construction site machine. Available for rent in Dubai with free delivery.",
+      "image": "/images/products/concrete-mixers-winget-100t-diesel-mechanical-concrete-mixer.webp",
+      "price": "Contact for Pricing",
+      "specifications": {
+        "Drum Capacity": "200 L total / 130 L mixing output",
+        "Engine": "Hatz 1B20 1-cylinder air-cooled diesel",
+        "Engine Power": "3.5 kW (4.8 HP)",
+        "Drum Speed": "22 RPM",
+        "Operating Weight": "165 kg",
+        "Fuel Tank": "3.5 L",
+        "Drive": "V-belt and friction clutch",
+        "Towable": "Yes — standard road tow hitch"
+      },
+      "features": [
+        "Reversing drum design mixes 20% faster than tilt-drum equivalents for the same batch size",
+        "V-belt and friction clutch drive — field-serviceable with standard tools, no hydraulics",
+        "Hatz 1B20 diesel sips 0.4 L/hr under batch mixing conditions for all-day fuel economy",
+        "Mechanical dump discharge with counterweight assist — no electrical or hydraulic failure points",
+        "Standard road tow hitch for highway towing at 80 km/h between sites",
+        "Winget UK manufacturing with cast components — parts available through Dubai equipment dealers"
+      ],
+      "availability": "Available for Rent"
+    },
+    {
+      "slug": "safari-10-7-heavy-duty-hydraulic-concrete-mixer",
+      "name": "Safari 10/7 Heavy Duty Hydraulic Concrete Mixer",
+      "shortDescription": "Safari 10/7 heavy-duty hydraulic concrete mixer with 280 L drum. Hydraulic tilt discharge for precision pouring into formwork — built for Indian and Middle Eastern construction.",
+      "description": "Safari 10/7 heavy-duty hydraulic concrete mixer with 280 L drum. Hydraulic tilt discharge for precision pouring into formwork — built for Indian and Middle Eastern construction. Available for rent in Dubai with free delivery.",
+      "image": "/images/products/concrete-mixers-safari-10-7-heavy-duty-hydraulic-concrete-mixer.webp",
+      "price": "Contact for Pricing",
+      "specifications": {
+        "Drum Capacity": "280 L total / 200 L mixing output",
+        "Engine": "Lister Petter TS2 2-cylinder air-cooled diesel",
+        "Engine Power": "6.7 kW (9 HP)",
+        "Drum Speed": "20 RPM",
+        "Operating Weight": "320 kg",
+        "Fuel Tank": "5.5 L",
+        "Discharge": "Hydraulic ram tilt with hand lever control",
+        "Wheels": "4 pneumatic tyres on rigid chassis"
+      },
+      "features": [
+        "Hydraulic ram tilt discharge with hand lever — pour directly into column and beam formwork",
+        "280 L drum with 200 L output per batch — one mixer serves a small villa slab pour",
+        "Lister Petter twin-cylinder diesel with cast iron block for continuous-duty Indian/Middle East use",
+        "4-wheel rigid chassis with tow bar — stable during towing and mixing on uneven ground",
+        "Hydraulic system with relief valve prevents ram damage if the drum hits an obstruction during tilt",
+        "Cast manganese steel mixing blades bolt-on replaceable — no welding needed for blade changes"
+      ],
+      "availability": "Available for Rent"
+    },
+    {
+      "slug": "kushlan-products-600dd-direct-drive-concrete-mixer",
+      "name": "Kushlan Products 600DD Direct Drive Concrete Mixer",
+      "shortDescription": "Kushlan 600DD electric direct-drive concrete mixer with 170 L drum. 230V single-phase portable mixer for small batch concrete, mortar, and plaster mixing on finishing crews.",
+      "description": "Kushlan 600DD electric direct-drive concrete mixer with 170 L drum. 230V single-phase portable mixer for small batch concrete, mortar, and plaster mixing on finishing crews. Available for rent in Dubai with free delivery.",
+      "image": "/images/products/concrete-mixers-kushlan-products-600dd-direct-drive-concrete-mixer.webp",
+      "price": "Contact for Pricing",
+      "specifications": {
+        "Drum Capacity": "170 L total / 110 L mixing output",
+        "Motor": "0.75 kW electric, 230V single-phase",
+        "Motor Power": "1 HP",
+        "Drum Speed": "28 RPM",
+        "Operating Weight": "65 kg",
+        "Drive": "Direct-drive gear motor — no belts",
+        "Discharge": "Manual tip with locking quadrant",
+        "Wheels": "2 pneumatic tyres with handles"
+      },
+      "features": [
+        "230V single-phase electric motor — plug into any site outlet, zero fuel, zero fumes for indoor use",
+        "Direct-drive gear motor eliminates belt tensioning and slippage — zero drivetrain maintenance",
+        "65 kg with wheelbarrow-style handles — two workers hand-carry up stairs for high-rise finishing",
+        "28 RPM drum speed is 20% faster than diesel equivalents — faster batch cycles for plaster and mortar",
+        "Locking quadrant holds the drum at any pour angle for controlled discharge into buckets and wheelbarrows",
+        "0.75 kW motor costs under 2 AED per day in electricity — the cheapest operating mixer in the fleet"
+      ],
+      "availability": "Available for Rent"
+    }
+  ]
+}

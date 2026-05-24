@@ -1,0 +1,13 @@
+# Protect config files from direct browser access
+<Files "config.php">
+    Order Allow,Deny
+    Deny from all
+</Files>
+
+# Block directory listing
+Options -Indexes
+
+# Only allow POST requests to send-inquiry.php
+<Files "send-inquiry.php">
+    # Allow all access (POST handled in PHP)
+</Files>

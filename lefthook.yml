@@ -1,0 +1,18 @@
+pre-commit:
+  parallel: true
+  commands:
+    typecheck:
+      run: tsc --noEmit
+    lint:
+      run: eslint --fix {staged_files}
+    format:
+      run: prettier --write {staged_files}
+    test:
+      run: vitest run -- related {staged_files}
+
+pre-push:
+  commands:
+    test:
+      run: vitest run
+    build:
+      run: vite build

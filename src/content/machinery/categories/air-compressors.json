@@ -1,0 +1,309 @@
+{
+  "slug": "air-compressors",
+  "name": "Air Compressors",
+  "description": "Portable diesel air compressors for construction, mining, and industrial applications requiring compressed air on-site.",
+  "image": "/images/products/air-compressor-main.png",
+  "ogImage": "/images/products/air-compressor-main.png",
+  "canonicalPath": "/equipment/air-compressors",
+  "machines": [
+    {
+      "slug": "airman-pds185s-portable-diesel-air-compressor",
+      "name": "Airman PDS185S Portable Diesel Air Compressor",
+      "shortDescription": "Towable portable screw air compressor powered by diesel engine. Widely used for construction, mining, and industrial applications requiring compressed air.",
+      "description": "Towable portable screw air compressor powered by diesel engine. Widely used for construction, mining, and industrial applications requiring compressed air. Available for rent in Dubai with free delivery.",
+      "image": "/images/products/air-compressors-airman-pds185s.webp",
+      "price": "Contact for Pricing",
+      "specifications": {
+        "Air Delivery": "185 CFM (5.2 m³/min)",
+        "Working Pressure": "7 bar (100 psi)",
+        "Engine": "Isuzu 4JB1 diesel engine (37 kW)",
+        "Fuel Tank": "80 L",
+        "Weight": "1100 kg",
+        "Dimensions": "2800x1500x1600 mm",
+        "Noise Level": "68 dB(A)",
+        "Trailer": "Single axle with jockey wheel",
+        "Application": "Jack hammers, sand blasting, drilling"
+      },
+      "features": [
+        "185 CFM high air delivery",
+        "Isuzu diesel engine for reliability",
+        "Towable single-axle trailer design",
+        "Low noise at 68 dB(A)",
+        "Suitable for jackhammers and drilling",
+        "80 L fuel tank for extended operation"
+      ],
+      "availability": "Available for Rent"
+    },
+    {
+      "slug": "airman-pds185s-portable-diesel-compressor-alt",
+      "name": "Airman PDS185S Portable Diesel Compressor (Alternative View)",
+      "shortDescription": "Towable rotary screw air compressor delivering 185 CFM at 100 psi. Isuzu diesel engine with automatic idle control and emergency stop.",
+      "description": "Towable rotary screw air compressor delivering 185 CFM at 100 psi. Isuzu diesel engine with automatic idle control and emergency stop. Available for rent in Dubai with free delivery.",
+      "image": "/images/products/air-compressors-airman-pds185s-alt.webp",
+      "price": "Contact for Pricing",
+      "specifications": {
+        "Air Delivery": "185 CFM (5.2 m³/min)",
+        "Pressure": "7-8.5 bar",
+        "Engine": "Isuzu 4LE2 (or similar) 36 kW",
+        "Fuel Consumption": "7-9 L/h",
+        "Fuel Tank": "75 L",
+        "Oil Separator": "Spin-on type",
+        "Cooling": "Engine coolant + aftercooler",
+        "Trailer": "Single axle with jockey wheel",
+        "Weight": "1050 kg",
+        "Dimensions": "2750x1450x1550 mm",
+        "Safety": "Emergency stop, high temp shutdown",
+        "Application": "Road repair, construction, blasting"
+      },
+      "features": [
+        "185 CFM rotary screw compressor",
+        "Automatic idle control for fuel savings",
+        "Emergency stop and high temp shutdown",
+        "Efficient aftercooler system",
+        "Spin-on oil separator for easy maintenance",
+        "Ideal for road repair and construction"
+      ],
+      "availability": "Available for Rent"
+    },
+    {
+      "slug": "airman-pds390s-towable-air-compressor",
+      "name": "AIRMAN PDS390S towable air compressor",
+      "shortDescription": "Towable diesel air compressor delivering 390 CFM at 100 PSI with AIRMAN rotary screw airend. Designed for heavy pneumatic tools, sandblasting, and multi-tool job sites.",
+      "description": "Towable diesel air compressor delivering 390 CFM at 100 PSI with AIRMAN rotary screw airend. Designed for heavy pneumatic tools, sandblasting, and multi-tool job sites. Available for rent in Dubai with free delivery.",
+      "image": "/images/products/air-compressors-airman-pds390s-towable-air-compressor.webp",
+      "price": "Contact for Pricing",
+      "specifications": {
+        "Air Delivery": "390 CFM (11.0 m³/min)",
+        "Rated Pressure": "100 PSI (7 bar)",
+        "Engine": "Isuzu 4-cylinder diesel",
+        "Engine Power": "80 kW (107 HP)",
+        "Airend": "AIRMAN single-stage rotary screw",
+        "Fuel Tank": "160 L",
+        "Operating Weight": "1,250 kg",
+        "Dimensions (LxWxH)": "2,900 x 1,650 x 1,550 mm",
+        "Sound Level": "70 dB(A) at 7 m",
+        "Outlets": "3/4 inch x 3, 2 inch x 1",
+        "Towable": "Yes — highway-rated chassis with leaf spring suspension"
+      },
+      "features": [
+        "390 CFM output supports up to 4 pneumatic breakers simultaneously",
+        "Isuzu diesel engine with proven parts availability across the UAE",
+        "Highway-rated towable chassis — road-legal with standard tow hitch",
+        "70 dB(A) noise rating suitable for urban and residential job sites",
+        "Single-stage AIRMAN rotary screw airend with minimal moving parts",
+        "Large 160 L fuel tank for full-shift operation without refueling"
+      ],
+      "availability": "Available for Rent"
+    },
+    {
+      "slug": "atlas-copco-xas-88-towable-air-compressor",
+      "name": "Atlas Copco XAS 88 Towable Air Compressor",
+      "shortDescription": "Compact towable rotary screw compressor delivering 88 CFM at 100 PSI. Atlas Copco reliability in a single-axle package for light demolition, drilling, and cable blowing.",
+      "description": "Compact towable rotary screw compressor delivering 88 CFM at 100 PSI. Atlas Copco reliability in a single-axle package for light demolition, drilling, and cable blowing. Available for rent in Dubai with free delivery.",
+      "image": "/images/products/air-compressors-atlas-copco-xas-88-towable-air-compressor.webp",
+      "price": "Contact for Pricing",
+      "specifications": {
+        "Air Delivery": "88 CFM (2.5 m³/min)",
+        "Rated Pressure": "100 PSI (7 bar)",
+        "Engine": "Kubota V1505 4-cylinder diesel",
+        "Engine Power": "25 kW (34 HP)",
+        "Airend": "Atlas Copco single-stage screw",
+        "Fuel Tank": "60 L",
+        "Operating Weight": "750 kg",
+        "Dimensions (LxWxH)": "1,900 x 1,100 x 1,200 mm",
+        "Sound Level": "68 dB(A) at 7 m",
+        "Outlets": "3/4 inch x 2",
+        "Towable": "Yes — single-axle with parking brake"
+      },
+      "features": [
+        "Atlas Copco screw airend with legendary durability and service intervals",
+        "88 CFM at 100 PSI — ideal for a single jackhammer or two small breakers",
+        "Single-axle at 750 kg — towable behind a standard pickup truck",
+        "68 dB(A) noise level permits operation near occupied buildings",
+        "Kubota diesel sips fuel at 3-4 L/hr under load for low operating cost",
+        "Compact 1.9 m length parks in standard job site storage containers"
+      ],
+      "availability": "Available for Rent"
+    },
+    {
+      "slug": "doosan-p185-portable-air-compressor",
+      "name": "Doosan P185 Portable Air Compressor",
+      "shortDescription": "Portable rotary screw compressor producing 185 CFM at 100 PSI. The industry standard 185-class machine for road repair, utility work, and pneumatic tool operation.",
+      "description": "Portable rotary screw compressor producing 185 CFM at 100 PSI. The industry standard 185-class machine for road repair, utility work, and pneumatic tool operation. Available for rent in Dubai with free delivery.",
+      "image": "/images/products/air-compressors-doosan-p185-portable-air-compressor.webp",
+      "price": "Contact for Pricing",
+      "specifications": {
+        "Air Delivery": "185 CFM (5.2 m³/min)",
+        "Rated Pressure": "100 PSI (7 bar)",
+        "Engine": "Doosan D24 4-cylinder diesel",
+        "Engine Power": "49 kW (66 HP)",
+        "Airend": "Doosan rotary screw",
+        "Fuel Tank": "95 L",
+        "Operating Weight": "930 kg",
+        "Dimensions (LxWxH)": "2,200 x 1,350 x 1,400 mm",
+        "Sound Level": "72 dB(A) at 7 m",
+        "Outlets": "3/4 inch x 2, 1 inch x 1",
+        "Towable": "Yes — single-axle chassis"
+      },
+      "features": [
+        "185 CFM — the standard capacity for running 2-3 pneumatic breakers",
+        "Doosan D24 in-house diesel engine with optimized fuel mapping for compressors",
+        "Single-axle towable at 930 kg for fast relocation between work zones",
+        "Rotary screw airend with 10,000-hour bearing life under continuous duty",
+        "72 dB(A) meets UAE municipality noise limits for daytime construction",
+        "Multiple outlets with individual valves for tool selection without shutdown"
+      ],
+      "availability": "Available for Rent"
+    },
+    {
+      "slug": "kaeser-mobilair-m43-towable-compressor",
+      "name": "Kaeser Mobilair M43 Towable Compressor",
+      "shortDescription": "Portable piston compressor delivering 43 CFM with Kaeser high-efficiency pump. Designed for single-tool operation — breakers, drills, and pneumatic pick-hammers on small job sites.",
+      "description": "Portable piston compressor delivering 43 CFM with Kaeser high-efficiency pump. Designed for single-tool operation — breakers, drills, and pneumatic pick-hammers on small job sites. Available for rent in Dubai with free delivery.",
+      "image": "/images/products/air-compressors-kaeser-mobilair-m43-towable-compressor.webp",
+      "price": "Contact for Pricing",
+      "specifications": {
+        "Air Delivery": "43 CFM (1.2 m³/min)",
+        "Rated Pressure": "100 PSI (7 bar)",
+        "Engine": "Honda GX390 4-stroke petrol",
+        "Engine Power": "10 kW (13 HP)",
+        "Compressor Type": "Reciprocating piston",
+        "Fuel Tank": "6.5 L",
+        "Operating Weight": "155 kg",
+        "Dimensions (LxWxH)": "1,300 x 650 x 900 mm",
+        "Sound Level": "75 dB(A)",
+        "Outlets": "3/4 inch x 1",
+        "Starting System": "Recoil"
+      },
+      "features": [
+        "Light 155 kg design — two workers can load and unload from a pickup",
+        "Kaeser reciprocating pump with cast iron cylinder for extended life",
+        "Honda GX390 petrol engine — no diesel, no glow plugs, fast cold start",
+        "43 CFM perfectly matched for a single jackhammer or pneumatic drill",
+        "Compact 1.3 m length fits through standard doorways and narrow access",
+        "Minimal maintenance — oil changes at 500-hour intervals with standard 10W-30"
+      ],
+      "availability": "Available for Rent"
+    },
+    {
+      "slug": "sullair-185-dpq-towable-air-compressor",
+      "name": "Sullair 185 DPQ Towable Air Compressor",
+      "shortDescription": "Towable rotary screw compressor delivering 185 CFM at 125 PSI maximum. Sullair DPQ series with spiral valve technology for variable-demand pneumatic tool applications.",
+      "description": "Towable rotary screw compressor delivering 185 CFM at 125 PSI maximum. Sullair DPQ series with spiral valve technology for variable-demand pneumatic tool applications. Available for rent in Dubai with free delivery.",
+      "image": "/images/products/air-compressors-sullair-185-dpq-towable-air-compressor.webp",
+      "price": "Contact for Pricing",
+      "specifications": {
+        "Air Delivery": "185 CFM (5.2 m³/min)",
+        "Rated Pressure": "125 PSI (8.6 bar) maximum",
+        "Engine": "Kubota V2403 4-cylinder diesel",
+        "Engine Power": "45 kW (60 HP)",
+        "Airend": "Sullair DPQ rotary screw with spiral valve",
+        "Fuel Tank": "110 L",
+        "Operating Weight": "950 kg",
+        "Dimensions (LxWxH)": "2,250 x 1,380 x 1,450 mm",
+        "Sound Level": "72 dB(A) at 7 m",
+        "Outlets": "3/4 inch x 2, 2 inch x 1",
+        "Towable": "Yes — single-axle"
+      },
+      "features": [
+        "Spiral valve technology matches air output to tool demand for fuel savings",
+        "125 PSI maximum pressure handles high-demand tools like rock drills",
+        "Kubota V2403 diesel with 110 L tank for extended run times on remote sites",
+        "2-inch service outlet for high-volume tasks such as abrasive blasting",
+        "Sullair DPQ airend designed for 8,000 hours between major overhauls",
+        "Single-axle design with torsion bar suspension for smooth highway towing"
+      ],
+      "availability": "Available for Rent"
+    },
+    {
+      "slug": "chicago-pneumatic-cps-185-portable-compressor",
+      "name": "Chicago Pneumatic CPS 185 Portable Compressor",
+      "shortDescription": "Portable rotary screw compressor with 185 CFM output and simple mechanical controls. A no-frills workhorse for construction, utilities, and general pneumatic applications.",
+      "description": "Portable rotary screw compressor with 185 CFM output and simple mechanical controls. A no-frills workhorse for construction, utilities, and general pneumatic applications. Available for rent in Dubai with free delivery.",
+      "image": "/images/products/air-compressors-chicago-pneumatic-cps-185-portable-compressor.webp",
+      "price": "Contact for Pricing",
+      "specifications": {
+        "Air Delivery": "185 CFM (5.2 m³/min)",
+        "Rated Pressure": "100 PSI (7 bar)",
+        "Engine": "Kubota V2403 4-cylinder diesel",
+        "Engine Power": "45 kW (60 HP)",
+        "Airend": "Chicago Pneumatic CPE screw",
+        "Fuel Tank": "95 L",
+        "Operating Weight": "920 kg",
+        "Dimensions (LxWxH)": "2,200 x 1,350 x 1,420 mm",
+        "Sound Level": "74 dB(A) at 7 m",
+        "Outlets": "3/4 inch x 2, 1 inch x 1",
+        "Towable": "Yes — single-axle"
+      },
+      "features": [
+        "185 CFM standard-class output with straightforward mechanical controls",
+        "Kubota diesel engine backed by one of the largest service networks in the UAE",
+        "Chicago Pneumatic CPE screw airend with multi-year warranty coverage",
+        "Single-axle at 920 kg tows behind most fleet pickups without special licensing",
+        "Simple instrument panel with hour meter, discharge pressure, and temperature gauge",
+        "Tool-free access panels on both sides for daily checks and servicing"
+      ],
+      "availability": "Available for Rent"
+    },
+    {
+      "slug": "makita-mac2400-big-bore-air-compressor",
+      "name": "Makita MAC2400 Big Bore Air Compressor",
+      "shortDescription": "Electric 4.2 CFM workshop compressor with 2.5 HP motor and big-bore cast iron pump. Suitable for finish nailing, tire inflation, blow cleaning, and light automotive work.",
+      "description": "Electric 4.2 CFM workshop compressor with 2.5 HP motor and big-bore cast iron pump. Suitable for finish nailing, tire inflation, blow cleaning, and light automotive work. Available for rent in Dubai with free delivery.",
+      "image": "/images/products/air-compressors-makita-mac2400-big-bore-air-compressor.webp",
+      "price": "Contact for Pricing",
+      "specifications": {
+        "Air Delivery": "4.2 CFM at 90 PSI",
+        "Max Pressure": "130 PSI (9 bar)",
+        "Motor": "2.5 HP (1.9 kW) induction, 220-240V single-phase",
+        "Pump": "Big-bore cast iron, oil-lubricated",
+        "Tank Capacity": "4.2 US gallons (16 L)",
+        "Pump RPM": "1,730",
+        "Operating Weight": "35 kg",
+        "Dimensions (LxWxH)": "450 x 450 x 550 mm",
+        "Sound Level": "79 dB(A)",
+        "Outlets": "1/4 inch quick-connect x 1",
+        "Duty Cycle": "50% — rated for intermittent operation"
+      },
+      "features": [
+        "Big-bore cast iron pump with splash lubrication for long service life",
+        "2.5 HP induction motor runs on standard 220V single-phase power",
+        "Compact 35 kg design with carry handle — one-person transport",
+        "Oil-lubricated pump runs cooler and quieter than oilless competitors",
+        "16 L tank for sustained airflow without constant motor cycling",
+        "Ideal for workshop trim nailing, tire inflation, and blow cleaning tasks"
+      ],
+      "availability": "Available for Rent"
+    },
+    {
+      "slug": "dewalt-dxcmv5048055-two-stage-air-compressor",
+      "name": "DeWalt DXCMV5048055 Two-Stage Air Compressor",
+      "shortDescription": "Two-stage electric air compressor delivering 5 CFM at 175 PSI with 30-gallon vertical tank. Built for automotive shops, bodywork, and high-demand pneumatic tools.",
+      "description": "Two-stage electric air compressor delivering 5 CFM at 175 PSI with 30-gallon vertical tank. Built for automotive shops, bodywork, and high-demand pneumatic tools. Available for rent in Dubai with free delivery.",
+      "image": "/images/products/air-compressors-dewalt-dxcmv5048055-two-stage-air-compressor.webp",
+      "price": "Contact for Pricing",
+      "specifications": {
+        "Air Delivery": "5.0 CFM at 90 PSI",
+        "Max Pressure": "175 PSI (12 bar)",
+        "Motor": "4.7 HP (3.5 kW) induction, 220-240V single-phase",
+        "Pump": "Two-stage cast iron, V-twin, oil-lubricated",
+        "Tank Capacity": "30 US gallons (113 L) vertical",
+        "Pump RPM": "1,050",
+        "Operating Weight": "115 kg",
+        "Dimensions (LxWxH)": "600 x 720 x 1,700 mm",
+        "Sound Level": "82 dB(A)",
+        "Outlets": "1/4 inch quick-connect x 2",
+        "Duty Cycle": "Continuous rated with automatic stop-start"
+      },
+      "features": [
+        "Two-stage V-twin pump compresses air in two stages for higher efficiency",
+        "175 PSI maximum pressure drives impact wrenches, ratchets, and spray guns",
+        "113 L vertical tank stores enough air for intermittent high-demand tools",
+        "Continuous-duty rated motor with automatic pressure switch stop-start",
+        "Cast iron cylinders and stainless steel reed valves for 10,000+ hour life",
+        "Vertical tank footprint saves shop floor space in UAE workshop units"
+      ],
+      "availability": "Available for Rent"
+    }
+  ]
+}

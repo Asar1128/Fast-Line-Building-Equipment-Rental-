@@ -1,0 +1,299 @@
+{
+  "slug": "pressure-washers",
+  "name": "Pressure Washers",
+  "description": "High-performance electric and diesel pressure washers for residential, commercial, and industrial cleaning tasks.",
+  "image": "/images/products/pressure-washers-dewalt-dxpw1500e.webp",
+  "ogImage": "/images/products/pressure-washers-dewalt-dxpw1500e.webp",
+  "canonicalPath": "/equipment/pressure-washers",
+  "machines": [
+    {
+      "slug": "dewalt-dxpw1500e-electric-pressure-washer",
+      "name": "DeWalt DXPW1500E 1500 PSI Electric Pressure Washer",
+      "shortDescription": "High-performance electric pressure washer for residential and light commercial cleaning tasks. Features a durable axial pump and onboard detergent tank.",
+      "description": "High-performance electric pressure washer for residential and light commercial cleaning tasks. Features a durable axial pump and onboard detergent tank. Available for rent in Dubai with free delivery.",
+      "image": "/images/products/pressure-washers-dewalt-dxpw1500e.webp",
+      "price": "Contact for Pricing",
+      "specifications": {
+        "Max Pressure": "1500 PSI (103 bar)",
+        "Flow Rate": "1.8 GPM (6.8 L/min)",
+        "Motor": "13 Amp universal motor",
+        "Pump Type": "Axial cam",
+        "Hose Length": "25 ft",
+        "Power Cord": "35 ft GFCI",
+        "Detergent Tank": "Integrated",
+        "Weight": "35 lbs",
+        "Spray Nozzles": "15°, 25°, 40°, soap nozzle"
+      },
+      "features": [
+        "1500 PSI powerful cleaning pressure",
+        "Multiple spray nozzles for versatility",
+        "Integrated detergent tank",
+        "GFCI protected power cord",
+        "Lightweight at 35 lbs for portability",
+        "Ideal for vehicles, patios, and equipment cleaning"
+      ],
+      "availability": "Available for Rent"
+    },
+    {
+      "slug": "krcher-hd-9-20-4-m-cold-water-high-pressure-cleaner",
+      "name": "Kärcher HD 9/20-4 M Cold Water High-Pressure Cleaner",
+      "shortDescription": "Kärcher HD 9/20-4 M cold water high-pressure cleaner delivering 200 bar at 900 L/hr. Electric-powered professional unit for construction site cleaning, fleet washing, and heavy soil removal.",
+      "description": "Kärcher HD 9/20-4 M cold water high-pressure cleaner delivering 200 bar at 900 L/hr. Electric-powered professional unit for construction site cleaning, fleet washing, and heavy soil removal. Available for rent in Dubai with free delivery.",
+      "image": "/images/products/pressure-washers-krcher-hd-9-20-4-m-cold-water-high-pressure-cleaner.webp",
+      "price": "Contact for Pricing",
+      "specifications": {
+        "Pressure": "200 bar (2,900 PSI)",
+        "Water Flow": "900 L/hr",
+        "Motor": "4.0 kW electric, 400V 3-phase",
+        "Pump": "Kärcher axial piston pump, brass cylinder head",
+        "Inlet Temperature": "Max 60°C",
+        "Hose Length": "15 m high-pressure hose",
+        "Operating Weight": "56 kg",
+        "Dimensions (LxWxH)": "560 x 500 x 930 mm",
+        "Noise Level": "72 dB(A)",
+        "Detergent Tank": "1 L onboard",
+        "Protection": "IPX5 rated, water-jet proof"
+      },
+      "features": [
+        "200 bar at 900 L/hr removes concrete residue, mud, and heavy industrial soiling",
+        "Kärcher axial piston pump with brass head — designed for 2,000+ hours between services",
+        "4.0 kW 3-phase motor eliminates petrol fumes for indoor and confined-space cleaning",
+        "IPX5 water-jet-proof casing handles site washdown without electrical risk",
+        "Onboard 1 L detergent tank feeds cleaning chemicals directly through the pump",
+        "15 m high-pressure hose with quick-connect coupling for fast accessory changes"
+      ],
+      "availability": "Available for Rent"
+    },
+    {
+      "slug": "krcher-hds-8-18-4-c-hot-water-pressure-washer",
+      "name": "Kärcher HDS 8/18-4 C Hot Water Pressure Washer",
+      "shortDescription": "Kärcher HDS 8/18-4 C hot water pressure washer producing 180 bar at 800 L/hr with diesel-fired boiler. Built for degreasing, oil removal, and heavy-duty fleet and machinery cleaning.",
+      "description": "Kärcher HDS 8/18-4 C hot water pressure washer producing 180 bar at 800 L/hr with diesel-fired boiler. Built for degreasing, oil removal, and heavy-duty fleet and machinery cleaning. Available for rent in Dubai with free delivery.",
+      "image": "/images/products/pressure-washers-krcher-hds-8-18-4-c-hot-water-pressure-washer.webp",
+      "price": "Contact for Pricing",
+      "specifications": {
+        "Pressure": "180 bar (2,600 PSI)",
+        "Water Flow": "800 L/hr",
+        "Max Temperature": "80°C hot water / 155°C steam mode",
+        "Motor": "4.5 kW electric, 400V 3-phase",
+        "Heating": "Diesel-fired 3-pass coil boiler",
+        "Fuel Tank": "25 L diesel",
+        "Operating Weight": "170 kg",
+        "Dimensions (LxWxH)": "1,100 x 750 x 900 mm",
+        "Hose Length": "15 m",
+        "Detergent System": "Integrated 2-tank soap and rinse chemical injection"
+      },
+      "features": [
+        "80°C hot water and 155°C steam mode dissolve grease, oil, and bitumen on contact",
+        "Diesel-fired 3-pass boiler with 25 L tank runs 8+ hours on a single fill",
+        "180 bar at 800 L/hr strips heavy deposits from earthmoving equipment and fleet vehicles",
+        "Integrated 2-tank soap and rinse system enables single-pass wash and chemical application",
+        "Kärcher Eco mode reduces water and fuel consumption by 20% during light-duty cycles",
+        "170 kg on heavy-duty castors — robust enough for daily site relocation"
+      ],
+      "availability": "Available for Rent"
+    },
+    {
+      "slug": "nilfisk-mc-5m-200-1000-cold-water-pressure-washer",
+      "name": "Nilfisk MC 5M-200/1000 Cold Water Pressure Washer",
+      "shortDescription": "Nilfisk MC 5M cold water pressure washer rated 200 bar at 1,000 L/hr. High-flow electric unit for rapid surface cleaning, construction washdown, and industrial site preparation.",
+      "description": "Nilfisk MC 5M cold water pressure washer rated 200 bar at 1,000 L/hr. High-flow electric unit for rapid surface cleaning, construction washdown, and industrial site preparation. Available for rent in Dubai with free delivery.",
+      "image": "/images/products/pressure-washers-nilfisk-mc-5m-200-1000-cold-water-pressure-washer.webp",
+      "price": "Contact for Pricing",
+      "specifications": {
+        "Pressure": "200 bar (2,900 PSI)",
+        "Water Flow": "1,000 L/hr",
+        "Motor": "5.5 kW electric, 400V 3-phase",
+        "Pump": "Nilfisk C3 ceramic piston pump",
+        "Inlet Temperature": "Max 60°C",
+        "Hose Length": "15 m",
+        "Operating Weight": "85 kg",
+        "Dimensions (LxWxH)": "680 x 580 x 1,020 mm",
+        "Noise Level": "74 dB(A)",
+        "Features": "Auto stop/start, chemical injector, hour meter"
+      },
+      "features": [
+        "1,000 L/hr flow rate — one of the highest-volume electric washers available for rent",
+        "200 bar working pressure strips concrete laitance, form oil, and heavy construction grime",
+        "Nilfisk C3 ceramic piston pump: 3 pistons in ceramic sleeves for extended service intervals",
+        "Auto stop/start deactivates the pump when the trigger is released, conserving water and power",
+        "Chemical injector downstream of the pump protects internal seals from aggressive detergents",
+        "85 kg with integrated hose reel and nozzle storage — everything on one chassis"
+      ],
+      "availability": "Available for Rent"
+    },
+    {
+      "slug": "honda-gx390-4000-psi-gas-pressure-washer",
+      "name": "Honda GX390 4000 PSI Gas Pressure Washer",
+      "shortDescription": "Petrol-powered pressure washer with Honda GX390 engine producing 4,000 PSI at 4.0 GPM. Belt-drive triplex pump for heavy construction equipment washing, paint stripping, and surface prep.",
+      "description": "Petrol-powered pressure washer with Honda GX390 engine producing 4,000 PSI at 4.0 GPM. Belt-drive triplex pump for heavy construction equipment washing, paint stripping, and surface prep. Available for rent in Dubai with free delivery.",
+      "image": "/images/products/pressure-washers-honda-gx390-4000-psi-gas-pressure-washer.webp",
+      "price": "Contact for Pricing",
+      "specifications": {
+        "Pressure": "4,000 PSI (275 bar)",
+        "Water Flow": "4.0 GPM (15 L/min)",
+        "Engine": "Honda GX390 4-stroke petrol",
+        "Engine Power": "13 HP",
+        "Pump": "Triplex plunger pump, belt-driven",
+        "Pump RPM": "1,450 (reduced via belt)",
+        "Hose Length": "15 m high-pressure",
+        "Fuel Tank": "6.5 L",
+        "Operating Weight": "85 kg",
+        "Features": "Chemical injector, thermal relief valve, 5 quick-connect nozzles"
+      },
+      "features": [
+        "4,000 PSI belt-drive triplex pump — runs cooler and lasts 3x longer than direct-drive",
+        "Honda GX390 commercial engine starts first pull and runs all day on 6.5 L of petrol",
+        "Belt drive reduces pump RPM to 1,450 — less vibration, longer seal and valve life",
+        "5 quick-connect nozzles from 0° jet to 65° fan plus chemical soap applicator tip",
+        "Thermal relief valve prevents pump overheating during extended idle with engine running",
+        "85 kg on pneumatic tyres — towable behind any site vehicle without a trailer"
+      ],
+      "availability": "Available for Rent"
+    },
+    {
+      "slug": "simpson-powershot-4400-psi-gas-pressure-washer",
+      "name": "Simpson PowerShot 4400 PSI Gas Pressure Washer",
+      "shortDescription": "Simpson PowerShot 4400 PSI petrol pressure washer with Honda GX390 and AAA triplex pump. 4.0 GPM flow for industrial cleaning, surface preparation, and heavy-duty washing.",
+      "description": "Simpson PowerShot 4400 PSI petrol pressure washer with Honda GX390 and AAA triplex pump. 4.0 GPM flow for industrial cleaning, surface preparation, and heavy-duty washing. Available for rent in Dubai with free delivery.",
+      "image": "/images/products/pressure-washers-simpson-powershot-4400-psi-gas-pressure-washer.webp",
+      "price": "Contact for Pricing",
+      "specifications": {
+        "Pressure": "4,400 PSI (300 bar)",
+        "Water Flow": "4.0 GPM (15 L/min)",
+        "Engine": "Honda GX390 4-stroke petrol",
+        "Engine Power": "13 HP",
+        "Pump": "AAA industrial triplex plunger",
+        "Drive": "Direct-drive with flexible coupler",
+        "Hose Length": "15 m steel-braided high-pressure",
+        "Fuel Tank": "6.5 L",
+        "Operating Weight": "75 kg",
+        "Frame": "Powder-coated steel with wheels and handle"
+      },
+      "features": [
+        "4,400 PSI — the highest pressure washer in the Fast Line fleet for stubborn deposits",
+        "AAA industrial triplex pump with ceramic plungers and stainless steel valves",
+        "Honda GX390 engine: the same power plant used on generators and compactors fleet-wide",
+        "Steel-braided 15 m hose rated for 4,500 PSI burst with bend restrictors at both ends",
+        "Flexible coupler between engine and pump absorbs misalignment and extends pump bearing life",
+        "Powder-coated steel frame with pneumatic tyres stands up to rough site handling"
+      ],
+      "availability": "Available for Rent"
+    },
+    {
+      "slug": "lavor-hyper-l-2015-lp-hot-water-pressure-washer",
+      "name": "Lavor Hyper L 2015 LP Hot Water Pressure Washer",
+      "shortDescription": "Lavor Hyper L 2015 LP hot water pressure washer with 150 bar and diesel boiler. Professional Italian unit for degreasing engines, cleaning kitchen exhausts, and sanitizing surfaces.",
+      "description": "Lavor Hyper L 2015 LP hot water pressure washer with 150 bar and diesel boiler. Professional Italian unit for degreasing engines, cleaning kitchen exhausts, and sanitizing surfaces. Available for rent in Dubai with free delivery.",
+      "image": "/images/products/pressure-washers-lavor-hyper-l-2015-lp-hot-water-pressure-washer.webp",
+      "price": "Contact for Pricing",
+      "specifications": {
+        "Pressure": "150 bar (2,175 PSI)",
+        "Water Flow": "900 L/hr",
+        "Max Temperature": "90°C hot water / 140°C steam mode",
+        "Motor": "3.0 kW electric, 230V single-phase",
+        "Heating": "Diesel-fired vertical coil boiler",
+        "Fuel Tank": "18 L diesel",
+        "Operating Weight": "120 kg",
+        "Dimensions (LxWxH)": "940 x 650 x 880 mm",
+        "Hose Length": "10 m",
+        "Detergent": "Dual chemical injector with 5 L tank"
+      },
+      "features": [
+        "90°C hot water and 140°C steam tackle grease, wax, and bitumen without heavy scraping",
+        "230V single-phase motor — plugs into any standard site outlet, no 3-phase required",
+        "Diesel boiler with 18 L tank runs a full shift of hot water production",
+        "Dual chemical injector with 5 L onboard tank for switching between detergent and sanitizer",
+        "120 kg on swivel castors with integrated push handle for single-operator repositioning",
+        "Italian-made Lavor pump with thermal protection against dry running and cavitation"
+      ],
+      "availability": "Available for Rent"
+    },
+    {
+      "slug": "mi-t-m-cw-premium-series-cold-water-pressure-washer",
+      "name": "Mi-T-M CW Premium Series Cold Water Pressure Washer",
+      "shortDescription": "Mi-T-M CW Premium cold water electric pressure washer. Quiet 3,000 PSI belt-drive unit for indoor cleaning, food processing areas, and noise-sensitive commercial environments.",
+      "description": "Mi-T-M CW Premium cold water electric pressure washer. Quiet 3,000 PSI belt-drive unit for indoor cleaning, food processing areas, and noise-sensitive commercial environments. Available for rent in Dubai with free delivery.",
+      "image": "/images/products/pressure-washers-mi-t-m-cw-premium-series-cold-water-pressure-washer.webp",
+      "price": "Contact for Pricing",
+      "specifications": {
+        "Pressure": "3,000 PSI (207 bar)",
+        "Water Flow": "3.5 GPM (13 L/min)",
+        "Motor": "5.0 HP electric, 230V single-phase",
+        "Pump": "AR triplex plunger, belt-drive",
+        "Hose Length": "15 m",
+        "Operating Weight": "65 kg",
+        "Dimensions (LxWxH)": "700 x 500 x 900 mm",
+        "Noise Level": "68 dB(A)",
+        "Features": "Chemical injector, 4 quick-connect nozzles, hose reel"
+      },
+      "features": [
+        "68 dB(A) — one of the quietest industrial pressure washers available for indoor use",
+        "Belt-drive AR triplex pump runs at lower RPM for extended seal and valve longevity",
+        "230V single-phase motor eliminates generator dependency for building interior work",
+        "3,000 PSI at 3.5 GPM with integrated hose reel and onboard nozzle storage",
+        "Chemical injector mounts downstream for safe application of cleaning detergents",
+        "65 kg on pneumatic tyres — push into position and lock castor brakes for stable operation"
+      ],
+      "availability": "Available for Rent"
+    },
+    {
+      "slug": "generac-3800-psi-commercial-pressure-washer",
+      "name": "Generac 3800 PSI Commercial Pressure Washer",
+      "shortDescription": "Generac 3800 PSI commercial pressure washer with Generac OHV engine and axial cam pump. An affordable petrol workhorse for construction cleanup, fleet washing, and general site maintenance.",
+      "description": "Generac 3800 PSI commercial pressure washer with Generac OHV engine and axial cam pump. An affordable petrol workhorse for construction cleanup, fleet washing, and general site maintenance. Available for rent in Dubai with free delivery.",
+      "image": "/images/products/pressure-washers-generac-3800-psi-commercial-pressure-washer.webp",
+      "price": "Contact for Pricing",
+      "specifications": {
+        "Pressure": "3,800 PSI (262 bar)",
+        "Water Flow": "3.5 GPM (13 L/min)",
+        "Engine": "Generac 208cc OHV 4-stroke petrol",
+        "Engine Power": "7 HP",
+        "Pump": "Axial cam, direct-drive",
+        "Hose Length": "15 m",
+        "Fuel Tank": "4.0 L",
+        "Operating Weight": "52 kg",
+        "Frame": "Steel tube with 10-inch pneumatic tyres",
+        "Nozzles": "5 quick-connect: 0°, 15°, 25°, 40°, soap"
+      },
+      "features": [
+        "Generac OHV engine runs on standard unleaded petrol — no diesel, no electric cord",
+        "52 kg frame with 10-inch pneumatic tyres transports easily across rough terrain",
+        "3,800 PSI at 3.5 GPM strips mud and concrete residue from site equipment and vehicles",
+        "5 quick-connect nozzles plus chemical injector for everything from spot cleaning to broad wash",
+        "Direct-drive axial cam pump with accessible oil sight glass for daily pre-start checks",
+        "Steel tube frame with integrated wand and hose storage — everything stays with the unit"
+      ],
+      "availability": "Available for Rent"
+    },
+    {
+      "slug": "kranzle-therm-c-15-150-hot-water-pressure-washer",
+      "name": "Kranzle Therm C 15/150 Hot Water Pressure Washer",
+      "shortDescription": "Kranzle Therm C 15/150 hot water pressure washer producing 150 bar at 900 L/hr with 85°C heating. German-engineered for precision cleaning, degreasing, and sanitation in demanding environments.",
+      "description": "Kranzle Therm C 15/150 hot water pressure washer producing 150 bar at 900 L/hr with 85°C heating. German-engineered for precision cleaning, degreasing, and sanitation in demanding environments. Available for rent in Dubai with free delivery.",
+      "image": "/images/products/pressure-washers-kranzle-therm-c-15-150-hot-water-pressure-washer.webp",
+      "price": "Contact for Pricing",
+      "specifications": {
+        "Pressure": "150 bar (2,175 PSI)",
+        "Water Flow": "900 L/hr",
+        "Max Temperature": "85°C hot water / 150°C steam mode",
+        "Motor": "4.0 kW electric, 400V 3-phase",
+        "Heating": "Diesel-fired stainless steel boiler coil",
+        "Fuel Tank": "20 L diesel",
+        "Operating Weight": "155 kg",
+        "Dimensions (LxWxH)": "1,050 x 730 x 950 mm",
+        "Hose Length": "15 m",
+        "Pump": "Kranzle in-house plunger pump, brass head"
+      },
+      "features": [
+        "Kranzle in-house pump machined and assembled in Germany — built for 10,000+ hour service life",
+        "85°C hot water with 150 bar pressure removes grease and oil without abrasive chemicals",
+        "150°C steam mode sanitizes food processing equipment and kills bacteria on contact",
+        "Stainless steel boiler coil versus standard copper — zero corrosion from hard UAE water",
+        "4.0 kW 3-phase motor with soft-start prevents inrush current trips on site distribution boards",
+        "155 kg on Kranzle heavy-duty chassis with integrated hose reel, lance holders, and cable storage"
+      ],
+      "availability": "Available for Rent"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Fast Line Building Equipment Rental L.L.C",
+  "shortName": "Fast Line",
+  "description": "Leading construction equipment rental company in Dubai. We provide generators, compactors, welders, light towers, scaffolding, and more with free delivery and pickup across Dubai.",
+  "siteUrl": "https://fastlinerental.com",
+  "phone": "+971-56-571-4999",
+  "whatsapp": "9710565714999",
+  "email": "info@fastlinerental.com",
+  "address": {
+    "street": "Adeem Building, Dubai 44 Street, Al Quoz Third",
+    "city": "Dubai",
+    "state": "Dubai",
+    "zip": "",
+    "country": "AE",
+    "fullAddress": "Adeem Building - Dubai 44 Street - Al Quoz Third - Al Quoz - Dubai - United Arab Emirates",
+    "latitude": 25.1785,
+    "longitude": 55.2422
+  },
+  "serviceAreas": ["Dubai", "Al Quoz"],
+  "socialProfiles": [],
+  "hours": [
+    {
+      "days": ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"],
+      "opens": "06:00",
+      "closes": "20:00"
+    }
+  ],
+  "mapsLink": "https://www.google.com/maps?daddr=Adeem+Building+-+Dubai+44+street+-+Al+Qouz+Third+-+Al+Quoz+-+Dubai+-+United+Arab+Emirates"
+}

@@ -1,0 +1,31 @@
+You are an elite Web Performance Optimization Expert. Your primary goal is to audit and optimize this React + Vite + Tailwind CSS application. 
+
+### Current Lighthouse Metrics (Context):
+*   **Desktop:** Performance 93 (Excellent). FCP: 0.5s, LCP: 0.8s, TBT: 10ms. (Only Speed Index needs slight improvement at 2.6s).
+*   **Mobile:** Performance 77 (Needs Work). FCP: 1.9s, LCP: 4.3s (RED), TBT: 20ms, Speed Index: 7.6s (RED).
+
+### 🔴 CRITICAL DIRECTIVE (DO NOT IGNORE)
+**DO NOT TOUCH, ALTER, REPHRASE, OR DELETE ANY TEXT, HEADINGS, PARAGRAPHS, OR METADATA CONTENT IN ANY FILE.** 
+All text content on this website is already highly optimized for SEO. Your optimizations must be strictly limited to code structure, asset delivery, and performance architecture. If you alter text content, you have failed this prompt.
+
+### Your Optimization Tasks:
+
+1. **Fix Mobile LCP (Largest Contentful Paint) - Priority 1:**
+   - The Mobile LCP is currently failing at 4.3s. This is almost certainly caused by the Hero background image or the Hero form rendering too late on mobile connections.
+   - Audit the `index.html` and `HomePage.tsx`. Ensure the mobile-specific hero image (`hero-bg-mobile.webp`) is aggressively preloaded in the `<head>` using a `media` query.
+   - Verify `fetchpriority="high"` and `loading="eager"` are explicitly set on the LCP image.
+
+2. **Fix Mobile Speed Index (7.6s) - Priority 2:**
+   - The Speed Index indicates the page is visibly populating too slowly on throttled connections.
+   - Implement aggressive code-splitting. Ensure `React.lazy()` and `<Suspense>` are properly configured in the router so only the HomePage chunk loads initially.
+   - Audit the CSS/JS bundles. Remove or defer any render-blocking scripts or stylesheets that delay the First Contentful Paint (FCP).
+
+3. **Comprehensive Image Optimization:**
+   - Implement `loading="lazy"` on all below-the-fold images across the site.
+   - Ensure explicit `width` and `height` attributes are present on all `<img>` tags (even though CLS is currently 0, this prevents future regressions).
+
+### Output Requirements:
+1. Provide a step-by-step list of exactly what you are modifying to fix the Mobile LCP and Speed Index.
+2. Provide the precise, ready-to-copy code blocks for the files you update.
+3. Once again, ensure absolutely **ZERO** changes to readable text, SEO placeholders, titles, and descriptions. 
+

@@ -1,0 +1,126 @@
+{
+  "slug": "air-coolers",
+  "name": "Air Coolers",
+  "description": "Portable evaporative air coolers for construction sites, warehouses, workshops, and outdoor events. High-capacity cooling for hot UAE conditions.",
+  "image": "/images/products/air-coolers-portacool-jetstream-260-portable-evaporative-cooler.webp",
+  "ogImage": "/images/products/air-coolers-portacool-jetstream-260-portable-evaporative-cooler.webp",
+  "canonicalPath": "/equipment/air-coolers",
+  "machines": [
+    {
+      "slug": "portacool-jetstream-260-portable-evaporative-cooler",
+      "name": "Portacool Jetstream 260 Portable Evaporative Cooler",
+      "shortDescription": "Portable evaporative cooler with 260 L water tank and 8,500 CFM airflow. Portacool Jetstream 260 for large workshop, warehouse, and outdoor event cooling in UAE conditions.",
+      "description": "Portable evaporative cooler with 260 L water tank and 8,500 CFM airflow. Portacool Jetstream 260 for large workshop, warehouse, and outdoor event cooling in UAE conditions. Available for rent in Dubai with free delivery.",
+      "image": "/images/products/air-coolers-portacool-jetstream-260-portable-evaporative-cooler.webp",
+      "price": "Contact for Pricing",
+      "specifications": {
+        "Cooling Type": "Evaporative",
+        "Airflow": "8,500 CFM",
+        "Water Tank": "260 L",
+        "Coverage": "Up to 370 m²",
+        "Fan Speed": "Variable 2-speed",
+        "Power": "1.1 kW, 230V single-phase",
+        "Operating Weight": "120 kg (dry)",
+        "Dimensions": "1,200 x 900 x 1,700 mm",
+        "Noise Level": "65 dB(A)",
+        "Pad Type": "Küül cellulose evaporative media"
+      },
+      "features": [
+        "260 L water tank runs over 6 hours on a single fill at maximum speed",
+        "8,500 CFM airflow cools 370 m² warehouse bays and workshop floors effectively",
+        "Küül rigid cellulose media resists mineral buildup from hard UAE water",
+        "230V single-phase power runs from any standard site outlet with no special wiring",
+        "Variable 2-speed fan with oscillating louvers for targeted or broad-area cooling",
+        "Heavy-duty locking castors and forklift pockets for rapid repositioning"
+      ],
+      "availability": "Available for Rent"
+    },
+    {
+      "slug": "honeywell-co60pm-commercial-outdoor-air-cooler",
+      "name": "Honeywell CO60PM Commercial Outdoor Air Cooler",
+      "shortDescription": "Commercial outdoor evaporative cooler with 60 L tank and 1,800 CFM airflow. Honeywell CO60PM for patios, semi-open warehouses, and small workshop cooling.",
+      "description": "Commercial outdoor evaporative cooler with 60 L tank and 1,800 CFM airflow. Honeywell CO60PM for patios, semi-open warehouses, and small workshop cooling. Available for rent in Dubai with free delivery.",
+      "image": "/images/products/air-coolers-honeywell-co60pm-commercial-outdoor-air-cooler.webp",
+      "price": "Contact for Pricing",
+      "specifications": {
+        "Cooling Type": "Evaporative",
+        "Airflow": "1,800 CFM",
+        "Water Tank": "60 L",
+        "Coverage": "Up to 80 m²",
+        "Fan Speed": "3-speed with remote control",
+        "Power": "250W, 230V single-phase",
+        "Operating Weight": "22 kg",
+        "Dimensions": "600 x 400 x 950 mm",
+        "Noise Level": "58 dB(A)",
+        "Features": "Ice compartment, timer, oscillating louvers"
+      },
+      "features": [
+        "60 L tank with continuous-fill hose connection for all-day unmanned operation",
+        "1,800 CFM cools 80 m² semi-open workshop areas without expensive AC infrastructure",
+        "Remote control with 3-speed fan and timer — no walking to the unit for adjustments",
+        "22 kg with integrated wheels — one person rolls it to wherever the crew is working",
+        "Ice compartment boosts cooling by 3-5°C during peak summer afternoon hours",
+        "58 dB(A) noise level — conversation quiet even at maximum fan speed"
+      ],
+      "availability": "Available for Rent"
+    },
+    {
+      "slug": "symphony-winter-56i-powerful-desert-air-cooler",
+      "name": "Symphony Winter 56i Powerful Desert Air Cooler",
+      "shortDescription": "Symphony Winter 56i desert air cooler with 56 L tank and powerful air throw. Engineered for dry climate cooling in UAE construction offices and site accommodation.",
+      "description": "Symphony Winter 56i desert air cooler with 56 L tank and powerful air throw. Engineered for dry climate cooling in UAE construction offices and site accommodation. Available for rent in Dubai with free delivery.",
+      "image": "/images/products/air-coolers-symphony-winter-56i-powerful-desert-air-cooler.webp",
+      "price": "Contact for Pricing",
+      "specifications": {
+        "Cooling Type": "Evaporative desert cooler",
+        "Airflow": "2,200 CFM",
+        "Water Tank": "56 L",
+        "Coverage": "Up to 55 m²",
+        "Fan Speed": "3-speed with i-Pure air filtration",
+        "Power": "200W, 230V single-phase",
+        "Operating Weight": "18 kg",
+        "Dimensions": "550 x 400 x 850 mm",
+        "Pad Type": "Honeycomb cellulose pads",
+        "Features": "Drain pump, empty tank alarm, dust filter"
+      },
+      "features": [
+        "i-Pure filtration captures construction dust before it enters the cooling pads",
+        "200W power draw — costs less than 1 AED per day to run on a standard tariff",
+        "56 L tank with auto-fill and drain pump for low-maintenance continuous operation",
+        "2,200 CFM airflow penetrates site office partitions and accommodation containers",
+        "Honeycomb pads designed specifically for dry desert air — optimal evaporation efficiency",
+        "Empty tank alarm and auto-shutoff prevent pump damage from dry running"
+      ],
+      "availability": "Available for Rent"
+    },
+    {
+      "slug": "climaline-cc50-heavy-duty-industrial-air-cooler",
+      "name": "Climaline CC50 Heavy-Duty Industrial Air Cooler",
+      "shortDescription": "Heavy-duty industrial evaporative cooler with 50 L tank and high-static pressure fan. Climaline CC50 for factory floors, large tents, and construction site cooling towers.",
+      "description": "Heavy-duty industrial evaporative cooler with 50 L tank and high-static pressure fan. Climaline CC50 for factory floors, large tents, and construction site cooling towers. Available for rent in Dubai with free delivery.",
+      "image": "/images/products/air-coolers-climaline-cc50-heavy-duty-industrial-air-cooler.webp",
+      "price": "Contact for Pricing",
+      "specifications": {
+        "Cooling Type": "Industrial evaporative",
+        "Airflow": "6,000 CFM",
+        "Water Tank": "50 L",
+        "Coverage": "Up to 200 m²",
+        "Fan Speed": "Variable 2-speed",
+        "Power": "550W, 230V single-phase",
+        "Operating Weight": "35 kg",
+        "Dimensions": "800 x 550 x 1,200 mm",
+        "Static Pressure": "High — suitable for ducted distribution",
+        "Construction": "Galvanized steel body with epoxy coating"
+      },
+      "features": [
+        "6,000 CFM with high static pressure pushes cool air through 10 m duct runs",
+        "Galvanized steel body with epoxy coating — built for construction yard abuse",
+        "50 L tank with float valve auto-fill from any garden hose connection",
+        "2-speed variable fan with direct-drive motor — zero belt maintenance",
+        "550W motor delivers commercial-grade cooling at household power consumption",
+        "Integrated lifting eyes and fork pockets for crane and forklift positioning"
+      ],
+      "availability": "Available for Rent"
+    }
+  ]
+}

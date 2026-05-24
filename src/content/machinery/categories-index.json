@@ -1,0 +1,149 @@
+[
+  {
+    "slug": "generators",
+    "name": "Generators",
+    "description": "Silent diesel and portable generators for construction, commercial, and emergency power needs. From 5.5 kVA to 1000 kVA.",
+    "image": "/images/products/generators-honda-ep6500cx.webp",
+    "canonicalPath": "/equipment/generators"
+  },
+  {
+    "slug": "compaction",
+    "name": "Compaction Equipment",
+    "description": "Vibratory rollers and compaction equipment for asphalt, soil, and road construction projects.",
+    "image": "/images/products/compaction-bomag-bw-65-h.webp",
+    "canonicalPath": "/equipment/compaction"
+  },
+  {
+    "slug": "air-compressors",
+    "name": "Air Compressors",
+    "description": "Portable diesel air compressors for construction, mining, and industrial applications requiring compressed air on-site.",
+    "image": "/images/products/air-compressor-main.png",
+    "canonicalPath": "/equipment/air-compressors"
+  },
+  {
+    "slug": "welders",
+    "name": "Welders",
+    "description": "Diesel engine-driven welding generators for pipeline construction, fabrication, and maintenance work.",
+    "image": "/images/products/welder-main.png",
+    "canonicalPath": "/equipment/welders"
+  },
+  {
+    "slug": "light-towers",
+    "name": "Light Towers",
+    "description": "Mobile diesel-powered light towers for construction sites, events, and emergency lighting with extendable masts.",
+    "image": "/images/products/light-towers-powko-portable.webp",
+    "canonicalPath": "/equipment/light-towers"
+  },
+  {
+    "slug": "scaffolding-towers",
+    "name": "Scaffolding Towers",
+    "description": "Mobile aluminum and steel scaffolding towers for indoor and outdoor maintenance, painting, and construction access.",
+    "image": "/images/products/scaffolding-towers-aluminum-mobile-scaffold.webp",
+    "canonicalPath": "/equipment/scaffolding-towers"
+  },
+  {
+    "slug": "pressure-washers",
+    "name": "Pressure Washers",
+    "description": "High-performance electric and diesel pressure washers for residential, commercial, and industrial cleaning tasks.",
+    "image": "/images/products/pressure-washers-dewalt-dxpw1500e.webp",
+    "canonicalPath": "/equipment/pressure-washers"
+  },
+  {
+    "slug": "cleaners",
+    "name": "Floor Cleaners",
+    "description": "Professional floor scrubbing and cleaning machines for hard floors in hotels, hospitals, schools, and commercial spaces.",
+    "image": "/images/products/cleaners-cleanstar-sc-42.webp",
+    "canonicalPath": "/equipment/cleaners"
+  },
+  {
+    "slug": "grinders",
+    "name": "Floor Grinders",
+    "description": "Heavy-duty concrete floor grinders for surface preparation, coating removal, and polishing in construction projects.",
+    "image": "/images/products/grinders-trelawny-tcg-500.webp",
+    "canonicalPath": "/equipment/grinders"
+  },
+  {
+    "slug": "threaders",
+    "name": "Pipe Threaders",
+    "description": "Heavy-duty pipe threading and cutting machines for plumbing, HVAC, and industrial piping work.",
+    "image": "/images/products/threaders-ridgid-1224.webp",
+    "canonicalPath": "/equipment/threaders"
+  },
+  {
+    "slug": "air-coolers",
+    "name": "Air Coolers",
+    "description": "Portable evaporative air coolers for construction sites, warehouses, workshops, and outdoor events. High-capacity cooling for hot UAE conditions.",
+    "image": "/images/products/air-coolers-portacool-jetstream-260-portable-evaporative-cooler.webp",
+    "canonicalPath": "/equipment/air-coolers"
+  },
+  {
+    "slug": "exhaust-fans",
+    "name": "Exhaust Fans",
+    "description": "Industrial exhaust and ventilation fans for confined spaces, welding bays, underground works, and construction site air extraction.",
+    "image": "/images/products/exhaust-fans-xtractor-pv-300-portable-ventilation-exhaust-fan.webp",
+    "canonicalPath": "/equipment/exhaust-fans"
+  },
+  {
+    "slug": "industrial-fans",
+    "name": "Industrial Fans",
+    "description": "Heavy-duty drum, pedestal, and floor fans for construction cooling, drying, and ventilation. High-velocity air movement for large spaces.",
+    "image": "/images/products/industrial-fans-trotec-tvm-24-d-heavy-duty-floor-fan.webp",
+    "canonicalPath": "/equipment/industrial-fans"
+  },
+  {
+    "slug": "vacuum-cleaners",
+    "name": "Vacuum Cleaners",
+    "description": "Professional wet and dry vacuum cleaners for construction site cleanup, dust extraction, and industrial debris removal.",
+    "image": "/images/products/vacuum-cleaners-karcher-nt-70-2-me-classic-wet-dry-vacuum.webp",
+    "canonicalPath": "/equipment/vacuum-cleaners"
+  },
+  {
+    "slug": "power-cables",
+    "name": "Power Cables",
+    "description": "Industrial power cables and extensions for construction site electrical distribution. Single-phase and 3-phase heavy-duty cable solutions from 16A to 63A.",
+    "image": "/images/products/power-cables-titanex-3g-2-5mm-single-phase-heavy-duty-extension-cable-16a.webp",
+    "canonicalPath": "/equipment/power-cables"
+  },
+  {
+    "slug": "marble-cutters",
+    "name": "Marble Cutters",
+    "description": "Professional marble and tile cutting machines for construction and renovation projects. Wet and dry cutting for porcelain, granite, and ceramic tiles.",
+    "image": "/images/products/marble-cutters-makita-4100nh3zx1-handheld-tile-marble-cutter.webp",
+    "canonicalPath": "/equipment/marble-cutters"
+  },
+  {
+    "slug": "concrete-mixers",
+    "name": "Concrete Mixers",
+    "description": "Site concrete mixers for construction and civil engineering projects. Diesel and electric drum mixers for small to medium concrete batch production.",
+    "image": "/images/products/concrete-mixers-altrad-belle-premier-100xt-site-concrete-mixer.webp",
+    "canonicalPath": "/equipment/concrete-mixers"
+  },
+  {
+    "slug": "gas-cylinders",
+    "name": "Gas Cylinders",
+    "description": "Industrial gas cylinders for construction and fabrication. LPG, oxygen, argon, and acetylene cylinders for welding, cutting, and heating applications.",
+    "image": "/images/products/gas-cylinders-emirates-gas-44kg-lpg-propane-industrial-cylinder.webp",
+    "canonicalPath": "/equipment/gas-cylinders"
+  },
+  {
+    "slug": "bar-benders",
+    "name": "Bar Benders",
+    "description": "Electric rebar bending machines for construction steel work. Heavy-duty bar bending equipment for reinforced concrete preparation.",
+    "image": "/images/products/bar-benders-toyo-tbb-32-heavy-duty-rebar-bending-machine.webp",
+    "canonicalPath": "/equipment/bar-benders"
+  },
+  {
+    "slug": "steel-cutters",
+    "name": "Steel Cutters",
+    "description": "Heavy-duty steel bar cutting machines for construction rebar processing. Electric and hydraulic bar cutters for reinforced concrete preparation.",
+    "image": "/images/products/steel-cutters-toyo-tbc-32-heavy-duty-rebar-cutting-machine.webp",
+    "canonicalPath": "/equipment/steel-cutters"
+  },
+  {
+    "slug": "cable-crimpers",
+    "name": "Cable Crimpers",
+    "description": "Battery-powered hydraulic cable crimping tools for electrical installation and industrial cabling. Professional-grade crimping for copper and aluminum conductors.",
+    "image": "/images/products/cable-crimpers-klauke-ek12042cfb-battery-powered-hydraulic-crimping-tool.webp",
+    "canonicalPath": "/equipment/cable-crimpers"
+  }
+]

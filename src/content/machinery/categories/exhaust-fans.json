@@ -1,0 +1,120 @@
+{
+  "slug": "exhaust-fans",
+  "name": "Exhaust Fans",
+  "description": "Industrial exhaust and ventilation fans for confined spaces, welding bays, underground works, and construction site air extraction.",
+  "image": "/images/products/exhaust-fans-xtractor-pv-300-portable-ventilation-exhaust-fan.webp",
+  "ogImage": "/images/products/exhaust-fans-xtractor-pv-300-portable-ventilation-exhaust-fan.webp",
+  "canonicalPath": "/equipment/exhaust-fans",
+  "machines": [
+    {
+      "slug": "xtractor-pv-300-portable-ventilation-exhaust-fan",
+      "name": "XTRACTOR PV-300 Portable Ventilation Exhaust Fan",
+      "shortDescription": "Portable 300mm ventilation exhaust fan with flexible ducting. XTRACTOR PV-300 for confined space air extraction, welding fume removal, and manhole ventilation.",
+      "description": "Portable 300mm ventilation exhaust fan with flexible ducting. XTRACTOR PV-300 for confined space air extraction, welding fume removal, and manhole ventilation. Available for rent in Dubai with free delivery.",
+      "image": "/images/products/exhaust-fans-xtractor-pv-300-portable-ventilation-exhaust-fan.webp",
+      "price": "Contact for Pricing",
+      "specifications": {
+        "Fan Diameter": "300 mm",
+        "Airflow": "2,500 m³/hr",
+        "Motor": "0.37 kW, 230V single-phase",
+        "Duct Length": "5 m flexible PVC ducting included",
+        "Operating Weight": "18 kg",
+        "Speed": "2,800 RPM",
+        "Noise Level": "72 dB(A)",
+        "Protection": "IP44 rated motor",
+        "Features": "Carry handle, integrated duct flange, steel housing"
+      },
+      "features": [
+        "2,500 m³/hr extraction clears welding fumes and solvent vapours from confined spaces",
+        "5 m flexible PVC ducting routes around obstacles into manholes, tanks, and trenches",
+        "18 kg with carry handle — one worker carries the fan and duct to the access point",
+        "IP44 rated motor tolerates water spray, dust, and site conditions that kill office fans",
+        "230V single-phase plugs into standard site power — no 3-phase or generator needed",
+        "Steel housing with integrated duct flange for quick-connect without hose clamps"
+      ],
+      "availability": "Available for Rent"
+    },
+    {
+      "slug": "canarm-s12-e1d-standard-duty-wall-exhaust-fan",
+      "name": "Canarm S12-E1D Standard Duty Wall Exhaust Fan",
+      "shortDescription": "Canarm S12-E1D 12-inch wall-mounted exhaust fan with shutter. Standard-duty unit for workshop ventilation, spray booth extraction, and warehouse air change.",
+      "description": "Canarm S12-E1D 12-inch wall-mounted exhaust fan with shutter. Standard-duty unit for workshop ventilation, spray booth extraction, and warehouse air change. Available for rent in Dubai with free delivery.",
+      "image": "/images/products/exhaust-fans-canarm-s12-e1d-standard-duty-wall-exhaust-fan.webp",
+      "price": "Contact for Pricing",
+      "specifications": {
+        "Fan Diameter": "12 inch (300 mm)",
+        "Airflow": "1,500 CFM",
+        "Motor": "0.18 kW, 230V single-phase",
+        "Mounting": "Wall-mounted with gravity shutter",
+        "Speed": "1,400 RPM",
+        "Operating Weight": "8 kg",
+        "Construction": "Galvanized steel frame and blades",
+        "Noise Level": "65 dB(A)"
+      },
+      "features": [
+        "Gravity shutter opens on airflow and closes when off — no motorized damper needed",
+        "1,500 CFM extraction rate replaces air in a 100 m² workshop every 5 minutes",
+        "Galvanized steel frame and blades — zero corrosion from humid Gulf air",
+        "8 kg wall-mount design with pre-drilled flange for 15-minute installation",
+        "230V single-phase motor with thermal overload protection against stalled-blade burnout",
+        "65 dB(A) noise level permits ventilation during occupied working hours"
+      ],
+      "availability": "Available for Rent"
+    },
+    {
+      "slug": "trotec-ttv-4500-high-performance-axial-fan",
+      "name": "Trotec TTV 4500 High-Performance Axial Fan",
+      "shortDescription": "High-performance 450mm axial fan with 4,500 m³/hr airflow. Trotec TTV 4500 for large-area ventilation, construction drying, and air circulation in industrial spaces.",
+      "description": "High-performance 450mm axial fan with 4,500 m³/hr airflow. Trotec TTV 4500 for large-area ventilation, construction drying, and air circulation in industrial spaces. Available for rent in Dubai with free delivery.",
+      "image": "/images/products/exhaust-fans-trotec-ttv-4500-high-performance-axial-fan.webp",
+      "price": "Contact for Pricing",
+      "specifications": {
+        "Fan Diameter": "450 mm",
+        "Airflow": "4,500 m³/hr",
+        "Motor": "0.55 kW, 230V single-phase",
+        "Speed": "2-speed: 1,350 / 1,450 RPM",
+        "Operating Weight": "15 kg",
+        "Dimensions": "550 x 300 x 550 mm",
+        "Construction": "Steel frame with carry handles",
+        "Cable": "5 m H07RN-F rubber cable"
+      },
+      "features": [
+        "4,500 m³/hr — one fan ventilates an entire basement parking excavation or tunnel section",
+        "2-speed motor with 5 m rubber cable — deploy and power without extension leads",
+        "Steel tubular frame with dual carry handles for two-person positioning",
+        "Axial blade design optimized for high volume at low static — maximum air moved per watt",
+        "Trotec German motor engineering with thermal cutout and sealed ball bearings",
+        "15 kg weight with stackable design for compact transport between job sites"
+      ],
+      "availability": "Available for Rent"
+    },
+    {
+      "slug": "vents-ov-4e-450-industrial-axial-exhaust-fan",
+      "name": "Vents OV 4E 450 Industrial Axial Exhaust Fan",
+      "shortDescription": "Vents OV 4E 450 industrial axial exhaust fan rated 4,000 m³/hr. Built for duct-mounted extraction in commercial kitchens, factory ventilation, and mechanical service risers.",
+      "description": "Vents OV 4E 450 industrial axial exhaust fan rated 4,000 m³/hr. Built for duct-mounted extraction in commercial kitchens, factory ventilation, and mechanical service risers. Available for rent in Dubai with free delivery.",
+      "image": "/images/products/exhaust-fans-vents-ov-4e-450-industrial-axial-exhaust-fan.webp",
+      "price": "Contact for Pricing",
+      "specifications": {
+        "Fan Diameter": "450 mm",
+        "Airflow": "4,000 m³/hr",
+        "Motor": "0.45 kW, 230V single-phase",
+        "Speed": "1,350 RPM",
+        "Operating Weight": "12 kg",
+        "Duct Connection": "450 mm spigot both sides",
+        "Protection": "IPX4 motor enclosure",
+        "Construction": "Polypropylene casing, aluminium impeller",
+        "Noise Level": "68 dB(A)"
+      },
+      "features": [
+        "Polypropylene casing with aluminium impeller — immune to rust and chemical corrosion",
+        "450 mm spigot both sides for inline duct mounting in ventilation risers and plant rooms",
+        "IPX4 motor enclosure withstands washdown and humid extraction environments",
+        "4,000 m³/hr moves air through 20 m of ductwork without booster fans",
+        "12 kg — lightest 450mm axial in its class for ceiling and riser installation",
+        "Single-phase motor with integrated terminal box and pre-wired capacitor"
+      ],
+      "availability": "Available for Rent"
+    }
+  ]
+}

@@ -1,0 +1,305 @@
+{
+  "slug": "welders",
+  "name": "Welders",
+  "description": "Diesel engine-driven welding generators for pipeline construction, fabrication, and maintenance work.",
+  "image": "/images/products/welder-main.png",
+  "ogImage": "/images/products/welder-main.png",
+  "canonicalPath": "/equipment/welders",
+  "machines": [
+    {
+      "slug": "miller-big-blue-400-pro-welder-generator",
+      "name": "Miller Big Blue 400 Pro Welder Generator",
+      "shortDescription": "Heavy-duty diesel engine-driven welding generator for pipeline construction and fabrication. CC/CV output with auxiliary power.",
+      "description": "Heavy-duty diesel engine-driven welding generator for pipeline construction and fabrication. CC/CV output with auxiliary power. Available for rent in Dubai with free delivery.",
+      "image": "/images/products/welders-miller-big-blue-400-pro.webp",
+      "price": "Contact for Pricing",
+      "specifications": {
+        "Welding Output": "400A at 36V DC (CC)",
+        "Auxiliary Power": "20 kW 3-phase 400V",
+        "Engine": "Perkins/Caterpillar diesel",
+        "Duty Cycle": "100% at 400A",
+        "Weld Processes": "SMAW, GMAW, FCAW, GTAW",
+        "Voltage Range": "10-45V DC",
+        "Generator Outlets": "400V, 230V, 110V",
+        "Fuel Tank": "80 L",
+        "Weight": "650 kg",
+        "Dimensions": "1600x800x1100 mm",
+        "Features": "ArcControl, digital meters, thermal overload protection"
+      },
+      "features": [
+        "400A welding output at 100% duty cycle",
+        "20 kW auxiliary power for tools",
+        "Supports SMAW, GMAW, FCAW, GTAW processes",
+        "ArcControl for precision welding",
+        "Digital meters and thermal overload protection",
+        "Multiple generator outlets (400V/230V/110V)"
+      ],
+      "availability": "Available for Rent"
+    },
+    {
+      "slug": "denyo-daw-180ss-welder-generator",
+      "name": "Denyo DAW-180SS Welder Generator",
+      "shortDescription": "Japanese-made silent diesel welder generator for construction and maintenance. Provides welding and auxiliary power with low noise operation.",
+      "description": "Japanese-made silent diesel welder generator for construction and maintenance. Provides welding and auxiliary power with low noise operation. Available for rent in Dubai with free delivery.",
+      "image": "/images/products/welders-denyo-daw-180ss.webp",
+      "price": "Contact for Pricing",
+      "specifications": {
+        "Welding Output": "180-300A DC",
+        "Auxiliary Power": "5.5 kW single-phase",
+        "Engine": "Kubota diesel",
+        "Noise Level": "62 dB(A) at 7m",
+        "Fuel Tank": "28 L",
+        "Runtime": "10-12 hours",
+        "Weight": "280 kg",
+        "Dimensions": "1200x650x900 mm",
+        "Welding Process": "SMAW (stick)",
+        "Voltage": "220V 50Hz",
+        "Starting": "Electric",
+        "Application": "Urban construction, facility maintenance, shipyards"
+      },
+      "features": [
+        "Japanese Denyo quality and reliability",
+        "Ultra-quiet at just 62 dB(A)",
+        "180-300A DC welding output",
+        "5.5 kW auxiliary power",
+        "Compact and lightweight at 280 kg",
+        "Ideal for urban and noise-sensitive areas"
+      ],
+      "availability": "Available for Rent"
+    },
+    {
+      "slug": "miller-bobcat-250-engine-driven-welder-generator",
+      "name": "Miller Bobcat 250 Engine-Driven Welder/Generator",
+      "shortDescription": "Engine-driven welder/generator delivering 250A DC welding output with 10,000W auxiliary generator power. Kohler-powered workhorse for stick, TIG, and wire welding on remote job sites.",
+      "description": "Engine-driven welder/generator delivering 250A DC welding output with 10,000W auxiliary generator power. Kohler-powered workhorse for stick, TIG, and wire welding on remote job sites. Available for rent in Dubai with free delivery.",
+      "image": "/images/products/welders-miller-bobcat-250-engine-driven-welder-generator.webp",
+      "price": "Contact for Pricing",
+      "specifications": {
+        "Welding Output": "250A DC at 100% duty cycle",
+        "Welding Processes": "Stick (SMAW), DC TIG (GTAW), MIG (GMAW), Flux-Cored (FCAW)",
+        "Auxiliary Power": "10,000W peak / 9,500W continuous",
+        "Engine": "Kohler CH740 Command PRO V-twin petrol",
+        "Engine Power": "23 HP",
+        "Fuel Tank": "45 L",
+        "Operating Weight": "230 kg",
+        "Amperage Range": "50-250A",
+        "Output Studs": "CC and CV for wire feeder connection",
+        "Starting System": "Electric start",
+        "Sound Level": "73 dB(A) at 7 m"
+      },
+      "features": [
+        "250A at 100% duty cycle for continuous arc-on pipeline and structural work",
+        "10,000W generator runs grinders, lights, and plasma cutters simultaneously",
+        "Kohler Command PRO V-twin with 45 L tank for 10+ hours under load",
+        "CC/CV output enables stick and wire welding from a single machine",
+        "Electric start with auto-idle reduces fuel burn between weld passes",
+        "Miller reliability with dealer support and parts availability across the region"
+      ],
+      "availability": "Available for Rent"
+    },
+    {
+      "slug": "lincoln-electric-vantage-300-engine-driven-welder",
+      "name": "Lincoln Electric Vantage 300 Engine-Driven Welder",
+      "shortDescription": "Diesel engine-driven 300A multi-process welder with 11,000W generator. Lincoln Chopper Technology for smooth arc control in stick, TIG, and flux-cored welding.",
+      "description": "Diesel engine-driven 300A multi-process welder with 11,000W generator. Lincoln Chopper Technology for smooth arc control in stick, TIG, and flux-cored welding. Available for rent in Dubai with free delivery.",
+      "image": "/images/products/welders-lincoln-electric-vantage-300-engine-driven-welder.webp",
+      "price": "Contact for Pricing",
+      "specifications": {
+        "Welding Output": "300A DC at 100% duty cycle",
+        "Welding Processes": "Stick (SMAW), DC TIG (GTAW), Flux-Cored (FCAW), Arc Gouging",
+        "Auxiliary Power": "11,000W peak / 10,000W continuous",
+        "Engine": "Kubota D1105 3-cylinder diesel",
+        "Engine Power": "24 HP",
+        "Fuel Tank": "68 L",
+        "Operating Weight": "510 kg",
+        "Amperage Range": "30-300A",
+        "Technology": "Lincoln Chopper Technology",
+        "Output Studs": "CC and CV",
+        "Starting System": "Electric start"
+      },
+      "features": [
+        "Lincoln Chopper Technology delivers arc stability unmatched by SCR-based machines",
+        "300A with 11,000W auxiliary — weld structural steel while powering the job site",
+        "Kubota diesel engine with 68 L tank runs 14+ hours between fuel stops",
+        "Rated for arc gouging up to 6 mm carbon rods for demolition and repair",
+        "510 kg weight with integrated lifting eye for crane placement on-site",
+        "CC/CV selector switch enables seamless switching between stick and wire"
+      ],
+      "availability": "Available for Rent"
+    },
+    {
+      "slug": "esab-rebel-emp-215ic-multiprocess-welder",
+      "name": "ESAB Rebel EMP 215ic Multiprocess Welder",
+      "shortDescription": "Multi-process inverter welder handling MIG, stick, and DC TIG at 215A. Dual-voltage 120/230V with sMIG technology for plug-and-play operation on any site.",
+      "description": "Multi-process inverter welder handling MIG, stick, and DC TIG at 215A. Dual-voltage 120/230V with sMIG technology for plug-and-play operation on any site. Available for rent in Dubai with free delivery.",
+      "image": "/images/products/welders-esab-rebel-emp-215ic-multiprocess-welder.webp",
+      "price": "Contact for Pricing",
+      "specifications": {
+        "Welding Output": "215A at 30% duty cycle (MIG)",
+        "Welding Processes": "MIG (GMAW), Stick (SMAW), DC TIG (GTAW), Flux-Cored (FCAW)",
+        "Input Voltage": "120V / 230V single-phase auto-sensing",
+        "Output Range": "15-215A MIG / 20-180A Stick / 10-215A TIG",
+        "Wire Feed Speed": "2-20 m/min",
+        "Operating Weight": "18 kg",
+        "Dimensions (LxWxH)": "530 x 230 x 420 mm",
+        "Technology": "IGBT inverter with sMIG automatic mode",
+        "Duty Cycle": "30% at 215A / 100% at 100A",
+        "Protection Class": "IP23S"
+      },
+      "features": [
+        "sMIG technology auto-tunes voltage and wire speed — set material thickness and weld",
+        "Dual-voltage auto-sensing handles 120V generator or 230V mains without rewiring",
+        "Weighs 18 kg in a carry-friendly chassis — one-man portable across the job site",
+        "IGBT inverter draws 30% less input current than transformer-based machines",
+        "True multi-process: change gun and cable to switch from MIG to TIG in minutes",
+        "IP23S rated for outdoor use in dusty conditions common on UAE construction sites"
+      ],
+      "availability": "Available for Rent"
+    },
+    {
+      "slug": "kemppi-minarctig-250-tig-welder",
+      "name": "Kemppi MinarcTig 250 TIG Welder",
+      "shortDescription": "Professional TIG welder with 250A output, HF ignition, and pulse capability. Kemppi Finnish engineering for precision stainless steel, aluminum, and thin-gauge welding.",
+      "description": "Professional TIG welder with 250A output, HF ignition, and pulse capability. Kemppi Finnish engineering for precision stainless steel, aluminum, and thin-gauge welding. Available for rent in Dubai with free delivery.",
+      "image": "/images/products/welders-kemppi-minarctig-250-tig-welder.webp",
+      "price": "Contact for Pricing",
+      "specifications": {
+        "Welding Output": "250A TIG at 40% duty cycle",
+        "Welding Processes": "DC TIG (GTAW), Stick (SMAW)",
+        "Input Voltage": "400V 3-phase",
+        "Output Range": "5-250A TIG / 10-200A Stick",
+        "Ignition": "HF non-contact arc start",
+        "Pulse Frequency": "0.2-300 Hz",
+        "Operating Weight": "19 kg",
+        "Dimensions (LxWxH)": "500 x 230 x 460 mm",
+        "Cooling": "Fan-cooled with thermal overload protection",
+        "Protection Class": "IP23C"
+      },
+      "features": [
+        "High-frequency ignition for scratch-free arc starts on polished stainless and pipe",
+        "Pulse capability from 0.2-300 Hz for controlling heat input on thin materials",
+        "250A DC output welds aluminum with helium mix and stainless up to 6 mm plate",
+        "19 kg in a rugged Kemppi case with integrated carry handle and cable storage",
+        "3-phase 400V input delivers stable arc even on generator power with voltage fluctuation",
+        "MinarcTig arc control software adapts to electrode type and joint configuration"
+      ],
+      "availability": "Available for Rent"
+    },
+    {
+      "slug": "fronius-transpocket-150-stick-welder",
+      "name": "Fronius TransPocket 150 Stick Welder",
+      "shortDescription": "Ultra-portable 150A stick welder at 4.7 kg with Fronius resonance inverter technology. The go-to MMA machine for maintenance, site repair, and pipe root pass welding.",
+      "description": "Ultra-portable 150A stick welder at 4.7 kg with Fronius resonance inverter technology. The go-to MMA machine for maintenance, site repair, and pipe root pass welding. Available for rent in Dubai with free delivery.",
+      "image": "/images/products/welders-fronius-transpocket-150-stick-welder.webp",
+      "price": "Contact for Pricing",
+      "specifications": {
+        "Welding Output": "150A at 40% duty cycle",
+        "Welding Processes": "Stick (MMA/SMAW)",
+        "Input Voltage": "230V single-phase",
+        "Output Range": "10-150A",
+        "Electrode Range": "1.6-4.0 mm",
+        "Operating Weight": "4.7 kg",
+        "Dimensions (LxWxH)": "320 x 130 x 260 mm",
+        "Technology": "Fronius resonance inverter",
+        "Protection Class": "IP23",
+        "Features": "Hot Start, Arc Force, Anti-Stick"
+      },
+      "features": [
+        "4.7 kg — lightest professional 150A stick welder in its class, one-hand carry",
+        "Resonance inverter technology handles generator power and long extension cords",
+        "Hot Start function boosts arc initiation on rusty, painted, or damp surfaces",
+        "Anti-Stick circuit detects electrode short and drops current to prevent damage",
+        "Arc Force control adjusts arc characteristic for cellulose and basic electrodes",
+        "IP23 rated — tolerates rain, dust, and site conditions that kill lesser machines"
+      ],
+      "availability": "Available for Rent"
+    },
+    {
+      "slug": "hobart-champion-elite-welder-generator",
+      "name": "Hobart Champion Elite Welder/Generator",
+      "shortDescription": "Engine-driven welder/generator with 225A DC output and 11,000W auxiliary power. Kohler petrol engine in a compact frame for farm, ranch, and light construction welding.",
+      "description": "Engine-driven welder/generator with 225A DC output and 11,000W auxiliary power. Kohler petrol engine in a compact frame for farm, ranch, and light construction welding. Available for rent in Dubai with free delivery.",
+      "image": "/images/products/welders-hobart-champion-elite-welder-generator.webp",
+      "price": "Contact for Pricing",
+      "specifications": {
+        "Welding Output": "225A DC at 100% duty cycle",
+        "Welding Processes": "Stick (SMAW), DC TIG (GTAW)",
+        "Auxiliary Power": "11,000W peak / 9,500W continuous",
+        "Engine": "Kohler Command PRO CH23 V-twin petrol",
+        "Engine Power": "23 HP",
+        "Fuel Tank": "34 L",
+        "Operating Weight": "215 kg",
+        "Amperage Range": "30-225A",
+        "Starting System": "Electric start",
+        "Outlets": "2x 120V, 2x 240V"
+      },
+      "features": [
+        "225A at 100% duty cycle — weld all day without thermal shutdown",
+        "11,000W generator with four outlets: run plasma cutter, grinder, and lights together",
+        "Kohler V-twin engine with 34 L tank for 8+ hours of continuous welding",
+        "Compact 215 kg frame fits in a standard pickup bed for one-vehicle mobilization",
+        "Electric start with auto-idle cuts fuel consumption by 40% between passes",
+        "Hobart value engineering: Miller-quality components at a lighter price point"
+      ],
+      "availability": "Available for Rent"
+    },
+    {
+      "slug": "lincoln-electric-ranger-225-engine-driven-welder",
+      "name": "Lincoln Electric Ranger 225 Engine Driven Welder",
+      "shortDescription": "Engine-driven 225A DC welder with 10,500W generator. Lincoln reliability in a portable chassis — designed for stick welding, DC TIG, and site power generation.",
+      "description": "Engine-driven 225A DC welder with 10,500W generator. Lincoln reliability in a portable chassis — designed for stick welding, DC TIG, and site power generation. Available for rent in Dubai with free delivery.",
+      "image": "/images/products/welders-lincoln-electric-ranger-225-engine-driven-welder.webp",
+      "price": "Contact for Pricing",
+      "specifications": {
+        "Welding Output": "225A DC at 100% duty cycle",
+        "Welding Processes": "Stick (SMAW), DC TIG (GTAW), Arc Gouging",
+        "Auxiliary Power": "10,500W peak / 9,000W continuous",
+        "Engine": "Kohler Command PRO CH730 V-twin petrol",
+        "Engine Power": "23 HP",
+        "Fuel Tank": "34 L",
+        "Operating Weight": "218 kg",
+        "Amperage Range": "40-225A",
+        "Starting System": "Electric start",
+        "Outlets": "2x 120V, 1x 240V"
+      },
+      "features": [
+        "Lincoln Ranger series — decades of proven reliability on pipeline and structural work",
+        "225A at 100% duty cycle with 10,500W generator in a single machine",
+        "Kohler CH730 engine with overhead valves and hydraulic lifters — zero valve adjustments",
+        "218 kg on a steel tube frame with integrated lifting eyes and fork pockets",
+        "Stick, TIG, and arc gouging with a simple process selector on the front panel",
+        "Auto-idle reduces RPM between welds, extending engine life and fuel economy"
+      ],
+      "availability": "Available for Rent"
+    },
+    {
+      "slug": "jasic-arc-400-igbt-inverter-welder",
+      "name": "Jasic Arc 400 IGBT Inverter Welder",
+      "shortDescription": "Industrial 400A IGBT inverter stick welder with 60% duty cycle. Built for heavy fabrication, structural steel, and continuous production welding on 3-phase power.",
+      "description": "Industrial 400A IGBT inverter stick welder with 60% duty cycle. Built for heavy fabrication, structural steel, and continuous production welding on 3-phase power. Available for rent in Dubai with free delivery.",
+      "image": "/images/products/welders-jasic-arc-400-igbt-inverter-welder.webp",
+      "price": "Contact for Pricing",
+      "specifications": {
+        "Welding Output": "400A at 60% duty cycle",
+        "Welding Processes": "Stick (MMA/SMAW), Arc Gouging",
+        "Input Voltage": "400V 3-phase",
+        "Output Range": "20-400A",
+        "Electrode Range": "2.5-8.0 mm",
+        "Operating Weight": "35 kg",
+        "Dimensions (LxWxH)": "580 x 310 x 560 mm",
+        "Technology": "IGBT inverter",
+        "Protection Class": "IP21S",
+        "Features": "VRD (Voltage Reduction Device), Hot Start, Arc Force, Anti-Stick"
+      },
+      "features": [
+        "400A at 60% duty cycle — runs 8 mm electrodes for heavy structural and shipyard work",
+        "IGBT inverter technology draws 30% less power than equivalent transformer machines",
+        "VRD (Voltage Reduction Device) for operator safety in wet and confined environments",
+        "Hot Start boosts initial current for instant arc ignition on cold material",
+        "Arc Force control adjusts short-circuit current for cellulose and low-hydrogen rods",
+        "35 kg with lifting lugs — crane into position once and weld all shift"
+      ],
+      "availability": "Available for Rent"
+    }
+  ]
+}

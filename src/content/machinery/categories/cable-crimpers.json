@@ -1,0 +1,118 @@
+{
+  "slug": "cable-crimpers",
+  "name": "Cable Crimpers",
+  "description": "Battery-powered hydraulic cable crimping tools for electrical installation and industrial cabling. Professional-grade crimping for copper and aluminum conductors.",
+  "image": "/images/products/cable-crimpers-klauke-ek12042cfb-battery-powered-hydraulic-crimping-tool.webp",
+  "ogImage": "/images/products/cable-crimpers-klauke-ek12042cfb-battery-powered-hydraulic-crimping-tool.webp",
+  "canonicalPath": "/equipment/cable-crimpers",
+  "machines": [
+    {
+      "slug": "klauke-ek12042cfb-battery-powered-hydraulic-crimping-tool",
+      "name": "Klauke EK12042CFB Battery Powered Hydraulic Crimping Tool",
+      "shortDescription": "Klauke EK12042CFB 12-tonne battery hydraulic crimper with auto-retract. German precision tool for copper and aluminium cable lugs from 10-400 mm² in LV and MV electrical work.",
+      "description": "Klauke EK12042CFB 12-tonne battery hydraulic crimper with auto-retract. German precision tool for copper and aluminium cable lugs from 10-400 mm² in LV and MV electrical work. Available for rent in Dubai with free delivery.",
+      "image": "/images/products/cable-crimpers-klauke-ek12042cfb-battery-powered-hydraulic-crimping-tool.webp",
+      "price": "Contact for Pricing",
+      "specifications": {
+        "Crimping Force": "120 kN (12 tonnes)",
+        "Crimping Range": "10-400 mm² Cu/Al",
+        "Power": "Makita 18V battery platform",
+        "Cycle Time": "8-15 seconds per crimp",
+        "Operating Weight": "7.5 kg (with battery)",
+        "Head Type": "C-type rotating head (350° swivel)",
+        "Die System": "Interchangeable hexagonal dies",
+        "Auto Retract": "Piston auto-retracts at max pressure"
+      },
+      "features": [
+        "12 tonnes hydraulic force crimps 400 mm² copper and aluminium lugs in a single cycle",
+        "C-head rotates 350° for access to cables already positioned in confined cable trays and panels",
+        "Makita 18V battery shared with site power tools — no dedicated charger and battery system needed",
+        "Auto-retract piston reverses at max pressure and is ready for the next crimp in under 3 seconds",
+        "Interchangeable hexagonal die system covers the full 10-400 mm² range with 12 die sets",
+        "Klauke German engineering with 2-year warranty and service through UAE electrical distributors"
+      ],
+      "availability": "Available for Rent"
+    },
+    {
+      "slug": "burndy-pat750-li-battery-actuated-hydraulic-crimper",
+      "name": "Burndy PAT750-LI Battery Actuated Hydraulic Crimper",
+      "shortDescription": "Burndy PAT750-LI 6-tonne battery hydraulic crimper with Dieless crimp head. Universal jaw design eliminates die changes for copper and aluminium connectors 8-750 MCM.",
+      "description": "Burndy PAT750-LI 6-tonne battery hydraulic crimper with Dieless crimp head. Universal jaw design eliminates die changes for copper and aluminium connectors 8-750 MCM. Available for rent in Dubai with free delivery.",
+      "image": "/images/products/cable-crimpers-burndy-pat750-li-battery-actuated-hydraulic-crimper.webp",
+      "price": "Contact for Pricing",
+      "specifications": {
+        "Crimping Force": "60 kN (6 tonnes)",
+        "Crimping Range": "8-750 MCM Cu/Al (approx 10-400 mm²)",
+        "Power": "Burndy 18V Li-Ion battery",
+        "Cycle Time": "5-8 seconds per crimp",
+        "Operating Weight": "6.0 kg (with battery)",
+        "Head Type": "Dieless nest indentor — no die changes",
+        "Crimp Type": "Nest indent with automatic pressure sensing",
+        "OLED Display": "Crimp count, battery level, service reminders"
+      },
+      "features": [
+        "Dieless nest indentor crimps every size from 8 to 750 MCM without changing a single die",
+        "Automatic pressure sensing stops at the target indent depth for consistent UL-listed crimps every time",
+        "OLED display with crimp counter verifies daily production and flags the 10,000-crimp service interval",
+        "5-8 second cycle — the fastest crimping tool in its class for high-volume panel-building work",
+        "6.0 kg with Burndy 18V battery platform — lightest 6-tonne-class hydraulic crimper available",
+        "Rotating head with LED work light illuminates the crimp zone in dark cable trenches and basements"
+      ],
+      "availability": "Available for Rent"
+    },
+    {
+      "slug": "greenlee-ek425l-gator-battery-powered-crimping-tool",
+      "name": "Greenlee EK425L Gator Battery-Powered Crimping Tool",
+      "shortDescription": "Greenlee EK425L 6-tonne battery crimper with i-press automatic cycle. Designed for copper and aluminium connectors with interchangeable jaw sets for LV panel and switchgear wiring.",
+      "description": "Greenlee EK425L 6-tonne battery crimper with i-press automatic cycle. Designed for copper and aluminium connectors with interchangeable jaw sets for LV panel and switchgear wiring. Available for rent in Dubai with free delivery.",
+      "image": "/images/products/cable-crimpers-greenlee-ek425l-gator-battery-powered-crimping-tool.webp",
+      "price": "Contact for Pricing",
+      "specifications": {
+        "Crimping Force": "55 kN (5.5 tonnes)",
+        "Crimping Range": "6-300 mm² Cu/Al",
+        "Power": "Greenlee 18V Li-Ion battery",
+        "Cycle Time": "6-10 seconds per crimp",
+        "Operating Weight": "5.8 kg (with battery)",
+        "Jaw System": "Quick-change jaw sets (BG, W, 6T style)",
+        "Control": "i-press one-button automatic cycle",
+        "Bluetooth": "Crimp data logging via Greenlee Gator Eye app"
+      },
+      "features": [
+        "i-press one-button automatic cycle — press the trigger and the tool does the full crimp and retract",
+        "Quick-change jaw system swaps between crimp, cut, and punch jaws in seconds without tools",
+        "Bluetooth data logging records every crimp with pressure and date for QA/QC documentation",
+        "5.8 kg with 360° head rotation for overhead crimping in cable trays and ceiling-mounted panels",
+        "Greenlee Gator battery system with fuel gauge — check charge level without removing the battery",
+        "6-300 mm² range covers every cable size in a standard LV distribution panel or switchgear build"
+      ],
+      "availability": "Available for Rent"
+    },
+    {
+      "slug": "ridgid-re-60-electrical-tool-with-crimping-head",
+      "name": "Ridgid RE 60 Electrical Tool (with Crimping Head)",
+      "shortDescription": "Ridgid RE 60 6-tonne electrical crimping tool with interchangeable heads. RIDGID versatility — one power unit switches between crimping, cutting, and punching for electrical installation.",
+      "description": "Ridgid RE 60 6-tonne electrical crimping tool with interchangeable heads. RIDGID versatility — one power unit switches between crimping, cutting, and punching for electrical installation. Available for rent in Dubai with free delivery.",
+      "image": "/images/products/cable-crimpers-ridgid-re-60-electrical-tool-with-crimping-head.webp",
+      "price": "Contact for Pricing",
+      "specifications": {
+        "Output Force": "60 kN (6 tonnes)",
+        "Crimping Range": "10-300 mm² Cu/Al (with crimp head)",
+        "Power": "Ridgid 18V battery platform",
+        "Cycle Time": "8-12 seconds per crimp",
+        "Operating Weight": "6.5 kg (with battery and crimp head)",
+        "Head System": "Interchangeable: crimp, cut, punch, busbar punch heads",
+        "Stroke": "42 mm",
+        "LED Light": "Integrated work area illumination"
+      },
+      "features": [
+        "One power unit accepts crimp, cut, punch, and busbar punch heads — 4 tools in 1 for electrical crews",
+        "Ridgid 18V battery shared with the brand's full tool range across the construction fleet",
+        "42 mm stroke with rapid-advance piston design reduces cycle time on smaller conductor sizes",
+        "Integrated LED work light with auto-off timer eliminates the need for a separate head torch",
+        "6.5 kg with crimp head attached — balance-optimized for one-handed overhead crimping",
+        "Ridgid lifetime service agreement with warranty coverage and repair centres throughout the UAE"
+      ],
+      "availability": "Available for Rent"
+    }
+  ]
+}

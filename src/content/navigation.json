@@ -1,0 +1,60 @@
+[
+  { "label": "Home", "href": "/" },
+  {
+    "label": "Equipment",
+    "href": "/equipment",
+    "children": [
+      { "label": "Generators", "href": "/equipment/generators" },
+      { "label": "Compaction Equipment", "href": "/equipment/compaction" },
+      { "label": "Air Compressors", "href": "/equipment/air-compressors" },
+      { "label": "Welders", "href": "/equipment/welders" },
+      { "label": "Light Towers", "href": "/equipment/light-towers" },
+      { "label": "Scaffolding Towers", "href": "/equipment/scaffolding-towers" },
+      { "label": "Pressure Washers", "href": "/equipment/pressure-washers" },
+      { "label": "Floor Cleaners", "href": "/equipment/cleaners" },
+      { "label": "Floor Grinders", "href": "/equipment/grinders" },
+      { "label": "Pipe Threaders", "href": "/equipment/threaders" },
+      { "label": "Air Coolers", "href": "/equipment/air-coolers" },
+      { "label": "Exhaust Fans", "href": "/equipment/exhaust-fans" },
+      { "label": "Industrial Fans", "href": "/equipment/industrial-fans" },
+      { "label": "Vacuum Cleaners", "href": "/equipment/vacuum-cleaners" },
+      { "label": "Power Cables", "href": "/equipment/power-cables" },
+      { "label": "Marble Cutters", "href": "/equipment/marble-cutters" },
+      { "label": "Concrete Mixers", "href": "/equipment/concrete-mixers" },
+      { "label": "Gas Cylinders", "href": "/equipment/gas-cylinders" },
+      { "label": "Bar Benders", "href": "/equipment/bar-benders" },
+      { "label": "Steel Cutters", "href": "/equipment/steel-cutters" },
+      { "label": "Cable Crimpers", "href": "/equipment/cable-crimpers" }
+    ]
+  },
+  {
+    "label": "Repair Services",
+    "href": "/repair-services/generators",
+    "children": [
+      { "label": "Generators Repair", "href": "/repair-services/generators" },
+      { "label": "Compaction Equipment Repair", "href": "/repair-services/compaction" },
+      { "label": "Air Compressors Repair", "href": "/repair-services/air-compressors" },
+      { "label": "Welders Repair", "href": "/repair-services/welders" },
+      { "label": "Light Towers Repair", "href": "/repair-services/light-towers" },
+      { "label": "Scaffolding Towers Repair", "href": "/repair-services/scaffolding-towers" },
+      { "label": "Pressure Washers Repair", "href": "/repair-services/pressure-washers" },
+      { "label": "Floor Cleaners Repair", "href": "/repair-services/cleaners" },
+      { "label": "Floor Grinders Repair", "href": "/repair-services/grinders" },
+      { "label": "Pipe Threaders Repair", "href": "/repair-services/threaders" },
+      { "label": "Air Coolers Repair", "href": "/repair-services/air-coolers" },
+      { "label": "Exhaust Fans Repair", "href": "/repair-services/exhaust-fans" },
+      { "label": "Industrial Fans Repair", "href": "/repair-services/industrial-fans" },
+      { "label": "Vacuum Cleaners Repair", "href": "/repair-services/vacuum-cleaners" },
+      { "label": "Power Cables Repair", "href": "/repair-services/power-cables" },
+      { "label": "Marble Cutters Repair", "href": "/repair-services/marble-cutters" },
+      { "label": "Concrete Mixers Repair", "href": "/repair-services/concrete-mixers" },
+      { "label": "Gas Cylinders Repair", "href": "/repair-services/gas-cylinders" },
+      { "label": "Bar Benders Repair", "href": "/repair-services/bar-benders" },
+      { "label": "Steel Cutters Repair", "href": "/repair-services/steel-cutters" },
+      { "label": "Cable Crimpers Repair", "href": "/repair-services/cable-crimpers" }
+    ]
+  },
+  { "label": "About Us", "href": "/about" },
+  { "label": "Blog", "href": "/blog" },
+  { "label": "Contact Us", "href": "/contact" }
+]

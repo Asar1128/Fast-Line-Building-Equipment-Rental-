@@ -1,0 +1,4 @@
+/wp-*  /404  410
+
+# SPA fallback for client-side routing
+/*    /index.html    200

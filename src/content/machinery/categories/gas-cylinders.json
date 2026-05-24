@@ -1,0 +1,124 @@
+{
+  "slug": "gas-cylinders",
+  "name": "Gas Cylinders",
+  "description": "Industrial gas cylinders for construction and fabrication. LPG, oxygen, argon, and acetylene cylinders for welding, cutting, and heating applications.",
+  "image": "/images/products/gas-cylinders-emirates-gas-44kg-lpg-propane-industrial-cylinder.webp",
+  "ogImage": "/images/products/gas-cylinders-emirates-gas-44kg-lpg-propane-industrial-cylinder.webp",
+  "canonicalPath": "/equipment/gas-cylinders",
+  "machines": [
+    {
+      "slug": "emirates-gas-44kg-lpg-propane-industrial-cylinder",
+      "name": "Emirates Gas 44kg LPG (Propane) Industrial Cylinder",
+      "shortDescription": "Emirates Gas 44 kg LPG propane industrial cylinder. Standard UAE construction site cylinder for slab heating, waterproofing torches, and site canteen cooking.",
+      "description": "Emirates Gas 44 kg LPG propane industrial cylinder. Standard UAE construction site cylinder for slab heating, waterproofing torches, and site canteen cooking. Available for rent in Dubai with free delivery.",
+      "image": "/images/products/gas-cylinders-emirates-gas-44kg-lpg-propane-industrial-cylinder.webp",
+      "price": "Contact for Pricing",
+      "specifications": {
+        "Gas Type": "LPG (Propane)",
+        "Capacity": "44 kg",
+        "Cylinder Material": "Welded steel, painted",
+        "Valve Type": "Standard POL (Prest-O-Lite) left-hand thread",
+        "Height": "1,100 mm",
+        "Diameter": "320 mm",
+        "Tare Weight": "50 kg (empty)",
+        "Filled Weight": "94 kg",
+        "Pressure": "7-10 bar at 20°C",
+        "Certification": "Emirates Authority for Standardization (ESMA)"
+      },
+      "features": [
+        "Emirates Gas certified cylinder — legal for use on all Dubai Municipality and Trakhees sites",
+        "44 kg LPG delivers 840 kWh of energy — enough for a full week of slab heating on one cylinder",
+        "POL left-hand thread valve standard across all UAE gas equipment — no adapters needed",
+        "50 kg tare weight with integrated collar for crane lifting and cylinder cage stacking",
+        "7-10 bar delivery pressure at ambient Gulf temperature — no vaporizer needed for torches",
+        "Available for exchange rental — return empty, collect full, no cylinder ownership cost"
+      ],
+      "availability": "Available for Rent"
+    },
+    {
+      "slug": "air-products-50l-argon-gas-cylinder-for-tig-welding",
+      "name": "Air Products 50L Argon Gas Cylinder (for TIG welding)",
+      "shortDescription": "Air Products 50 L argon gas cylinder at 200 bar. High-purity shielding gas for TIG welding of stainless steel, aluminium, and titanium on fabrication and pipe welding projects.",
+      "description": "Air Products 50 L argon gas cylinder at 200 bar. High-purity shielding gas for TIG welding of stainless steel, aluminium, and titanium on fabrication and pipe welding projects. Available for rent in Dubai with free delivery.",
+      "image": "/images/products/gas-cylinders-air-products-50l-argon-gas-cylinder-for-tig-welding.webp",
+      "price": "Contact for Pricing",
+      "specifications": {
+        "Gas Type": "Argon 99.998% purity",
+        "Water Capacity": "50 L",
+        "Fill Pressure": "200 bar at 15°C",
+        "Gas Volume": "10.5 m³ at atmospheric pressure",
+        "Cylinder Weight": "55 kg (empty) / 77 kg (full)",
+        "Height": "1,500 mm",
+        "Diameter": "230 mm",
+        "Valve": "DIN 6 right-hand thread with flow restrictor",
+        "Standard": "ISO 9809-1 seamless steel"
+      },
+      "features": [
+        "99.998% pure argon — certified for TIG welding stainless steel, aluminium, and reactive alloys",
+        "200 bar fill delivers 10.5 m³ of shielding gas at 10-15 L/min for 12 hours of continuous TIG welding",
+        "Flow restrictor valve with integrated pressure gauge — no separate regulator needed for basic setups",
+        "DIN 6 right-hand thread matches all major TIG torch and regulator brands",
+        "Seamless steel cylinder to ISO 9809-1 with 10-year hydrostatic test interval compliance",
+        "Air Products supply network across the UAE for guaranteed exchange availability at all branches"
+      ],
+      "availability": "Available for Rent"
+    },
+    {
+      "slug": "boc-50l-oxygen-gas-cylinder-for-oxy-acetylene-cutting",
+      "name": "BOC 50L Oxygen Gas Cylinder (for oxy-acetylene cutting)",
+      "shortDescription": "BOC 50 L oxygen gas cylinder at 200 bar. Industrial-grade oxygen for oxy-acetylene cutting, brazing, and heating on demolition, ship repair, and steel erection projects.",
+      "description": "BOC 50 L oxygen gas cylinder at 200 bar. Industrial-grade oxygen for oxy-acetylene cutting, brazing, and heating on demolition, ship repair, and steel erection projects. Available for rent in Dubai with free delivery.",
+      "image": "/images/products/gas-cylinders-boc-50l-oxygen-gas-cylinder-for-oxy-acetylene-cutting.webp",
+      "price": "Contact for Pricing",
+      "specifications": {
+        "Gas Type": "Oxygen 99.5% minimum purity",
+        "Water Capacity": "50 L",
+        "Fill Pressure": "200 bar at 15°C",
+        "Gas Volume": "10.5 m³ at atmospheric pressure",
+        "Cylinder Weight": "58 kg (empty) / 79 kg (full)",
+        "Height": "1,500 mm",
+        "Diameter": "230 mm",
+        "Valve": "DIN 9 right-hand thread, brass body",
+        "Safety": "Burst disc over-pressure relief, oil-free service"
+      },
+      "features": [
+        "Oxygen 99.5% minimum purity — certified for oxy-acetylene cutting and brazing to AS 4289",
+        "200 bar fill provides 10.5 m³ oxygen for a full day of heavy steel cutting at 30 mm plate thickness",
+        "Brass valve body with DIN 9 thread prevents galling and seizing common with steel valve stems",
+        "Burst disc over-pressure relief at 300 bar — secondary safety beyond the cylinder valve",
+        "Oil-free certified — cleaned and bagged for oxygen service to prevent combustion hazard",
+        "BOC Linde Group global supply chain with cylinder traceability and 5-year hydrostatic testing"
+      ],
+      "availability": "Available for Rent"
+    },
+    {
+      "slug": "linde-40l-acetylene-gas-cylinder",
+      "name": "Linde 40L Acetylene Gas Cylinder",
+      "shortDescription": "Linde 40 L acetylene gas cylinder with porous mass filler. Dissolved acetylene for oxy-acetylene cutting, welding, and heating in construction steelwork and demolition.",
+      "description": "Linde 40 L acetylene gas cylinder with porous mass filler. Dissolved acetylene for oxy-acetylene cutting, welding, and heating in construction steelwork and demolition. Available for rent in Dubai with free delivery.",
+      "image": "/images/products/gas-cylinders-linde-40l-acetylene-gas-cylinder.webp",
+      "price": "Contact for Pricing",
+      "specifications": {
+        "Gas Type": "Dissolved Acetylene (DA)",
+        "Water Capacity": "40 L",
+        "Fill Pressure": "18 bar at 15°C",
+        "Gas Volume": "7.5 m³ at atmospheric pressure",
+        "Cylinder Weight": "52 kg (empty) / 60 kg (full)",
+        "Height": "1,000 mm",
+        "Diameter": "250 mm",
+        "Valve": "Left-hand thread brass, with flashback arrestor",
+        "Internal": "Porous mass monolith with acetone solvent",
+        "Standard": "ISO 3807 safety standard for acetylene cylinders"
+      },
+      "features": [
+        "Porous mass monolith filler dissolves acetylene in acetone — stable up to 18 bar without decomposition",
+        "Left-hand thread valve with integral flashback arrestor prevents reverse gas flow and internal ignition",
+        "7.5 m³ acetylene at 3-5 L/min cutting rate pairs perfectly with one 50 L oxygen cylinder per day",
+        "ISO 3807 compliant cylinder with fusible plug safety device that melts at 100°C in fire conditions",
+        "Linde cylinder tracking with QR code label for instant cylinder history and test date verification",
+        "52 kg empty weight with steel base ring for stable vertical storage in cylinder cages and banks"
+      ],
+      "availability": "Available for Rent"
+    }
+  ]
+}

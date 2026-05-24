@@ -1,0 +1,39 @@
+{
+  "slug": "threaders",
+  "name": "Pipe Threaders",
+  "description": "Heavy-duty pipe threading and cutting machines for plumbing, HVAC, and industrial piping work.",
+  "image": "/images/products/threaders-ridgid-1224.webp",
+  "ogImage": "/images/products/threaders-ridgid-1224.webp",
+  "canonicalPath": "/equipment/threaders",
+  "machines": [
+    {
+      "slug": "ridgid-1224-pipe-threading-machine",
+      "name": "RIDGID 1224 Pipe Threading Machine",
+      "shortDescription": "Heavy-duty pipe threading and cutting machine for 1/2 inch to 4 inch pipe capacity. Portable with wheeled stand for job site mobility.",
+      "description": "Heavy-duty pipe threading and cutting machine for 1/2 inch to 4 inch pipe capacity. Portable with wheeled stand for job site mobility. Available for rent in Dubai with free delivery.",
+      "image": "/images/products/threaders-ridgid-1224.webp",
+      "price": "Contact for Pricing",
+      "specifications": {
+        "Pipe Capacity": "1/2\" - 4\" (12-100mm)",
+        "Thread Type": "NPT/BSPT",
+        "Motor": "1/2 HP 115V/230V",
+        "Spindle Speed": "36 RPM",
+        "Cutter": "Alloy steel",
+        "Die Head": "Quick-opening",
+        "Reamer": "1/2\" - 2\" (self-opening)",
+        "Oil Reservoir": "3.8 L",
+        "Weight": "150 kg",
+        "Stand": "Wheeled with tool storage tray"
+      },
+      "features": [
+        "1/2\" to 4\" pipe capacity",
+        "NPT and BSPT thread types",
+        "Quick-opening die head for efficiency",
+        "Self-opening reamer",
+        "Wheeled stand for job site mobility",
+        "Alloy steel cutter for durability"
+      ],
+      "availability": "Available for Rent"
+    }
+  ]
+}

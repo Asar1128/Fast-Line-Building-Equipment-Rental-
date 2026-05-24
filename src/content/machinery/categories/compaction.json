@@ -1,0 +1,307 @@
+{
+  "slug": "compaction",
+  "name": "Compaction Equipment",
+  "description": "Vibratory rollers and compaction equipment for asphalt, soil, and road construction projects.",
+  "image": "/images/products/compaction-bomag-bw-65-h.webp",
+  "ogImage": "/images/products/compaction-bomag-bw-65-h.webp",
+  "canonicalPath": "/equipment/compaction",
+  "machines": [
+    {
+      "slug": "bomag-bw-65-h-walk-behind-vibratory-roller",
+      "name": "BOMAG BW 65 H Walk-Behind Vibratory Roller",
+      "shortDescription": "Compact walk-behind double drum vibratory roller for asphalt and soil compaction. Ideal for small to medium construction projects, sidewalks, driveways, and repair work.",
+      "description": "Compact walk-behind double drum vibratory roller for asphalt and soil compaction. Ideal for small to medium construction projects, sidewalks, driveways, and repair work. Available for rent in Dubai with free delivery.",
+      "image": "/images/products/compaction-bomag-bw-65-h.webp",
+      "price": "Contact for Pricing",
+      "specifications": {
+        "Operating Weight": "650 kg",
+        "Drum Width": "650 mm",
+        "Engine": "Honda GX390 petrol engine",
+        "Centrifugal Force": "15 kN",
+        "Travel Speed": "0-4 km/h",
+        "Static Linear Load": "12.5 kg/cm",
+        "Water Tank Capacity": "60 L",
+        "Dimensions (LxWxH)": "1900x750x1100 mm"
+      },
+      "features": [
+        "Honda GX390 reliable petrol engine",
+        "Double drum vibratory design",
+        "15 kN centrifugal force for effective compaction",
+        "Compact size for tight spaces",
+        "60 L water tank for drum wetting",
+        "Ideal for sidewalks, driveways, and patch work"
+      ],
+      "availability": "Available for Rent"
+    },
+    {
+      "slug": "bomag-bw-90-ad-ride-on-tandem-vibratory-roller",
+      "name": "BOMAG BW 90 AD Ride-On Tandem Vibratory Roller",
+      "shortDescription": "Small ride-on double drum asphalt roller for road construction, parking lots, and repair work. Articulated steering for maneuverability.",
+      "description": "Small ride-on double drum asphalt roller for road construction, parking lots, and repair work. Articulated steering for maneuverability. Available for rent in Dubai with free delivery.",
+      "image": "/images/products/compaction-bomag-bw-90-ad.webp",
+      "price": "Contact for Pricing",
+      "specifications": {
+        "Operating Weight": "1680 kg",
+        "Drum Width": "900 mm",
+        "Engine": "Kubota D1105 diesel (18.5 kW)",
+        "Centrifugal Force": "42 kN",
+        "Vibration Frequency": "60 Hz",
+        "Travel Speed": "0-10 km/h",
+        "Gradeability": "30%",
+        "Water Tank": "2x180 L",
+        "Turning Radius": "2700 mm",
+        "Dimensions": "2530x1180x2450 mm"
+      },
+      "features": [
+        "Ride-on operator comfort",
+        "Articulated steering for tight maneuverability",
+        "42 kN centrifugal force",
+        "Kubota diesel engine for efficiency",
+        "Dual 180 L water tanks",
+        "30% gradeability for slopes"
+      ],
+      "availability": "Available for Rent"
+    },
+    {
+      "slug": "bomag-bpr-35-60-reversible-plate-compactor",
+      "name": "BOMAG BPR 35/60 Reversible Plate Compactor",
+      "shortDescription": "Reversible vibratory plate compactor with Honda GX160 engine delivering 35 kN centrifugal force. Ideal for trench compaction, granular soils, and interlocking pavers.",
+      "description": "Reversible vibratory plate compactor with Honda GX160 engine delivering 35 kN centrifugal force. Ideal for trench compaction, granular soils, and interlocking pavers. Available for rent in Dubai with free delivery.",
+      "image": "/images/products/compaction-bomag-bpr-35-60-reversible-plate-compactor.webp",
+      "price": "Contact for Pricing",
+      "specifications": {
+        "Operating Weight": "68 kg",
+        "Engine": "Honda GX160 4-stroke petrol",
+        "Engine Power": "4.0 kW (5.4 HP)",
+        "Centrifugal Force": "35 kN",
+        "Plate Size": "350 x 600 mm",
+        "Compaction Depth": "Up to 30 cm",
+        "Travel Speed": "25 m/min",
+        "Frequency": "98 Hz",
+        "Fuel Tank": "3.6 L",
+        "Starting System": "Recoil",
+        "Drive": "Reversible (forward/reverse)"
+      },
+      "features": [
+        "Reversible drive for maneuvering in tight trenches",
+        "Honda GX160 commercial-grade petrol engine",
+        "35 kN centrifugal force suitable for granular and mixed soils",
+        "Compact 350mm plate width fits narrow excavations",
+        "Durable cast base plate with reinforced edges",
+        "Low hand-arm vibration (HAV) levels for operator comfort"
+      ],
+      "availability": "Available for Rent"
+    },
+    {
+      "slug": "mikasa-mtx-60e-tamping-rammer",
+      "name": "Mikasa MTX-60E Tamping Rammer",
+      "shortDescription": "Lightweight petrol-powered tamping rammer with 13 kN impact force and 650 blows per minute. Designed for cohesive soils, clay, and trench backfill compaction.",
+      "description": "Lightweight petrol-powered tamping rammer with 13 kN impact force and 650 blows per minute. Designed for cohesive soils, clay, and trench backfill compaction. Available for rent in Dubai with free delivery.",
+      "image": "/images/products/compaction-mikasa-mtx-60e-tamping-rammer.webp",
+      "price": "Contact for Pricing",
+      "specifications": {
+        "Operating Weight": "60 kg",
+        "Engine": "Robin EH12-2D 4-stroke petrol",
+        "Engine Power": "2.6 kW (3.5 HP)",
+        "Impact Force": "13 kN per blow",
+        "Blow Rate": "650 blows/min",
+        "Shoe Size": "285 x 340 mm",
+        "Compaction Depth": "Up to 50 cm",
+        "Jump Height": "50 mm",
+        "Fuel Tank": "3.0 L",
+        "Starting System": "Recoil"
+      },
+      "features": [
+        "Optimized for cohesive and clay soils with high impact per blow",
+        "Self-cleaning shoe prevents mud and clay build-up during operation",
+        "Lightweight 60 kg design for easy transport between lifts",
+        "Low-maintenance Robin EH12 engine with proven field reliability",
+        "Narrow 285mm shoe fits confined trench work and footings",
+        "50 cm compaction depth in a single pass on cohesive material"
+      ],
+      "availability": "Available for Rent"
+    },
+    {
+      "slug": "wacker-neuson-bs60-4s-vibratory-rammer",
+      "name": "Wacker Neuson BS60-4s Vibratory Rammer",
+      "shortDescription": "High-performance 2-stroke vibratory rammer with tool-less shoe change and integrated oil injection. Excels in clay, silt, and cohesive soil compaction up to 55 cm depth.",
+      "description": "High-performance 2-stroke vibratory rammer with tool-less shoe change and integrated oil injection. Excels in clay, silt, and cohesive soil compaction up to 55 cm depth. Available for rent in Dubai with free delivery.",
+      "image": "/images/products/compaction-wacker-neuson-bs60-4s-vibratory-rammer.webp",
+      "price": "Contact for Pricing",
+      "specifications": {
+        "Operating Weight": "66 kg",
+        "Engine": "Wacker Neuson WM 80 2-stroke petrol",
+        "Engine Power": "2.0 kW (2.7 HP)",
+        "Impact Force": "14 kN per blow",
+        "Blow Rate": "680 blows/min",
+        "Shoe Size": "280 x 330 mm",
+        "Compaction Depth": "Up to 55 cm",
+        "Fuel Mixture": "100:1 petrol-to-oil ratio",
+        "Fuel Tank": "2.8 L",
+        "Starting System": "Recoil",
+        "Oil Injection": "Integrated auto-lube system"
+      },
+      "features": [
+        "Tool-less shoe change system — swap shoes in under 2 minutes",
+        "Integrated oil injection eliminates manual fuel mixing errors",
+        "55 cm compaction depth in cohesive and clay soil conditions",
+        "Low-vibration guide handle with four-point dampening system",
+        "Wacker Neuson 2-stroke engine tuned for high ambient temperatures",
+        "Narrow 280mm shoe ideal for utility trenches and pipe bedding"
+      ],
+      "availability": "Available for Rent"
+    },
+    {
+      "slug": "husqvarna-lf-75-lat-forward-plate-compactor",
+      "name": "Husqvarna LF 75 LAT Forward Plate Compactor",
+      "shortDescription": "Forward-plate compactor with 400mm wide base plate and Honda engine. Suitable for sand, gravel, and asphalt patchwork with optional water tank for hot-mix finishing.",
+      "description": "Forward-plate compactor with 400mm wide base plate and Honda engine. Suitable for sand, gravel, and asphalt patchwork with optional water tank for hot-mix finishing. Available for rent in Dubai with free delivery.",
+      "image": "/images/products/compaction-husqvarna-lf-75-lat-forward-plate-compactor.webp",
+      "price": "Contact for Pricing",
+      "specifications": {
+        "Operating Weight": "78 kg",
+        "Engine": "Honda GX160 4-stroke petrol",
+        "Engine Power": "4.0 kW (5.4 HP)",
+        "Centrifugal Force": "18 kN",
+        "Plate Size": "400 x 580 mm",
+        "Compaction Depth": "Up to 25 cm",
+        "Frequency": "85 Hz",
+        "Travel Speed": "22 m/min",
+        "Fuel Tank": "3.6 L",
+        "Starting System": "Recoil",
+        "Water Tank": "Optional 10 L attachment for asphalt"
+      },
+      "features": [
+        "Wide 400mm base plate for faster coverage on paths and driveways",
+        "Honda GX160 engine with proven hot-weather reliability in Gulf conditions",
+        "Optional integrated water tank for hot-mix asphalt finishing work",
+        "Foldable guide handle for compact transport between job sites",
+        "Low noise 85 Hz frequency for reduced operator fatigue over long shifts",
+        "Forward-only design with fewer moving parts than reversible models"
+      ],
+      "availability": "Available for Rent"
+    },
+    {
+      "slug": "jcb-vmt-260-120-tandem-vibratory-roller",
+      "name": "JCB VMT 260-120 Tandem Vibratory Roller",
+      "shortDescription": "Articulated tandem vibratory roller with 1,200mm drum width and pressurized water spray. Designed for asphalt finishing, driveways, and road repair at 2,600 kg.",
+      "description": "Articulated tandem vibratory roller with 1,200mm drum width and pressurized water spray. Designed for asphalt finishing, driveways, and road repair at 2,600 kg. Available for rent in Dubai with free delivery.",
+      "image": "/images/products/compaction-jcb-vmt-260-120-tandem-vibratory-roller.webp",
+      "price": "Contact for Pricing",
+      "specifications": {
+        "Operating Weight": "2,600 kg",
+        "Engine": "Kubota D1703 diesel 3-cylinder",
+        "Engine Power": "18.8 kW (25.2 HP)",
+        "Drum Width": "1,200 mm",
+        "Drum Diameter": "700 mm",
+        "Centrifugal Force": "30 kN (dual-drum)",
+        "Frequency": "55 Hz / 60 Hz dual setting",
+        "Compaction Depth": "Up to 30 cm on granular soil",
+        "Water Tank": "180 L pressurized spray system",
+        "Gradeability": "35% with vibration engaged",
+        "Steering": "Articulated joint ±30°",
+        "Drive": "Hydrostatic on both drums"
+      },
+      "features": [
+        "Articulated steering for tight-radius turns and precise joint tracking",
+        "Dual-drum vibration with selectable 55/60 Hz frequency settings",
+        "180 L pressurized water spray prevents asphalt pickup on hot drums",
+        "Kubota diesel engine with excellent parts availability across the UAE",
+        "Operator platform with ROPS certification for site safety compliance",
+        "Hydrostatic drive on both drums for smooth starts without material shoving"
+      ],
+      "availability": "Available for Rent"
+    },
+    {
+      "slug": "dynapac-ca250d-single-drum-vibratory-roller",
+      "name": "Dynapac CA250D Single Drum Vibratory Roller",
+      "shortDescription": "Heavy single-drum vibratory roller with 125 HP Cummins diesel and 2,130mm drum. Built for large-scale soil compaction, embankments, and sub-base preparation at 250 kN force.",
+      "description": "Heavy single-drum vibratory roller with 125 HP Cummins diesel and 2,130mm drum. Built for large-scale soil compaction, embankments, and sub-base preparation at 250 kN force. Available for rent in Dubai with free delivery.",
+      "image": "/images/products/compaction-dynapac-ca250d-single-drum-vibratory-roller.webp",
+      "price": "Contact for Pricing",
+      "specifications": {
+        "Operating Weight": "10,000 kg",
+        "Engine": "Cummins QSB 4.5 Tier 3 turbo diesel",
+        "Engine Power": "93 kW (125 HP)",
+        "Drum Width": "2,130 mm",
+        "Drum Diameter": "1,500 mm",
+        "Centrifugal Force": "250 kN high / 165 kN low",
+        "Amplitude": "1.7 mm high / 0.8 mm low",
+        "Frequency": "29 Hz / 33 Hz selectable",
+        "Compaction Depth": "Up to 1.2 m granular soil",
+        "Gradeability": "50%",
+        "Fuel Tank": "250 L",
+        "Cabin": "ROPS/FOPS certified enclosed cabin"
+      },
+      "features": [
+        "Cummins QSB 4.5 turbo diesel with 250 L tank for full-shift operation",
+        "Dual amplitude settings (1.7 mm / 0.8 mm) for rockfill and soil lifts",
+        "2,130 mm drum with automatic drum scrapers for clean compaction",
+        "Enclosed ROPS/FOPS cabin with air conditioning for UAE summer work",
+        "50% gradeability handles steep embankments and ramp compaction",
+        "Hydrostatic drive with no-spin differential for soft ground traction"
+      ],
+      "availability": "Available for Rent"
+    },
+    {
+      "slug": "weber-cr-3-reversible-plate-compactor",
+      "name": "Weber CR 3 Reversible Plate Compactor",
+      "shortDescription": "Reversible plate compactor with Honda GX200 engine and 30 kN force. Wide 450mm plate covers more area per pass — rated for granular soil, paving, and trench backfill.",
+      "description": "Reversible plate compactor with Honda GX200 engine and 30 kN force. Wide 450mm plate covers more area per pass — rated for granular soil, paving, and trench backfill. Available for rent in Dubai with free delivery.",
+      "image": "/images/products/compaction-weber-cr-3-reversible-plate-compactor.webp",
+      "price": "Contact for Pricing",
+      "specifications": {
+        "Operating Weight": "92 kg",
+        "Engine": "Honda GX200 4-stroke petrol",
+        "Engine Power": "4.8 kW (6.5 HP)",
+        "Centrifugal Force": "30 kN",
+        "Plate Size": "450 x 550 mm",
+        "Compaction Depth": "Up to 30 cm",
+        "Frequency": "85 Hz",
+        "Travel Speed": "23 m/min forward / 21 m/min reverse",
+        "Fuel Tank": "3.6 L",
+        "Starting System": "Recoil",
+        "Drive": "Reversible forward/reverse via handle"
+      },
+      "features": [
+        "Honda GX200 commercial engine delivering 6.5 HP for heavy use",
+        "Reversible drive with forward/reverse control directly on the handle",
+        "Wide 450mm plate for 25% more coverage per pass than standard plates",
+        "Integrated crane lifting point for safe hoisting into deep excavations",
+        "Heavy-duty exciter unit sealed against dust and sand ingress",
+        "30 kN force sufficient for interlocking pavers and granular sub-base"
+      ],
+      "availability": "Available for Rent"
+    },
+    {
+      "slug": "wacker-neuson-dpu6555-diesel-reversible-plate-compactor",
+      "name": "Wacker Neuson DPU6555 Diesel Reversible Plate Compactor",
+      "shortDescription": "Heavy-duty diesel reversible plate compactor with Hatz 1B30 engine and 65 kN centrifugal force. Built for deep-lift compaction, large trenches, and infrastructure earthworks at 490 kg.",
+      "description": "Heavy-duty diesel reversible plate compactor with Hatz 1B30 engine and 65 kN centrifugal force. Built for deep-lift compaction, large trenches, and infrastructure earthworks at 490 kg. Available for rent in Dubai with free delivery.",
+      "image": "/images/products/compaction-wacker-neuson-dpu6555-diesel-reversible-plate-compactor.webp",
+      "price": "Contact for Pricing",
+      "specifications": {
+        "Operating Weight": "490 kg",
+        "Engine": "Hatz 1B30 1-cylinder air-cooled diesel",
+        "Engine Power": "5.4 kW (7.2 HP)",
+        "Centrifugal Force": "65 kN",
+        "Plate Size": "600 x 750 mm",
+        "Compaction Depth": "Up to 50 cm",
+        "Frequency": "69 Hz",
+        "Travel Speed": "23 m/min",
+        "Fuel Tank": "5.0 L",
+        "Starting System": "Electric start with recoil backup",
+        "Drive": "Reversible forward/reverse"
+      },
+      "features": [
+        "65 kN centrifugal force delivers deepest compaction in its class at 50 cm",
+        "Hatz air-cooled diesel with no radiator — reliable in 50°C desert ambient",
+        "Electric start with recoil backup for guaranteed ignition every time",
+        "Wide 600 x 750 mm plate with reversible drive for large-area coverage",
+        "Remote throttle control accessible from the guide handle during operation",
+        "Sealed exciter bearing housing requires zero maintenance in dusty conditions"
+      ],
+      "availability": "Available for Rent"
+    }
+  ]
+}

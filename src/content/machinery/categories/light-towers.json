@@ -1,0 +1,318 @@
+{
+  "slug": "light-towers",
+  "name": "Light Towers",
+  "description": "Mobile diesel-powered light towers for construction sites, events, and emergency lighting with extendable masts.",
+  "image": "/images/products/light-towers-powko-portable.webp",
+  "ogImage": "/images/products/light-towers-powko-portable.webp",
+  "canonicalPath": "/equipment/light-towers",
+  "machines": [
+    {
+      "slug": "powko-portable-light-tower",
+      "name": "Powko Portable Light Tower",
+      "shortDescription": "Mobile diesel-powered LED light tower for construction sites, events, and emergency lighting. Trailer-mounted with extendable mast.",
+      "description": "Mobile diesel-powered LED light tower for construction sites, events, and emergency lighting. Trailer-mounted with extendable mast. Available for rent in Dubai with free delivery.",
+      "image": "/images/products/light-towers-powko-portable.webp",
+      "price": "Contact for Pricing",
+      "specifications": {
+        "Light Source": "4x 1000W metal halide or LED (400W each)",
+        "Mast Height": "9 m (30 ft) extendable",
+        "Rotation": "360° manual rotation",
+        "Engine": "Kubota/Yanmar diesel 6-8 kW",
+        "Fuel Tank": "80-100 L",
+        "Runtime": "60-80 hours",
+        "Trailer": "Single axle with stabilizer jacks",
+        "Coverage Area": "4000-5000 m²",
+        "Wind Rating": "80 km/h",
+        "Noise": "65 dB(A) at 7m",
+        "Weight": "900 kg",
+        "Options": "Auto start, timer, dusk sensor"
+      },
+      "features": [
+        "9 m extendable mast for wide coverage",
+        "4000-5000 m² illumination area",
+        "60-80 hour runtime on single fill",
+        "360° manual rotation",
+        "Auto start and dusk sensor options",
+        "Trailer-mounted for easy transport"
+      ],
+      "availability": "Available for Rent"
+    },
+    {
+      "slug": "mak-diesel-light-tower",
+      "name": "MAK Diesel Light Tower",
+      "shortDescription": "Professional diesel-powered light tower with galvanized mast and stabilizers. Used for night construction, mining, and outdoor events.",
+      "description": "Professional diesel-powered light tower with galvanized mast and stabilizers. Used for night construction, mining, and outdoor events. Available for rent in Dubai with free delivery.",
+      "image": "/images/products/light-towers-mak-diesel.webp",
+      "price": "Contact for Pricing",
+      "specifications": {
+        "Lamp Configuration": "4x 1000W metal halide lamps",
+        "Mast Height": "9 m hydraulic lift",
+        "Engine": "Perkins/Kubota diesel 6.7 kW",
+        "Fuel Tank": "90 L",
+        "Runtime": "70+ hours",
+        "Trailer": "Single axle with parking brake",
+        "Light Output": "440,000 lumens",
+        "Coverage": "5000 m²",
+        "Wind Resistance": "100 km/h (with guy wires)",
+        "Controller": "Deep Sea 4520",
+        "Noise": "68 dB(A)",
+        "Weight": "850 kg"
+      },
+      "features": [
+        "440,000 lumens total light output",
+        "9 m hydraulic mast lift",
+        "5000 m² coverage area",
+        "100 km/h wind resistance with guy wires",
+        "Deep Sea 4520 controller",
+        "Low oil shutdown and emergency stop"
+      ],
+      "availability": "Available for Rent"
+    },
+    {
+      "slug": "generac-magnum-mlt6smd-led-light-tower",
+      "name": "Generac Magnum MLT6SMD LED Light Tower",
+      "shortDescription": "Diesel LED light tower with 4×350W floodlights on a 9 m vertical mast. Generac Magnum design for 24-hour construction, road works, and event lighting with 6 kW auxiliary power.",
+      "description": "Diesel LED light tower with 4×350W floodlights on a 9 m vertical mast. Generac Magnum design for 24-hour construction, road works, and event lighting with 6 kW auxiliary power. Available for rent in Dubai with free delivery.",
+      "image": "/images/products/light-towers-generac-magnum-mlt6smd-led-light-tower.webp",
+      "price": "Contact for Pricing",
+      "specifications": {
+        "Lighting": "4×350W LED floodlights",
+        "Total Luminous Flux": "160,000 lumens",
+        "Mast Height": "9 m vertical telescopic",
+        "Mast Rotation": "360° manual rotation",
+        "Coverage Area": "3,500-4,500 m²",
+        "Engine": "Isuzu 3-cylinder diesel",
+        "Engine Power": "6.8 kW (9 HP)",
+        "Auxiliary Power": "6 kW single-phase outlets",
+        "Fuel Tank": "150 L",
+        "Run Time": "100+ hours at full lighting load",
+        "Operating Weight": "1,120 kg",
+        "Towable": "Yes — highway-rated single-axle chassis"
+      },
+      "features": [
+        "4×350W LED array delivers 160,000 lumens across 4,500 m² coverage",
+        "9 m telescopic mast with 360° rotation for precise lighting placement",
+        "150 L diesel tank provides 100+ hours of continuous lighting without refueling",
+        "6 kW auxiliary power runs tools, radios, and site equipment from the tower",
+        "LED lamps rated for 50,000 hours eliminate bulb changes during rental periods",
+        "Highway-towable single-axle chassis with integrated outriggers and leveling jacks"
+      ],
+      "availability": "Available for Rent"
+    },
+    {
+      "slug": "wacker-neuson-ltn6l-diesel-light-tower",
+      "name": "Wacker Neuson LTN6L Diesel Light Tower",
+      "shortDescription": "Compact diesel LED light tower with 4×320W lamps and 8.5 m vertical mast. Wacker Neuson LTN series for roadworks, security lighting, and small to mid-size construction sites.",
+      "description": "Compact diesel LED light tower with 4×320W lamps and 8.5 m vertical mast. Wacker Neuson LTN series for roadworks, security lighting, and small to mid-size construction sites. Available for rent in Dubai with free delivery.",
+      "image": "/images/products/light-towers-wacker-neuson-ltn6l-diesel-light-tower.webp",
+      "price": "Contact for Pricing",
+      "specifications": {
+        "Lighting": "4×320W LED floodlights",
+        "Total Luminous Flux": "140,000 lumens",
+        "Mast Height": "8.5 m vertical telescopic",
+        "Mast Rotation": "340° manual rotation",
+        "Coverage Area": "3,000-4,000 m²",
+        "Engine": "Kubota D722 3-cylinder diesel",
+        "Engine Power": "6.3 kW (8.5 HP)",
+        "Auxiliary Power": "5.5 kW single-phase outlets",
+        "Fuel Tank": "100 L",
+        "Run Time": "75+ hours continuous lighting",
+        "Operating Weight": "980 kg",
+        "Towable": "Yes — single-axle with drum brake"
+      },
+      "features": [
+        "140,000 lumens from 4×320W LED array with instant-on cold-weather performance",
+        "8.5 m mast with 340° rotation and single-operator manual winch deployment",
+        "Kubota diesel with 100 L tank delivers 75+ hours of uninterrupted site lighting",
+        "5.5 kW auxiliary power with GFCI-protected outlets for hand tools and pumps",
+        "Compact 980 kg footprint fits two towers side-by-side on a standard trailer",
+        "Galvanized mast sections and stainless hardware for corrosion resistance in coastal sites"
+      ],
+      "availability": "Available for Rent"
+    },
+    {
+      "slug": "atlas-copco-hilight-v4-diesel-light-tower",
+      "name": "Atlas Copco HiLight V4 Diesel Light Tower",
+      "shortDescription": "Premium LED light tower with 4×280W lamps and 8.5 m mast. Atlas Copco HiLight V4 delivers 138,000 lumens with best-in-class fuel economy at 0.7 L/hr under LED load.",
+      "description": "Premium LED light tower with 4×280W lamps and 8.5 m mast. Atlas Copco HiLight V4 delivers 138,000 lumens with best-in-class fuel economy at 0.7 L/hr under LED load. Available for rent in Dubai with free delivery.",
+      "image": "/images/products/light-towers-atlas-copco-hilight-v4-diesel-light-tower.webp",
+      "price": "Contact for Pricing",
+      "specifications": {
+        "Lighting": "4×280W LED floodlights",
+        "Total Luminous Flux": "138,000 lumens",
+        "Mast Height": "8.5 m vertical telescopic",
+        "Mast Rotation": "360° manual rotation",
+        "Coverage Area": "3,200-4,000 m²",
+        "Engine": "Kubota D722 3-cylinder diesel",
+        "Engine Power": "7.2 kW (9.6 HP)",
+        "Auxiliary Power": "6.5 kW single-phase outlets",
+        "Fuel Tank": "108 L",
+        "Run Time": "150+ hours continuous",
+        "Operating Weight": "950 kg",
+        "Fuel Economy": "0.7 L/hr at full LED load"
+      },
+      "features": [
+        "0.7 L/hr fuel consumption at full LED load — lowest in its class",
+        "108 L tank delivers 150+ hours of continuous operation without intervention",
+        "Atlas Copco canopy with wide-opening service doors for daily checks in 60 seconds",
+        "LED array with asymmetric reflector design for even light distribution without hot spots",
+        "6.5 kW auxiliary output with automatic voltage regulation for sensitive electronics",
+        "Hardox steel canopy resists site impact, corrosion, and UV degradation in Gulf conditions"
+      ],
+      "availability": "Available for Rent"
+    },
+    {
+      "slug": "doosan-lsc-portable-light-tower",
+      "name": "Doosan LSC Portable Light Tower",
+      "shortDescription": "Portable diesel light tower with 4×1,000W metal halide lamps and 9 m mast. High-output lighting for large-scale construction, mining, and event sites requiring maximum illumination.",
+      "description": "Portable diesel light tower with 4×1,000W metal halide lamps and 9 m mast. High-output lighting for large-scale construction, mining, and event sites requiring maximum illumination. Available for rent in Dubai with free delivery.",
+      "image": "/images/products/light-towers-doosan-lsc-portable-light-tower.webp",
+      "price": "Contact for Pricing",
+      "specifications": {
+        "Lighting": "4×1,000W metal halide floodlights",
+        "Total Luminous Flux": "440,000 lumens",
+        "Mast Height": "9 m vertical telescopic",
+        "Mast Rotation": "360° manual rotation",
+        "Coverage Area": "5,000-6,500 m²",
+        "Engine": "Kubota D1005 3-cylinder diesel",
+        "Engine Power": "7.5 kW (10 HP)",
+        "Auxiliary Power": "6 kW single-phase outlets",
+        "Fuel Tank": "110 L",
+        "Run Time": "60+ hours continuous",
+        "Operating Weight": "1,050 kg",
+        "Towable": "Yes — single-axle highway chassis"
+      },
+      "features": [
+        "440,000 lumens from 4×1,000W metal halide — lights a football-pitch-sized area",
+        "9 m mast with 360° rotation puts light over the tallest earthmoving equipment",
+        "Metal halide lamps produce daylight-spectrum output for colour-critical inspection work",
+        "Kubota D1005 diesel with 110 L tank for 60+ hours of continuous high-output light",
+        "6 kW auxiliary power bank for running compressor, water pump, or site office trailer",
+        "Single-axle highway chassis tows at 100 km/h for fast mobilization between job sites"
+      ],
+      "availability": "Available for Rent"
+    },
+    {
+      "slug": "allmand-night-lite-pro-ii-light-tower",
+      "name": "Allmand Night-Lite Pro II Light Tower",
+      "shortDescription": "Heavy-duty metal halide light tower with 4×1,250W lamps on a 9 m mast. Allmand Night-Lite Pro II rated for the toughest environments — mining, oilfield, and major infrastructure.",
+      "description": "Heavy-duty metal halide light tower with 4×1,250W lamps on a 9 m mast. Allmand Night-Lite Pro II rated for the toughest environments — mining, oilfield, and major infrastructure. Available for rent in Dubai with free delivery.",
+      "image": "/images/products/light-towers-allmand-night-lite-pro-ii-light-tower.webp",
+      "price": "Contact for Pricing",
+      "specifications": {
+        "Lighting": "4×1,250W metal halide floodlights",
+        "Total Luminous Flux": "500,000 lumens",
+        "Mast Height": "9 m vertical telescopic",
+        "Mast Rotation": "360° manual rotation",
+        "Coverage Area": "5,500-7,000 m²",
+        "Engine": "Kubota D1105 3-cylinder diesel",
+        "Engine Power": "8.5 kW (11.5 HP)",
+        "Auxiliary Power": "7.2 kW single-phase outlets",
+        "Fuel Tank": "130 L",
+        "Run Time": "55+ hours continuous",
+        "Operating Weight": "1,200 kg",
+        "Towable": "Yes — heavy-duty single-axle chassis"
+      },
+      "features": [
+        "500,000 lumens — the highest output light tower in the Fast Line fleet",
+        "4×1,250W metal halide lamps with tempered glass lenses resist thermal shock",
+        "Kubota D1105 with 130 L tank: run one full shift on less than half a tank",
+        "9 m mast with dual winch redundancy — mast stays up even if one cable fails",
+        "7.2 kW auxiliary power with circuit breaker protection for site equipment",
+        "Allmand galvanized chassis — built for salt spray, mud, and constant relocation"
+      ],
+      "availability": "Available for Rent"
+    },
+    {
+      "slug": "pramac-lsw-portable-light-tower",
+      "name": "Pramac LSW Portable Light Tower",
+      "shortDescription": "Compact LED light tower with 4×320W lamps on a 7.8 m mast. Pramac LSW series designed for urban construction, road maintenance, and security lighting where space is tight.",
+      "description": "Compact LED light tower with 4×320W lamps on a 7.8 m mast. Pramac LSW series designed for urban construction, road maintenance, and security lighting where space is tight. Available for rent in Dubai with free delivery.",
+      "image": "/images/products/light-towers-pramac-lsw-portable-light-tower.webp",
+      "price": "Contact for Pricing",
+      "specifications": {
+        "Lighting": "4×320W LED floodlights",
+        "Total Luminous Flux": "140,000 lumens",
+        "Mast Height": "7.8 m vertical telescopic",
+        "Mast Rotation": "340° manual rotation",
+        "Coverage Area": "2,800-3,800 m²",
+        "Engine": "Yanmar L100 1-cylinder air-cooled diesel",
+        "Engine Power": "6.5 kW (8.7 HP)",
+        "Auxiliary Power": "5 kW single-phase outlets",
+        "Fuel Tank": "80 L",
+        "Run Time": "65+ hours continuous",
+        "Operating Weight": "850 kg",
+        "Towable": "Yes — compact single-axle"
+      },
+      "features": [
+        "Compact 850 kg footprint for tight urban sites and single-lane road closures",
+        "Yanmar L100 air-cooled diesel — no radiator, no coolant, starts first pull in desert conditions",
+        "7.8 m mast clears two-story buildings for neighborhood security and perimeter lighting",
+        "80 L tank runs 65+ hours — deploy Monday, refuel Thursday",
+        "LED array at 140,000 lumens with wide-angle optics for even ground illumination",
+        "Galvanized mast sections with stainless steel hardware for long marine and coastal service"
+      ],
+      "availability": "Available for Rent"
+    },
+    {
+      "slug": "chicago-pneumatic-cplt-v15-led-light-tower",
+      "name": "Chicago Pneumatic CPLT V15 LED Light Tower",
+      "shortDescription": "Ultra-portable LED light tower with 4×150W lamps on a 5.5 m mast. Gasoline-powered CPLT V15 for small excavations, events, and temporary security lighting at minimal fuel cost.",
+      "description": "Ultra-portable LED light tower with 4×150W lamps on a 5.5 m mast. Gasoline-powered CPLT V15 for small excavations, events, and temporary security lighting at minimal fuel cost. Available for rent in Dubai with free delivery.",
+      "image": "/images/products/light-towers-chicago-pneumatic-cplt-v15-led-light-tower.webp",
+      "price": "Contact for Pricing",
+      "specifications": {
+        "Lighting": "4×150W LED floodlights",
+        "Total Luminous Flux": "64,000 lumens",
+        "Mast Height": "5.5 m vertical telescopic",
+        "Coverage Area": "1,500-2,200 m²",
+        "Engine": "Honda GX160 4-stroke petrol",
+        "Engine Power": "4.0 kW (5.5 HP)",
+        "Auxiliary Power": "3 kVA single-phase outlets",
+        "Fuel Tank": "25 L",
+        "Run Time": "35+ hours continuous",
+        "Operating Weight": "420 kg",
+        "Towable": "Optional — compact wheelbarrow-style chassis"
+      },
+      "features": [
+        "420 kg with wheelbarrow handles — push into position by two workers, no truck needed",
+        "Honda GX160 petrol engine with 25 L tank: 35+ hours on a single fill",
+        "5.5 m mast clears excavation edges and construction hoardings for site security",
+        "64,000 lumens LED array covers small trench, piling, and utility maintenance zones",
+        "3 kVA auxiliary eliminates the need for a separate generator on small sites",
+        "Tool-free mast deployment — pull pin, crank winch, light is up in under 3 minutes"
+      ],
+      "availability": "Available for Rent"
+    },
+    {
+      "slug": "trime-x-eco-led-diesel-light-tower",
+      "name": "Trime X-Eco LED Diesel Light Tower",
+      "shortDescription": "Eco-focused LED light tower with 4×100W lamps on a 6 m mast. Trime X-Eco delivers efficient lighting for small sites, car parks, and municipal work with best-in-class fuel efficiency.",
+      "description": "Eco-focused LED light tower with 4×100W lamps on a 6 m mast. Trime X-Eco delivers efficient lighting for small sites, car parks, and municipal work with best-in-class fuel efficiency. Available for rent in Dubai with free delivery.",
+      "image": "/images/products/light-towers-trime-x-eco-led-diesel-light-tower.webp",
+      "price": "Contact for Pricing",
+      "specifications": {
+        "Lighting": "4×100W LED floodlights",
+        "Total Luminous Flux": "48,000 lumens",
+        "Mast Height": "6 m vertical telescopic",
+        "Coverage Area": "1,200-2,000 m²",
+        "Engine": "Honda GX160 4-stroke petrol",
+        "Engine Power": "3.5 kW (4.7 HP)",
+        "Auxiliary Power": "2.5 kVA single-phase outlets",
+        "Fuel Tank": "20 L",
+        "Run Time": "30+ hours continuous",
+        "Operating Weight": "380 kg",
+        "Fuel Economy": "0.65 L/hr under full load"
+      },
+      "features": [
+        "0.65 L/hr fuel consumption — the most fuel-efficient tower in the Fast Line fleet",
+        "4×100W LEDs at 48,000 lumens: adequate for small excavations and parking areas",
+        "380 kg with integrated fork pockets for one-minute loading without lifting gear",
+        "20 L tank runs 30+ hours: deploy at dusk Friday and return Monday morning",
+        "Honda GX160 engine — parts and service available at every hardware store in the UAE",
+        "6 m mast with single-operator deployment: pull pin, crank up, lock and illuminate"
+      ],
+      "availability": "Available for Rent"
+    }
+  ]
+}
